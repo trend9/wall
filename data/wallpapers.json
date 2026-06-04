@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780609650",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Epic Abstract",
+    "title_ja": "壮大な抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a chaotic but beautiful explosion of colorful smoke waves and geometric crystal shards. Generated with state-of-the-art AI.",
+    "description_ja": "カラフルな煙の波と幾何学的な結晶の破片のカオスでありながら美しい爆発を描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: abstract, fluid, acrylic, smoke, art",
+    "filename": "wallpaper_1780609650.jpg",
+    "date": "2026-06-04 21:51:30",
+    "timestamp": 1780609650,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780597488",
     "category": "space",
     "category_name_en": "Space",
