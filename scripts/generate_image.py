@@ -176,36 +176,50 @@ def main():
     encoded_prompt = urllib.parse.quote(prompt_en)
     seed = random.randint(0, 999999)
     # 1920x1080 resolution
-    url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1920&height=1080&nologo=true&seed={seed}"
-    
-    print(f"Requesting image from: {url}")
-    
     # Retry logic for rate limits/concurrency queue issues (e.g., 402/502/503 errors)
     max_retries = 6
-    backoff = 5
+    backoff = 3
     success = False
     
-    for attempt in range(1, max_retries + 1):
-        try:
-            response = requests.get(url, timeout=90)
-            if response.status_code == 200:
-                with open(filepath, 'wb') as f:
-                    f.write(response.content)
-                print(f"Successfully saved wallpaper to {filepath} (Attempt {attempt})")
-                success = True
-                break
-            elif response.status_code == 402:
-                print(f"Attempt {attempt}: Received 402 (Queue full / Rate limit). Retrying in {backoff} seconds...")
-                time.sleep(backoff)
-                backoff *= 1.5  # increase wait time slightly
-            else:
-                print(f"Attempt {attempt}: Received status code {response.status_code}. Retrying in {backoff} seconds...")
+    # Try different URL variations (full URL first, then fallback to parameterless URL)
+    urls_to_try = [
+        # Full featured URL
+        f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1920&height=1080&nologo=true&seed={seed}",
+        # Fallback 1: Simple URL without dimensions/nologo to hit the fast/default queue
+        f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}",
+        # Fallback 2: No query parameters at all (random seed inside prompt text)
+        f"https://image.pollinations.ai/prompt/{encoded_prompt}%20seed%20{seed}"
+    ]
+    
+    print("Beginning generation attempts with fallback strategies...")
+    for url_attempt in urls_to_try:
+        print(f"Targeting URL: {url_attempt}")
+        for attempt in range(1, 4):
+            try:
+                response = requests.get(url_attempt, timeout=60)
+                if response.status_code == 200:
+                    with open(filepath, 'wb') as f:
+                        f.write(response.content)
+                    print(f"Successfully saved wallpaper to {filepath}!")
+                    success = True
+                    break
+                elif response.status_code == 402:
+                    print(f"Attempt {attempt}: Received 402 (Queue full). Retrying in {backoff} seconds...")
+                    time.sleep(backoff)
+                    backoff *= 1.5
+                else:
+                    print(f"Attempt {attempt}: Received status code {response.status_code}. Retrying in {backoff} seconds...")
+                    time.sleep(backoff)
+                    backoff *= 1.5
+            except Exception as e:
+                print(f"Attempt {attempt}: Request failed with error: {e}. Retrying in {backoff} seconds...")
                 time.sleep(backoff)
                 backoff *= 1.5
-        except Exception as e:
-            print(f"Attempt {attempt}: Request failed with error: {e}. Retrying in {backoff} seconds...")
-            time.sleep(backoff)
-            backoff *= 1.5
+        
+        if success:
+            break
+        else:
+            print("Current URL strategy failed. Switching to fallback strategy...")
 
     if success:
         # Create a database record
@@ -230,7 +244,7 @@ def main():
         save_wallpapers(existing_wallpapers)
         print("Successfully updated database!")
     else:
-        print("Failed to generate image after all retries.")
+        print("Failed to generate image after trying all fallback strategies.")
 
 if __name__ == "__main__":
     main()
