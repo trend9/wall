@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aetheria Wallpapers - AI-Generated 4K Wallpapers</title>
+  <meta name="description" content="Discover premium, daily AI-generated 4K wallpapers. Explore, download, and copy prompts for beautiful digital art in multiple languages.">
+  <meta name="author" content="Aetheria">
+  
+  <!-- CSS Link -->
+  <link rel="stylesheet" href="index.css">
+  
+  <!-- Feather Icons for modern vector icons -->
+  <script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
+
+  <!-- Ambient Glow Effects -->
+  <div class="ambient-glow-1"></div>
+  <div class="ambient-glow-2"></div>
+
+  <!-- Header Navigation -->
+  <header>
+    <div class="nav-container">
+      <a href="#" class="logo" id="logo-link">
+        <span class="logo-icon"></span>
+        Aetheria
+      </a>
+      <div class="nav-actions">
+        <!-- Language Switcher -->
+        <div class="lang-toggle" id="langToggle">
+          <button class="lang-btn active" data-lang="ja">日本語</button>
+          <button class="lang-btn" data-lang="en">EN</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section (Latest Wallpaper) -->
+  <section class="hero" id="hero-section">
+    <!-- Will be injected by index.js -->
+  </section>
+
+  <!-- Control Controls (Search and Categories) -->
+  <section class="controls-section">
+    <div class="search-filter-row">
+      <!-- Search Input -->
+      <div class="search-box">
+        <i data-feather="search" class="search-icon"></i>
+        <input type="text" id="searchInput" class="search-input" placeholder="壁紙を検索...">
+      </div>
+      
+      <!-- Category Filter List -->
+      <div class="categories-wrapper" id="categories-container">
+        <!-- Will be injected dynamically -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Wallpapers Gallery -->
+  <main class="gallery-section">
+    <div class="gallery-grid" id="gallery-grid">
+      <!-- Cards will be injected by index.js -->
+    </div>
+    
+    <!-- Empty State -->
+    <div class="empty-state" id="empty-state" style="display: none;">
+      <i data-feather="image" style="width: 48px; height: 48px; color: var(--text-muted); margin-bottom: 1rem;"></i>
+      <div class="empty-title" id="empty-title">壁紙が見つかりません</div>
+      <div class="empty-desc" id="empty-desc">別のキーワードやカテゴリーで検索をお試しください。</div>
+    </div>
+  </main>
+
+  <!-- Fullscreen Modal View -->
+  <div class="modal" id="wallpaperModal">
+    <button class="modal-close" id="modalClose">
+      <i data-feather="x"></i>
+    </button>
+    <div class="modal-content">
+      <div class="modal-img-section">
+        <img class="modal-preview-img" id="modalImg" src="" alt="Wallpaper Preview">
+      </div>
+      <div class="modal-details">
+        <span class="badge" id="modalCategoryBadge">CATEGORY</span>
+        <h2 class="hero-title" id="modalTitle" style="font-size: 2rem; margin-bottom: 0.5rem;">Wallpaper Title</h2>
+        <p class="hero-desc" id="modalDesc" style="font-size: 0.95rem; margin-bottom: 1rem;">Wallpaper description...</p>
+        
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.5rem; display: flex; flex-direction: column; gap: 0.25rem;">
+          <div id="modalDate">公開日: 2026-06-04</div>
+          <div id="modalResolution">解像度: 1920 x 1080 (16:9)</div>
+        </div>
+
+        <h4 style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text-primary);">Generation Prompt</h4>
+        <div class="modal-prompt-box">
+          <button class="copy-prompt-btn" id="copyPromptBtn">COPY</button>
+          <span class="modal-prompt-text" id="modalPromptText">Detailed prompt text here...</span>
+        </div>
+
+        <div style="display: flex; gap: 1rem; margin-top: auto;">
+          <a href="#" class="btn btn-primary" id="modalDownloadBtn" download style="flex: 1;">
+            <i data-feather="download"></i>
+            <span id="downloadText">ダウンロード</span>
+          </a>
+          <button class="btn btn-secondary btn-icon like-btn" id="modalLikeBtn">
+            <i data-feather="heart"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast">プロンプトをクリップボードにコピーしました！</div>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 Aetheria. All rights reserved.</p>
+    <p><span id="footer-tagline">毎日6回自動更新されるAI壁紙ステーション</span></p>
+  </footer>
+
+  <!-- Script logic -->
+  <script src="index.js"></script>
+</body>
+</html>

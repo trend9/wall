@@ -1,0 +1,3 @@
+# Note: GitHub Actions workflows must reside in the .github/workflows directory.
+# The active workflow has been created at: .github/workflows/generate_wallpaper.yml
+# Please use that file for GitHub Actions.
