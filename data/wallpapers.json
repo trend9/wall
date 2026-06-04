@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780585470",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Cinematic Abstract",
+    "title_ja": "映画のような抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a fluid dynamic flow of liquid gold and deep blue ink blending together with glitter details. Generated with state-of-the-art AI.",
+    "description_ja": "ラメのディテールとブレンドし合う、液体ゴールドとディープブルーのインクの流体的な流れを描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: abstract, fluid, acrylic, smoke, art",
+    "filename": "wallpaper_1780585470.jpg",
+    "date": "2026-06-04 15:05:18",
+    "timestamp": 1780585470,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780585181",
     "category": "space",
     "category_name_en": "Space",
