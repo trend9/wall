@@ -176,87 +176,109 @@ def main():
     encoded_prompt = urllib.parse.quote(prompt_en)
     seed = random.randint(0, 999999)
     # 1920x1080 resolution
-    # Retry logic for rate limits/concurrency queue issues (e.g., 402/502/503 errors)
-    max_retries = 6
-    backoff = 3
-    success = False
-    
-    # Try different URL variations (full URL first, then fallback to parameterless URL)
-    urls_to_try = [
-        # Full featured URL
-        f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1920&height=1080&nologo=true&seed={seed}",
-        # Fallback 1: Simple URL without dimensions/nologo to hit the fast/default queue
-        f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}",
-        # Fallback 2: No query parameters at all (random seed inside prompt text)
-        f"https://image.pollinations.ai/prompt/{encoded_prompt}%20seed%20{seed}"
-    ]
-    
-    print("Beginning generation attempts with fallback strategies...")
-    for url_attempt in urls_to_try:
-        backoff = 3  # Reset backoff delay for each URL strategy
-        print(f"Targeting URL: {url_attempt}")
+    # 1. Try Hugging Face Inference API if HF_TOKEN is configured (Highly recommended, fast, & guaranteed)
+    hf_token = os.environ.get('HF_TOKEN')
+    if hf_token:
+        print("HF_TOKEN found! Initiating Hugging Face Inference API...")
+        # Use high-quality Stable Diffusion XL or FLUX model
+        hf_model = "stabilityai/stable-diffusion-xl-base-1.0"
+        hf_url = f"https://api-inference.huggingface.co/models/{hf_model}"
+        hf_headers = {"Authorization": f"Bearer {hf_token}"}
+        
         for attempt in range(1, 4):
             try:
-                response = requests.get(url_attempt, timeout=60)
+                print(f"Requesting image from Hugging Face ({hf_model}) - Attempt {attempt}...")
+                response = requests.post(hf_url, json={"inputs": prompt_en}, headers=hf_headers, timeout=60)
                 if response.status_code == 200:
                     with open(filepath, 'wb') as f:
                         f.write(response.content)
-                    print(f"Successfully saved wallpaper to {filename}!")
+                    print(f"Successfully generated and saved Hugging Face wallpaper to {filename}!")
                     success = True
+                    prompt_en = f"[Hugging Face SDXL] {prompt_en}"
                     break
-                elif response.status_code == 402:
-                    print(f"Attempt {attempt}: Received 402 (Queue full). Retrying in {backoff} seconds...")
-                    time.sleep(backoff)
-                    backoff *= 1.5
+                elif response.status_code == 503:
+                    # Model loading, sleep and retry
+                    estimated_time = response.json().get("estimated_time", 20)
+                    print(f"Hugging Face model is loading. Waiting {estimated_time}s...")
+                    time.sleep(estimated_time)
                 else:
-                    print(f"Attempt {attempt}: Received status code {response.status_code}. Retrying in {backoff} seconds...")
+                    print(f"Hugging Face returned status code {response.status_code}: {response.text}")
+                    time.sleep(3)
+            except Exception as e:
+                print(f"Hugging Face request failed: {type(e).__name__}")
+                time.sleep(3)
+
+    # 2. Try Pollinations AI as second option (Free, keyless, but subject to IP rate limits)
+    if not success:
+        print("Proceeding to Pollinations AI attempts...")
+        # Try different URL variations (full URL first, then fallback to parameterless URL)
+        urls_to_try = [
+            f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1920&height=1080&nologo=true&seed={seed}",
+            f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}",
+            f"https://image.pollinations.ai/prompt/{encoded_prompt}%20seed%20{seed}"
+        ]
+        
+        for url_attempt in urls_to_try:
+            backoff = 3
+            print(f"Targeting URL: {url_attempt}")
+            for attempt in range(1, 4):
+                try:
+                    response = requests.get(url_attempt, timeout=60)
+                    if response.status_code == 200:
+                        with open(filepath, 'wb') as f:
+                            f.write(response.content)
+                        print(f"Successfully saved Pollinations wallpaper to {filename}!")
+                        success = True
+                        break
+                    elif response.status_code == 402:
+                        print(f"Attempt {attempt}: Received 402 (Queue full). Retrying in {backoff} seconds...")
+                        time.sleep(backoff)
+                        backoff *= 1.5
+                    else:
+                        print(f"Attempt {attempt}: Received status code {response.status_code}. Retrying in {backoff} seconds...")
+                        time.sleep(backoff)
+                        backoff *= 1.5
+                except Exception as e:
+                    print(f"Attempt {attempt}: Request failed with error: {type(e).__name__}. Retrying in {backoff} seconds...")
                     time.sleep(backoff)
                     backoff *= 1.5
-            except Exception as e:
-                print(f"Attempt {attempt}: Request failed with error: {type(e).__name__}. Retrying in {backoff} seconds...")
-                time.sleep(backoff)
-                backoff *= 1.5
-        
-        if success:
-            break
-        else:
-            print("Current URL strategy failed. Switching to fallback strategy...")
+            
+            if success:
+                break
+            else:
+                print("Current Pollinations URL strategy failed. Trying next strategy...")
 
-    # ULTRA FALLBACK: If Pollinations AI fails/rate-limits (common on shared runner IPs),
-    # use AI Horde (Stable Horde) anonymous API to generate a real AI wallpaper!
+    # 3. Try AI Horde (Stable Horde) anonymous API (Free, keyless, queue-based fallback)
     if not success:
         print("Pollinations AI rate-limited. Initiating AI Horde generation fallback...")
-        
-        # Predefined stable models on Horde
         horde_url = "https://aihorde.net/api/v2/generate/async"
         horde_headers = {
             "apikey": "0000000000",  # Anonymous API key
             "Client-Agent": "AetheriaWallpaperSystem:1.0:user@example.com"
         }
         
+        # Explicitly request the most active models to ensure fast queue processing
         horde_payload = {
             "prompt": prompt_en,
+            "models": ["stable_diffusion", "Dreamshaper", "Deliberate"],
             "params": {
                 "width": 1024,
-                "height": 576,  # 16:9 ratio compatible
-                "steps": 25,
-                "cfg_scale": 7.5,
-                "denoising_strength": 0.75
+                "height": 576,
+                "steps": 20,
+                "cfg_scale": 7.0
             }
         }
         
         try:
-            print("Submitting generation request to AI Horde...")
+            print("Submitting request to AI Horde...")
             submit_resp = requests.post(horde_url, json=horde_payload, headers=horde_headers, timeout=45)
             if submit_resp.status_code == 202:
                 job_id = submit_resp.json().get("id")
-                print(f"Request accepted! Job ID: {job_id}. Polling for completion...")
-                
+                print(f"AI Horde accepted request! Job ID: {job_id}. Polling for results...")
                 status_url = f"https://aihorde.net/api/v2/generate/status/{job_id}"
                 
                 # Poll status up to 36 times (3 minutes max)
                 for poll in range(1, 37):
-                    print(f"Polling AI Horde (Attempt {poll}/36)...")
                     status_resp = requests.get(status_url, timeout=30)
                     if status_resp.status_code == 200:
                         status_data = status_resp.json()
@@ -264,7 +286,7 @@ def main():
                             generations = status_data.get("generations", [])
                             if generations:
                                 img_url = generations[0].get("img")
-                                print(f"AI Horde successfully generated image! Downloading from: {img_url}")
+                                print(f"AI Horde finished! Downloading generated image from: {img_url}")
                                 img_data = requests.get(img_url, timeout=45)
                                 if img_data.status_code == 200:
                                     with open(filepath, 'wb') as f:
@@ -278,13 +300,13 @@ def main():
                             break
                     time.sleep(5)
             else:
-                print(f"AI Horde submission failed with status code: {submit_resp.status_code}")
+                print(f"AI Horde submission failed: {submit_resp.status_code}")
         except Exception as e:
-            print(f"AI Horde fallback encountered error: {type(e).__name__}")
+            print(f"AI Horde encountered error: {type(e).__name__}")
             
-    # CRITICAL LAST RESORT fallback (if both Pollinations and AI Horde fail completely)
+    # 4. CRITICAL LAST RESORT: Fall back to stock photos if all AI backends fail
     if not success:
-        print("Both AI generation backends failed. Falling back to high-quality stock photo...")
+        print("Both AI generation backends failed. Falling back to stock photo...")
         fallback_keywords = {
             "cyberpunk": "cyberpunk,neon,city,night,futuristic",
             "nature": "landscape,mountain,forest,waterfall,nature",
