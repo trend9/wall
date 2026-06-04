@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780589561",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Serene Anime",
+    "title_ja": "静寂なアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting a magical starry night sky over a peaceful countryside hill with a single glowing tree. Generated with state-of-the-art AI.",
+    "description_ja": "一本の光る木が立つ静かな田舎の丘の上の、魔法のような星空の夜空を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: illustration, japanese, art, scenery",
+    "filename": "wallpaper_1780589561.jpg",
+    "date": "2026-06-04 16:13:28",
+    "timestamp": 1780589561,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780586656",
     "category": "nature",
     "category_name_en": "Nature",
