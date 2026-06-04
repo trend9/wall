@@ -193,6 +193,7 @@ def main():
     
     print("Beginning generation attempts with fallback strategies...")
     for url_attempt in urls_to_try:
+        backoff = 3  # Reset backoff delay for each URL strategy
         print(f"Targeting URL: {url_attempt}")
         for attempt in range(1, 4):
             try:
