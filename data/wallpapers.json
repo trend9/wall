@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780585181",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Stunning Space",
+    "title_ja": "見事な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a distant ringed exoplanet rising over the horizon of a barren alien moon landscape. Generated with state-of-the-art AI.",
+    "description_ja": "不毛なエイリアンの月の景色の地平線上に昇る、遠くの輪を持つ系外惑星を描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: galaxy, nebula, space, stars, astronaut",
+    "filename": "wallpaper_1780585181.jpg",
+    "date": "2026-06-04 15:00:28",
+    "timestamp": 1780585181,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780585024",
     "category": "minimalist",
     "category_name_en": "Minimalist",
