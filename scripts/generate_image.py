@@ -222,11 +222,69 @@ def main():
         else:
             print("Current URL strategy failed. Switching to fallback strategy...")
 
-    # ULTRA FALLBACK: If all AI generations failed (common on GitHub Actions runner shared IPs)
-    # Download a gorgeous high-resolution landscape/digital art image from a free stock service.
+    # ULTRA FALLBACK: If Pollinations AI fails/rate-limits (common on shared runner IPs),
+    # use AI Horde (Stable Horde) anonymous API to generate a real AI wallpaper!
     if not success:
-        print("AI generation failed or rate-limited. Activating Ultra Fallback to high-quality stock wallpaper...")
-        # Curated keywords for gorgeous search matching the category
+        print("Pollinations AI rate-limited. Initiating AI Horde generation fallback...")
+        
+        # Predefined stable models on Horde
+        horde_url = "https://aihorde.net/api/v2/generate/async"
+        horde_headers = {
+            "apikey": "0000000000",  # Anonymous API key
+            "Client-Agent": "AetheriaWallpaperSystem:1.0:user@example.com"
+        }
+        
+        horde_payload = {
+            "prompt": prompt_en,
+            "params": {
+                "width": 1024,
+                "height": 576,  # 16:9 ratio compatible
+                "steps": 25,
+                "cfg_scale": 7.5,
+                "denoising_strength": 0.75
+            }
+        }
+        
+        try:
+            print("Submitting generation request to AI Horde...")
+            submit_resp = requests.post(horde_url, json=horde_payload, headers=horde_headers, timeout=45)
+            if submit_resp.status_code == 202:
+                job_id = submit_resp.json().get("id")
+                print(f"Request accepted! Job ID: {job_id}. Polling for completion...")
+                
+                status_url = f"https://aihorde.net/api/v2/generate/status/{job_id}"
+                
+                # Poll status up to 36 times (3 minutes max)
+                for poll in range(1, 37):
+                    print(f"Polling AI Horde (Attempt {poll}/36)...")
+                    status_resp = requests.get(status_url, timeout=30)
+                    if status_resp.status_code == 200:
+                        status_data = status_resp.json()
+                        if status_data.get("done") is True:
+                            generations = status_data.get("generations", [])
+                            if generations:
+                                img_url = generations[0].get("img")
+                                print(f"AI Horde successfully generated image! Downloading from: {img_url}")
+                                img_data = requests.get(img_url, timeout=45)
+                                if img_data.status_code == 200:
+                                    with open(filepath, 'wb') as f:
+                                        f.write(img_data.content)
+                                    print(f"Successfully saved AI Horde wallpaper to {filename}!")
+                                    success = True
+                                    prompt_en = f"[AI Horde Generated] {prompt_en}"
+                                    break
+                        elif status_data.get("faulted") is True:
+                            print("AI Horde job failed (faulted).")
+                            break
+                    time.sleep(5)
+            else:
+                print(f"AI Horde submission failed with status code: {submit_resp.status_code}")
+        except Exception as e:
+            print(f"AI Horde fallback encountered error: {type(e).__name__}")
+            
+    # CRITICAL LAST RESORT fallback (if both Pollinations and AI Horde fail completely)
+    if not success:
+        print("Both AI generation backends failed. Falling back to high-quality stock photo...")
         fallback_keywords = {
             "cyberpunk": "cyberpunk,neon,city,night,futuristic",
             "nature": "landscape,mountain,forest,waterfall,nature",
@@ -236,9 +294,7 @@ def main():
             "abstract": "abstract,fluid,acrylic,smoke,art"
         }
         kw = fallback_keywords.get(category["id"], "wallpaper,landscape")
-        # Use Picsum or Unsplash source redirect to fetch a stunning 1920x1080 image
         fallback_url = f"https://picsum.photos/1920/1080?sig={timestamp}&q={kw}"
-        print(f"Downloading fallback wallpaper from: {fallback_url}")
         
         for attempt in range(1, 4):
             try:
@@ -246,13 +302,12 @@ def main():
                 if response.status_code == 200:
                     with open(filepath, 'wb') as f:
                         f.write(response.content)
-                    print(f"Successfully saved fallback wallpaper to {filename}!")
+                    print(f"Successfully saved last-resort stock wallpaper to {filename}!")
                     success = True
-                    # Update prompt metadata to indicate stock fallback
-                    prompt_en = f"[Fallback High-Quality Stock Wallpaper] Keywords: {kw.replace(',', ', ')}"
+                    prompt_en = f"[Stock Photo fallback] Keywords: {kw.replace(',', ', ')}"
                     break
                 else:
-                    print(f"Fallback attempt {attempt} failed with status {response.status_code}. Retrying...")
+                    print(f"Fallback attempt {attempt} failed. Retrying...")
                     time.sleep(2)
             except Exception as e:
                 print(f"Fallback attempt {attempt} threw exception: {type(e).__name__}. Retrying...")
