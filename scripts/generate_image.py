@@ -255,7 +255,7 @@ def main():
                     print(f"Fallback attempt {attempt} failed with status {response.status_code}. Retrying...")
                     time.sleep(2)
             except Exception as e:
-                print(f"Fallback attempt {attempt} threw exception: {e}. Retrying...")
+                print(f"Fallback attempt {attempt} threw exception: {type(e).__name__}. Retrying...")
                 time.sleep(2)
 
     if success:
