@@ -17,7 +17,6 @@ const TRANSLATIONS = {
     emptyDesc: "別のキーワードやカテゴリーで検索をお試しください。",
     download: "ダウンロード",
     copiedToast: "プロンプトをクリップボードにコピーしました！",
-    footerTagline: "毎日6回自動更新されるAI壁紙ステーション",
     latestBadge: "最新の壁紙",
     resolution: "解像度: 1920 x 1080 (16:9)",
     dateLabel: "公開日: ",
@@ -32,7 +31,6 @@ const TRANSLATIONS = {
     emptyDesc: "Try searching for a different keyword or category.",
     download: "Download",
     copiedToast: "Prompt copied to clipboard!",
-    footerTagline: "AI Wallpaper Station, auto-updated 6 times daily",
     latestBadge: "LATEST WALLPAPER",
     resolution: "Resolution: 1920 x 1080 (16:9)",
     dateLabel: "Published: ",
@@ -80,6 +78,43 @@ const downloadText = document.getElementById('downloadText');
 // Toast
 const toast = document.getElementById('toast');
 
+// Generate and inject Google schema markup dynamically
+function updateSchemaMarkup(list) {
+  // Clear any existing dynamic schema script tags
+  const existing = document.querySelectorAll('script[type="application/ld+json"].dynamic-schema');
+  existing.forEach(tag => tag.remove());
+  
+  if (list.length === 0) return;
+  
+  const schema = {
+    "@context": "https://schema.org",
+    "@type": "ImageGallery",
+    "name": TRANSLATIONS[state.lang].title,
+    "description": "Premium High-Quality AI-Generated Wallpapers",
+    "image": list.map(wp => {
+      const title = state.lang === 'ja' ? wp.title_ja : wp.title_en;
+      const desc = state.lang === 'ja' ? wp.description_ja : wp.description_en;
+      return {
+        "@type": "ImageObject",
+        "name": title,
+        "description": desc,
+        "contentUrl": `https://wall-eosin.vercel.app/wallpapers/${wp.filename}`,
+        "fileFormat": "image/jpeg",
+        "author": {
+          "@type": "Organization",
+          "name": "Aetheria"
+        }
+      };
+    })
+  };
+  
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.className = 'dynamic-schema';
+  script.text = JSON.stringify(schema);
+  document.head.appendChild(script);
+}
+
 // Initialize Website
 async function init() {
   updateLanguageUI();
@@ -88,6 +123,7 @@ async function init() {
   renderCategories();
   renderHero();
   renderGallery();
+  updateSchemaMarkup(state.wallpapers);
 }
 
 // Fetch Wallpapers JSON
@@ -111,7 +147,6 @@ function updateLanguageUI() {
   searchInput.placeholder = t.searchPlaceholder;
   emptyTitle.textContent = t.emptyTitle;
   emptyDesc.textContent = t.emptyDesc;
-  document.getElementById('footer-tagline').textContent = t.footerTagline;
   downloadText.textContent = t.download;
   copyPromptBtn.textContent = t.copyLabel;
   toast.textContent = t.copiedToast;

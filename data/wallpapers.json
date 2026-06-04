@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780585024",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Epic Minimalist",
+    "title_ja": "壮大なミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a simple pastel colored mountain range silhouette under a pale sun, clean lines. Generated with state-of-the-art AI.",
+    "description_ja": "淡い太陽の下に広がる、シンプルなパステルカラーの山脈のシルエット、クリーンなラインを描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: minimalist, geometric, pastel, simple",
+    "filename": "wallpaper_1780585024.jpg",
+    "date": "2026-06-04 14:57:54",
+    "timestamp": 1780585024,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780584327",
     "category": "anime",
     "category_name_en": "Anime",

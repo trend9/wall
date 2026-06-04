@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Aetheria AI Wallpapers</title>
+    <link>https://wall-eosin.vercel.app</link>
+    <description>Daily updated premium AI-generated wallpapers.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2026 14:57:54 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Epic Minimalist]]></title>
+      <link>https://wall-eosin.vercel.app</link>
+      <description><![CDATA[A high-quality, breathtaking minimalist wallpaper depicting a simple pastel colored mountain range silhouette under a pale sun, clean lines. Generated with state-of-the-art AI.]]></description>
+      <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1780585024.jpg" type="image/jpeg" />
+      <guid isPermaLink="false">wp_1780585024</guid>
+      <pubDate>Thu, 04 Jun 2026 14:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Stunning Anime]]></title>
+      <link>https://wall-eosin.vercel.app</link>
+      <description><![CDATA[A high-quality, breathtaking anime wallpaper depicting a beautiful anime shrine entrance under a massive ancient sakura tree in full bloom at twilight. Generated with state-of-the-art AI.]]></description>
+      <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1780584327.jpg" type="image/jpeg" />
+      <guid isPermaLink="false">wp_1780584327</guid>
+      <pubDate>Thu, 04 Jun 2026 14:49:48 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Dreamy Nature]]></title>
+      <link>https://wall-eosin.vercel.app</link>
+      <description><![CDATA[A high-quality, breathtaking nature wallpaper depicting majestic snow-capped mountain peaks reflecting perfectly in a crystal-clear alpine lake. Generated with state-of-the-art AI.]]></description>
+      <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1780583337.jpg" type="image/jpeg" />
+      <guid isPermaLink="false">wp_1780583337</guid>
+      <pubDate>Thu, 04 Jun 2026 14:29:44 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Cinematic Cyberpunk]]></title>
+      <link>https://wall-eosin.vercel.app</link>
+      <description><![CDATA[A high-quality, breathtaking cyberpunk wallpaper depicting a futuristic train speeding through a neon-lit cyberpunk city canyon. Generated with state-of-the-art AI.]]></description>
+      <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1780583190.jpg" type="image/jpeg" />
+      <guid isPermaLink="false">wp_1780583190</guid>
+      <pubDate>Thu, 04 Jun 2026 14:27:17 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -68,7 +68,7 @@ CATEGORIES = [
         "name_en": "Minimalist",
         "name_ja": "ミニマリスト",
         "subjects": [
-            {"en": "a single green leaf with a single water droplet on a clean, soft beige background", "ja": "クリーンで柔らかなベージュの背景に、一滴の水滴がついた一枚の緑の葉"},
+            {"en": "a single green leaf with a single water droplet on a clean, soft beige background", "ja": "クリーンで柔らかなベージュ of 背景に、一滴の水滴がついた一枚の緑の葉"},
             {"en": "a minimal abstract geometric composition of sun and dunes using warm pastel tones", "ja": "暖かみのあるパステルカラーを使用した、太陽と砂丘のミニマルで抽象的な幾何学的構図"},
             {"en": "a clean concrete wall with elegant shadows of palm leaves cast by the afternoon sun", "ja": "午後の太陽によって投げかけられたヤシの葉のエレガントな影があるクリーンなコンクリート壁"},
             {"en": "a solitary wooden pier leading into a vast, calm, misty white lake", "ja": "広大で穏やかな霧深い白い湖へと続く、一連の木製の桟橋"},
@@ -128,6 +128,52 @@ def save_wallpapers(wallpapers):
     with open(DATA_FILE, 'w', encoding='utf-8') as f:
         json.dump(wallpapers, f, indent=2, ensure_ascii=False)
 
+def generate_rss_feed(wallpapers):
+    rss_path = os.path.join(BASE_DIR, 'feed.xml')
+    items_xml = []
+    
+    # Take latest 30 wallpapers for the feed
+    for wp in wallpapers[:30]:
+        title = wp.get("title_en", "Premium Wallpaper")
+        desc = wp.get("description_en", "")
+        filename = wp.get("filename")
+        wp_id = wp.get("id")
+        date_str = wp.get("date")
+        
+        # Parse date to RFC 822 format for RSS feeds
+        try:
+            struct_time = time.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+            pub_date = time.strftime("%a, %d %b %Y %H:%M:%S GMT", struct_time)
+        except Exception:
+            pub_date = time.strftime("%a, %d %b %Y %H:%M:%S GMT", time.gmtime())
+            
+        item_xml = f"""    <item>
+      <title><![CDATA[{title}]]></title>
+      <link>https://wall-eosin.vercel.app</link>
+      <description><![CDATA[{desc}]]></description>
+      <enclosure url="https://wall-eosin.vercel.app/wallpapers/{filename}" type="image/jpeg" />
+      <guid isPermaLink="false">{wp_id}</guid>
+      <pubDate>{pub_date}</pubDate>
+    </item>"""
+        items_xml.append(item_xml)
+        
+    joined_items = "\n".join(items_xml)
+    rss_content = f"""<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Aetheria AI Wallpapers</title>
+    <link>https://wall-eosin.vercel.app</link>
+    <description>Daily updated premium AI-generated wallpapers.</description>
+    <language>en-us</language>
+    <lastBuildDate>{time.strftime("%a, %d %b %Y %H:%M:%S GMT", time.gmtime())}</lastBuildDate>
+{joined_items}
+  </channel>
+</rss>"""
+    
+    with open(rss_path, 'w', encoding='utf-8') as f:
+        f.write(rss_content)
+    print("Successfully generated RSS feed (feed.xml) for Pinterest integration!")
+
 def main():
     existing_wallpapers = load_wallpapers()
     count = len(existing_wallpapers)
@@ -176,6 +222,8 @@ def main():
     encoded_prompt = urllib.parse.quote(prompt_en)
     seed = random.randint(0, 999999)
     # 1920x1080 resolution
+    success = False
+    
     # 1. Try Hugging Face Inference API if HF_TOKEN is configured (Highly recommended, fast, & guaranteed)
     hf_token = os.environ.get('HF_TOKEN')
     if hf_token:
@@ -357,6 +405,8 @@ def main():
         existing_wallpapers.insert(0, new_wallpaper) # Add to the top
         save_wallpapers(existing_wallpapers)
         print("Successfully updated database!")
+        # Generate RSS feed for Pinterest sync
+        generate_rss_feed(existing_wallpapers)
     else:
         print("Failed to generate image after trying all fallback and stock strategies.")
 
