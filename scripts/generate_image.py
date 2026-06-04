@@ -201,7 +201,7 @@ def main():
                 if response.status_code == 200:
                     with open(filepath, 'wb') as f:
                         f.write(response.content)
-                    print(f"Successfully saved wallpaper to {filepath}!")
+                    print(f"Successfully saved wallpaper to {filename}!")
                     success = True
                     break
                 elif response.status_code == 402:
@@ -213,7 +213,7 @@ def main():
                     time.sleep(backoff)
                     backoff *= 1.5
             except Exception as e:
-                print(f"Attempt {attempt}: Request failed with error: {e}. Retrying in {backoff} seconds...")
+                print(f"Attempt {attempt}: Request failed with error: {type(e).__name__}. Retrying in {backoff} seconds...")
                 time.sleep(backoff)
                 backoff *= 1.5
         
@@ -246,7 +246,7 @@ def main():
                 if response.status_code == 200:
                     with open(filepath, 'wb') as f:
                         f.write(response.content)
-                    print(f"Successfully saved fallback wallpaper to {filepath}!")
+                    print(f"Successfully saved fallback wallpaper to {filename}!")
                     success = True
                     # Update prompt metadata to indicate stock fallback
                     prompt_en = f"[Fallback High-Quality Stock Wallpaper] Keywords: {kw.replace(',', ', ')}"
