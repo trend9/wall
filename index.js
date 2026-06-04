@@ -273,6 +273,7 @@ function renderGallery() {
       <div class="card-img-wrapper" onclick="openWallpaperModal('${wp.id}')">
         <img class="card-img" src="wallpapers/${wp.filename}" alt="${title}" loading="lazy">
         <div class="card-tags">
+          <span class="card-free">${state.lang === 'ja' ? '無料ダウンロード' : 'Free Download'}</span>
           <span class="card-cat">${catName}</span>
         </div>
       </div>
