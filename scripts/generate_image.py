@@ -222,6 +222,42 @@ def main():
         else:
             print("Current URL strategy failed. Switching to fallback strategy...")
 
+    # ULTRA FALLBACK: If all AI generations failed (common on GitHub Actions runner shared IPs)
+    # Download a gorgeous high-resolution landscape/digital art image from a free stock service.
+    if not success:
+        print("AI generation failed or rate-limited. Activating Ultra Fallback to high-quality stock wallpaper...")
+        # Curated keywords for gorgeous search matching the category
+        fallback_keywords = {
+            "cyberpunk": "cyberpunk,neon,city,night,futuristic",
+            "nature": "landscape,mountain,forest,waterfall,nature",
+            "anime": "illustration,japanese,art,scenery",
+            "minimalist": "minimalist,geometric,pastel,simple",
+            "space": "galaxy,nebula,space,stars,astronaut",
+            "abstract": "abstract,fluid,acrylic,smoke,art"
+        }
+        kw = fallback_keywords.get(category["id"], "wallpaper,landscape")
+        # Use Picsum or Unsplash source redirect to fetch a stunning 1920x1080 image
+        fallback_url = f"https://picsum.photos/1920/1080?sig={timestamp}&q={kw}"
+        print(f"Downloading fallback wallpaper from: {fallback_url}")
+        
+        for attempt in range(1, 4):
+            try:
+                response = requests.get(fallback_url, timeout=45)
+                if response.status_code == 200:
+                    with open(filepath, 'wb') as f:
+                        f.write(response.content)
+                    print(f"Successfully saved fallback wallpaper to {filepath}!")
+                    success = True
+                    # Update prompt metadata to indicate stock fallback
+                    prompt_en = f"[Fallback High-Quality Stock Wallpaper] Keywords: {kw.replace(',', ', ')}"
+                    break
+                else:
+                    print(f"Fallback attempt {attempt} failed with status {response.status_code}. Retrying...")
+                    time.sleep(2)
+            except Exception as e:
+                print(f"Fallback attempt {attempt} threw exception: {e}. Retrying...")
+                time.sleep(2)
+
     if success:
         # Create a database record
         new_wallpaper = {
@@ -245,7 +281,7 @@ def main():
         save_wallpapers(existing_wallpapers)
         print("Successfully updated database!")
     else:
-        print("Failed to generate image after trying all fallback strategies.")
+        print("Failed to generate image after trying all fallback and stock strategies.")
 
 if __name__ == "__main__":
     main()
