@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780679633",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Stunning Space",
+    "title_ja": "見事な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a futuristic space station orbiting a beautiful green and blue earth-like planet. Generated with state-of-the-art AI.",
+    "description_ja": "美しい緑と青の地球のような惑星の軌道を回る、未来的な宇宙ステーションを描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: galaxy, nebula, space, stars, astronaut",
+    "filename": "wallpaper_1780679633.jpg",
+    "date": "2026-06-05 17:15:09",
+    "timestamp": 1780679633,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780661247",
     "category": "minimalist",
     "category_name_en": "Minimalist",
