@@ -396,7 +396,7 @@ def generate_rss_feed(wallpapers):
             
         item_xml = f"""    <item>
       <title><![CDATA[{title}]]></title>
-      <link>https://wall-eosin.vercel.app</link>
+      <link>https://wall-eosin.vercel.app/w/{wp_id}.html</link>
       <description><![CDATA[{desc}]]></description>
       <enclosure url="https://wall-eosin.vercel.app/wallpapers/{filename}" type="image/jpeg" />
       <guid isPermaLink="false">{wp_id}</guid>
