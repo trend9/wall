@@ -13,6 +13,253 @@ WALLPAPERS_DIR = os.path.join(BASE_DIR, 'wallpapers')
 # Ensure wallpapers directory exists
 os.makedirs(WALLPAPERS_DIR, exist_ok=True)
 
+# SEO configurations
+# Set NOINDEX = True to prevent search engines from indexing the wallpaper detail pages.
+# Set NOINDEX = False (default) to allow indexing and increase organic search traffic.
+NOINDEX = False
+
+def generate_individual_pages(wallpapers):
+    w_dir = os.path.join(BASE_DIR, 'w')
+    os.makedirs(w_dir, exist_ok=True)
+    
+    robots_meta = '<meta name="robots" content="noindex, follow">' if NOINDEX else '<meta name="robots" content="index, follow">'
+    
+    for wp in wallpapers:
+        wp_id = wp.get("id")
+        filename = wp.get("filename")
+        title_en = wp.get("title_en", "Premium Wallpaper").replace('"', '&quot;')
+        title_ja = wp.get("title_ja", "プレミアム壁紙").replace('"', '&quot;')
+        desc_en = wp.get("description_en", "").replace('"', '&quot;')
+        desc_ja = wp.get("description_ja", "").replace('"', '&quot;')
+        category_en = wp.get("category_name_en", "General").replace('"', '&quot;')
+        category_ja = wp.get("category_name_ja", "一般").replace('"', '&quot;')
+        prompt = wp.get("prompt", "").replace('"', '&quot;').replace('\n', ' ')
+        date_str = wp.get("date", "")
+        
+        # We escape single quotes for Javascript insertion
+        js_title_en = title_en.replace("'", "\\'")
+        js_title_ja = title_ja.replace("'", "\\'")
+        js_desc_en = desc_en.replace("'", "\\'")
+        js_desc_ja = desc_ja.replace("'", "\\'")
+        js_category_en = category_en.replace("'", "\\'")
+        js_category_ja = category_ja.replace("'", "\\'")
+        
+        html_content = f"""<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{title_ja} - Aetheria AI Wallpapers</title>
+  <meta name="description" content="{desc_ja}">
+  {robots_meta}
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="{title_ja} - Aetheria AI Wallpapers">
+  <meta property="og:description" content="{desc_ja}">
+  <meta property="og:image" content="https://wall-eosin.vercel.app/wallpapers/{filename}">
+  <meta property="og:url" content="https://wall-eosin.vercel.app/w/{wp_id}.html">
+  <meta property="og:type" content="article">
+  
+  <!-- CSS Link -->
+  <link rel="stylesheet" href="../index.css">
+  
+  <!-- Feather Icons -->
+  <script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
+
+  <!-- Ambient Glow Effects -->
+  <div class="ambient-glow-1"></div>
+  <div class="ambient-glow-2"></div>
+
+  <!-- Header Navigation -->
+  <header>
+    <div class="nav-container">
+      <a href="../" class="logo" id="logo-link">
+        <span class="logo-icon"></span>
+        Aetheria
+      </a>
+      <div class="nav-actions">
+        <!-- Language Switcher -->
+        <div class="lang-toggle" id="langToggle">
+          <button class="lang-btn active" data-lang="ja">日本語</button>
+          <button class="lang-btn" data-lang="en">EN</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Detail Content Section -->
+  <main class="gallery-section" style="margin-top: 2rem;">
+    <div class="modal-content" style="display: grid; max-height: none; transform: none; margin: 0 auto; background: rgba(20, 20, 30, 0.5);">
+      <div class="modal-img-section" style="background: rgba(0,0,0,0.3); padding: 1rem;">
+        <img class="modal-preview-img" src="../wallpapers/{filename}" alt="{title_ja}" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+      </div>
+      <div class="modal-details">
+        <span class="badge" id="detailCategory">{category_ja}</span>
+        <h1 class="hero-title" id="detailTitle" style="font-size: 2.2rem; margin-bottom: 0.5rem; background: linear-gradient(135deg, #fff, var(--text-secondary)); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">{title_ja}</h1>
+        <p class="hero-desc" id="detailDesc" style="font-size: 1rem; margin-bottom: 1.5rem;">{desc_ja}</p>
+        
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1.5rem; display: flex; flex-direction: column; gap: 0.25rem;">
+          <div id="detailDate">公開日: {date_str}</div>
+          <div id="detailResolution">解像度: 1920 x 1080 (16:9)</div>
+        </div>
+
+        <h4 id="promptTitle" style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text-primary);">生成プロンプト</h4>
+        <div class="modal-prompt-box" style="background: rgba(0, 0, 0, 0.4);">
+          <button class="copy-prompt-btn" id="copyPromptBtn">コピー</button>
+          <span class="modal-prompt-text" id="detailPromptText">{prompt}</span>
+        </div>
+
+        <div style="display: flex; gap: 1rem; margin-top: auto; padding-top: 1rem;">
+          <a href="../wallpapers/{filename}" class="btn btn-primary" download style="flex: 1;">
+            <i data-feather="download"></i>
+            <span id="downloadText">ダウンロード</span>
+          </a>
+          <button class="btn btn-secondary btn-icon like-btn" id="detailLikeBtn">
+            <i data-feather="heart"></i>
+          </button>
+        </div>
+        
+        <div style="margin-top: 1.5rem; display: flex; justify-content: center;">
+          <a href="../" class="btn btn-secondary" style="width: 100%;">
+            <i data-feather="arrow-left"></i>
+            <span id="backText">ホームに戻る</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Banner ad placement at the bottom -->
+  <div class="ad-banner-wrapper">
+    <script async="async" data-cfasync="false" src="https://pl29642773.effectivecpmnetwork.com/e02b2bad74f57baf7d09e50da61b9158/invoke.js"></script>
+    <div id="container-e02b2bad74f57baf7d09e50da61b9158"></div>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="toast" id="toast">プロンプトをクリップボードにコピーしました！</div>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 Aetheria. All rights reserved.</p>
+  </footer>
+
+  <script>
+    const wpId = "{wp_id}";
+    const translations = {{
+      ja: {{
+        title: "{js_title_ja} - Aetheria AI Wallpapers",
+        description: "{js_desc_ja}",
+        detailTitle: "{js_title_ja}",
+        detailDesc: "{js_desc_ja}",
+        detailCategory: "{js_category_ja}",
+        dateLabel: "公開日: {date_str}",
+        resolution: "解像度: 1920 x 1080 (16:9)",
+        promptTitle: "生成プロンプト",
+        copyLabel: "コピー",
+        copiedToast: "プロンプトをクリップボードにコピーしました！",
+        download: "ダウンロード",
+        backHome: "ホームに戻る"
+      }},
+      en: {{
+        title: "{js_title_en} - Aetheria AI Wallpapers",
+        description: "{js_desc_en}",
+        detailTitle: "{js_title_en}",
+        detailDesc: "{js_desc_en}",
+        detailCategory: "{js_category_en}",
+        dateLabel: "Published: {date_str}",
+        resolution: "Resolution: 1920 x 1080 (16:9)",
+        promptTitle: "Generation Prompt",
+        copyLabel: "COPY",
+        copiedToast: "Prompt copied to clipboard!",
+        download: "Download",
+        backHome: "Back to Home"
+      }}
+    }};
+
+    let currentLang = localStorage.getItem('lang') || 'ja';
+
+    function updateLanguageUI() {{
+      const t = translations[currentLang];
+      document.title = t.title;
+      document.querySelector('meta[name="description"]').setAttribute("content", t.description);
+      document.getElementById('detailTitle').textContent = t.detailTitle;
+      document.getElementById('detailDesc').textContent = t.detailDesc;
+      document.getElementById('detailCategory').textContent = t.detailCategory;
+      document.getElementById('detailDate').textContent = t.dateLabel;
+      document.getElementById('detailResolution').textContent = t.resolution;
+      document.getElementById('promptTitle').textContent = t.promptTitle;
+      document.getElementById('copyPromptBtn').textContent = t.copyLabel;
+      document.getElementById('toast').textContent = t.copiedToast;
+      document.getElementById('downloadText').textContent = t.download;
+      document.getElementById('backText').textContent = t.backHome;
+      
+      document.documentElement.lang = currentLang;
+
+      document.querySelectorAll('.lang-btn').forEach(btn => {{
+        if (btn.dataset.lang === currentLang) {{
+          btn.classList.add('active');
+        }} else {{
+          btn.classList.remove('active');
+        }}
+      }});
+    }}
+
+    // Setup language buttons
+    document.getElementById('langToggle').addEventListener('click', (e) => {{
+      const btn = e.target.closest('.lang-btn');
+      if (!btn) return;
+      currentLang = btn.dataset.lang;
+      localStorage.setItem('lang', currentLang);
+      updateLanguageUI();
+    }});
+
+    // Setup copy button
+    document.getElementById('copyPromptBtn').addEventListener('click', () => {{
+      const text = document.getElementById('detailPromptText').textContent;
+      navigator.clipboard.writeText(text).then(() => {{
+        const toast = document.getElementById('toast');
+        toast.classList.add('show');
+        setTimeout(() => {{
+          toast.classList.remove('show');
+        }}, 2500);
+      }});
+    }});
+
+    // Setup Like functionality
+    const likeBtn = document.getElementById('detailLikeBtn');
+    let likedList = JSON.parse(localStorage.getItem('liked_wallpapers') || '[]');
+    
+    if (likedList.includes(wpId)) {{
+      likeBtn.classList.add('liked');
+    }}
+
+    likeBtn.addEventListener('click', () => {{
+      const idx = likedList.indexOf(wpId);
+      if (idx > -1) {{
+        likedList.splice(idx, 1);
+        likeBtn.classList.remove('liked');
+      }} else {{
+        likedList.push(wpId);
+        likeBtn.classList.add('liked');
+      }}
+      localStorage.setItem('liked_wallpapers', JSON.stringify(likedList));
+    }});
+
+    // Init UI
+    updateLanguageUI();
+    feather.replace();
+  </script>
+</body>
+</html>
+"""
+        
+        filepath = os.path.join(w_dir, f"{wp_id}.html")
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(html_content)
+    print(f"Successfully generated {{len(wallpapers)}} individual wallpaper HTML pages.")
+
 # Categories definition
 CATEGORIES = [
     {
@@ -407,6 +654,8 @@ def main():
         print("Successfully updated database!")
         # Generate RSS feed for Pinterest sync
         generate_rss_feed(existing_wallpapers)
+        # Generate individual detail pages for all wallpapers
+        generate_individual_pages(existing_wallpapers)
     else:
         print("Failed to generate image after trying all fallback and stock strategies.")
 

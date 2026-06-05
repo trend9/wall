@@ -741,3 +741,52 @@ footer span {
     padding: 1rem;
   }
 }
+
+/* Ad Banner Integration */
+.ad-banner-wrapper {
+  max-width: 1400px;
+  margin: 3rem auto;
+  padding: 0 2rem;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#container-e02b2bad74f57baf7d09e50da61b9158 {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr) !important;
+  gap: 1.5rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* Ensure the banner containers and any injected links/ads preserve a square aspect ratio and do not break styling */
+#container-e02b2bad74f57baf7d09e50da61b9158 > * {
+  aspect-ratio: 1 / 1 !important;
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--border-light);
+  background: var(--bg-card);
+  transition: var(--transition-smooth);
+}
+
+#container-e02b2bad74f57baf7d09e50da61b9158 > *:hover {
+  border-color: var(--border-hover);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 768px) {
+  .ad-banner-wrapper {
+    padding: 0 1rem;
+    margin: 2rem auto;
+  }
+  #container-e02b2bad74f57baf7d09e50da61b9158 {
+    gap: 0.5rem !important;
+  }
+  #container-e02b2bad74f57baf7d09e50da61b9158 > * {
+    border-radius: 8px;
+  }
+}
+

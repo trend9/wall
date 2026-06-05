@@ -333,37 +333,7 @@ function renderGallery() {
 
 // Open Details Modal
 window.openWallpaperModal = function(id) {
-  const wp = state.wallpapers.find(w => w.id === id);
-  if (!wp) return;
-
-  const t = TRANSLATIONS[state.lang];
-  const title = state.lang === 'ja' ? wp.title_ja : wp.title_en;
-  const desc = state.lang === 'ja' ? wp.description_ja : wp.description_en;
-  const catName = state.lang === 'ja' ? wp.category_name_ja : wp.category_name_en;
-  const isLiked = state.likedList.includes(wp.id);
-
-  modalImg.src = `wallpapers/${wp.filename}`;
-  modalImg.alt = title;
-  modalCategoryBadge.textContent = catName;
-  modalTitle.textContent = title;
-  modalDesc.textContent = desc;
-  
-  modalDate.textContent = `${t.dateLabel}${wp.date}`;
-  modalResolution.textContent = t.resolution;
-  modalPromptText.textContent = wp.prompt;
-  
-  modalDownloadBtn.href = `wallpapers/${wp.filename}`;
-  
-  // Configure like button inside modal
-  modalLikeBtn.className = `btn btn-secondary btn-icon like-btn ${isLiked ? 'liked' : ''}`;
-  modalLikeBtn.onclick = (e) => {
-    toggleLike(e, wp.id);
-    modalLikeBtn.className = `btn btn-secondary btn-icon like-btn ${state.likedList.includes(wp.id) ? 'liked' : ''}`;
-  };
-
-  wallpaperModal.classList.add('active');
-  document.body.style.overflow = 'hidden'; // Stop scrolling
-  feather.replace();
+  window.location.href = `w/${id}.html`;
 };
 
 // Close Details Modal
