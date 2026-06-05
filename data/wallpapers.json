@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780643226",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Majestic Anime",
+    "title_ja": "雄大なアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting a futuristic anime city with clean modern streets, green foliage, and high-tech monorail. Generated with state-of-the-art AI.",
+    "description_ja": "クリーンでモダンな通り、緑の木々、ハイテクなモノレールがある未来のアニメ都市を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: illustration, japanese, art, scenery",
+    "filename": "wallpaper_1780643226.jpg",
+    "date": "2026-06-05 07:07:59",
+    "timestamp": 1780643226,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780635072",
     "category": "nature",
     "category_name_en": "Nature",
