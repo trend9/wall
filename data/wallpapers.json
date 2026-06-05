@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780635072",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Epic Nature",
+    "title_ja": "壮大な自然",
+    "description_en": "A high-quality, breathtaking nature wallpaper depicting majestic snow-capped mountain peaks reflecting perfectly in a crystal-clear alpine lake. Generated with state-of-the-art AI.",
+    "description_ja": "澄み切った高山湖に完璧に映り込む、雄大な雪を頂いた山の頂を描いた、高品質で息をのむような自然の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[AI Horde Generated] majestic snow-capped mountain peaks reflecting perfectly in a crystal-clear alpine lake, breathtaking nature photography, soft lighting, award-winning, highly detailed, realistic, National Geographic style, 8k",
+    "filename": "wallpaper_1780635072.jpg",
+    "date": "2026-06-05 04:53:04",
+    "timestamp": 1780635072,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780629981",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
