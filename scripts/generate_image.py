@@ -258,7 +258,7 @@ def generate_individual_pages(wallpapers):
         filepath = os.path.join(w_dir, f"{wp_id}.html")
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(html_content)
-    print(f"Successfully generated {{len(wallpapers)}} individual wallpaper HTML pages.")
+    print(f"Successfully generated {len(wallpapers)} individual wallpaper HTML pages.")
 
 # Categories definition
 CATEGORIES = [
