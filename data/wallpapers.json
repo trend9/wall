@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780727355",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Stunning Space",
+    "title_ja": "見事な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a stunning cosmic nebula with vibrant violet, blue and gold dust clouds forming stars. Generated with state-of-the-art AI.",
+    "description_ja": "星を形成する鮮やかなバイオレット、ブルー、ゴールドの宇宙塵の雲を持つ、見事な宇宙星雲を描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: galaxy, nebula, space, stars, astronaut",
+    "filename": "wallpaper_1780727355.jpg",
+    "date": "2026-06-06 06:31:04",
+    "timestamp": 1780727355,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780724501",
     "category": "minimalist",
     "category_name_en": "Minimalist",
