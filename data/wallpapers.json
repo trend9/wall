@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780760953",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Cinematic Anime",
+    "title_ja": "映画のようなアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting a magical starry night sky over a peaceful countryside hill with a single glowing tree. Generated with state-of-the-art AI.",
+    "description_ja": "一本の光る木が立つ静かな田舎の丘の上の、魔法のような星空の夜空を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[AI Horde Generated] a magical starry night sky over a peaceful countryside hill with a single glowing tree, makoto shinkai style, gorgeous sky details, lens flare, vivid color grading, ethereal, wind blowing, high quality digital art, masterpiece, highly detailed, atmosphere: neon reflections, seed: 5994595",
+    "filename": "wallpaper_1780760953.jpg",
+    "date": "2026-06-06 15:49:29",
+    "timestamp": 1780760953,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780759545",
     "category": "nature",
     "category_name_en": "Nature",

@@ -476,14 +476,18 @@ def main():
     encoded_prompt = urllib.parse.quote(prompt_en_final)
     success = False
 
-    def save_image_from_bytes(content, filepath):
+    def save_image_from_bytes(content, filepath, target_size=(1920, 1080)):
         try:
             from PIL import Image
             img = Image.open(io.BytesIO(content))
             if img.mode != 'RGB':
                 img = img.convert('RGB')
+            # Upscale/resize to target wallpaper resolution (1920x1080) if needed
+            if img.size != target_size:
+                print(f"Resizing image from {img.size} to {target_size} (LANCZOS upscale)...")
+                img = img.resize(target_size, Image.LANCZOS)
             img.save(filepath, 'JPEG', quality=95)
-            print("Successfully converted and saved image using Pillow (JPG).")
+            print(f"Successfully saved image at {target_size[0]}x{target_size[1]} (JPG).")
             return True
         except Exception as e:
             print(f"Pillow image conversion failed, saving raw bytes directly: {e}")
@@ -586,13 +590,14 @@ def main():
             "Client-Agent": "AetheriaWallpaperSystem:1.0:user@example.com"
         }
         
-        # AI Horde max supported 16:9 resolution is 1024x576 (both multiples of 64)
+        # AI Horde anonymous kudos limit: use 512x512 for generation,
+        # then Pillow will upscale to 1920x1080 after download
         horde_payload = {
             "prompt": prompt_en_final,
             "models": ["stable_diffusion", "Dreamshaper", "Deliberate"],
             "params": {
-                "width": 1024,
-                "height": 576,
+                "width": 512,
+                "height": 512,
                 "steps": 20,
                 "cfg_scale": 7.0
             }
@@ -618,8 +623,9 @@ def main():
                                 print(f"AI Horde finished! Downloading generated image from: {img_url}")
                                 img_data = requests.get(img_url, timeout=25)
                                 if img_data.status_code == 200:
-                                    if save_image_from_bytes(img_data.content, filepath):
-                                        print("Successfully saved AI Horde wallpaper!")
+                                    # Upscale AI Horde's 512x512 output to 1920x1080
+                                    if save_image_from_bytes(img_data.content, filepath, target_size=(1920, 1080)):
+                                        print("Successfully saved AI Horde wallpaper (upscaled to 1920x1080)!")
                                         success = True
                                         prompt_en = f"[AI Horde Generated] {prompt_en_final}"
                                         break
