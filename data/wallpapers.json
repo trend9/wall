@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780761872",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Epic Space",
+    "title_ja": "壮大な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a massive spiral galaxy glowing brightly with millions of stars in deep black space. Generated with state-of-the-art AI.",
+    "description_ja": "深い漆黒の宇宙で何百万もの星々が明るく輝く、巨大な渦巻銀河を描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[AI Horde Generated] a massive spiral galaxy glowing brightly with millions of stars in deep black space, sci-fi concept art, interstellar space, cosmic dust, deep contrast, unreal engine 5 render, hyper-detailed, masterpiece, highly detailed, atmosphere: neon reflections, seed: 4788787",
+    "filename": "wallpaper_1780761872.jpg",
+    "date": "2026-06-06 16:04:58",
+    "timestamp": 1780761872,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780761522",
     "category": "minimalist",
     "category_name_en": "Minimalist",
