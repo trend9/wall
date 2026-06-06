@@ -477,8 +477,8 @@ def main():
     hf_token = os.environ.get('HF_TOKEN')
     if hf_token:
         print("HF_TOKEN found! Initiating Hugging Face Inference API...")
-        # Use high-quality Stable Diffusion XL or FLUX model
-        hf_model = "stabilityai/stable-diffusion-xl-base-1.0"
+        # Use high-quality FLUX model or SDXL
+        hf_model = "black-forest-labs/FLUX.1-schnell"
         hf_url = f"https://api-inference.huggingface.co/models/{hf_model}"
         hf_headers = {"Authorization": f"Bearer {hf_token}"}
         
@@ -491,7 +491,7 @@ def main():
                         f.write(response.content)
                     print(f"Successfully generated and saved Hugging Face wallpaper to {filename}!")
                     success = True
-                    prompt_en = f"[Hugging Face SDXL] {prompt_en}"
+                    prompt_en = f"[Hugging Face FLUX] {prompt_en}"
                     break
                 elif response.status_code == 503:
                     # Model loading, sleep and retry
@@ -508,24 +508,27 @@ def main():
     # 2. Try Pollinations AI as second option (Free, keyless, but subject to IP rate limits)
     if not success:
         print("Proceeding to Pollinations AI attempts...")
-        # Try different URL variations (full URL first, then fallback to parameterless URL)
-        urls_to_try = [
-            f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1920&height=1080&nologo=true&seed={seed}",
-            f"https://image.pollinations.ai/prompt/{encoded_prompt}?seed={seed}",
-            f"https://image.pollinations.ai/prompt/{encoded_prompt}%20seed%20{seed}"
+        # Try different models and parameters to bypass specific rate limits
+        pollinations_configs = [
+            {"model": "flux", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=flux"},
+            {"model": "flux-realism", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=flux-realism"},
+            {"model": "turbo", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=turbo"},
+            {"model": "default", "params": f"?width=1920&height=1080&nologo=true&seed={seed}"}
         ]
         
-        for url_attempt in urls_to_try:
+        for config in pollinations_configs:
+            url_attempt = f"https://image.pollinations.ai/prompt/{encoded_prompt}{config['params']}"
             backoff = 3
-            print(f"Targeting URL: {url_attempt}")
+            print(f"Targeting Pollinations (model: {config['model']}): {url_attempt}")
             for attempt in range(1, 4):
                 try:
                     response = requests.get(url_attempt, timeout=60)
                     if response.status_code == 200:
                         with open(filepath, 'wb') as f:
                             f.write(response.content)
-                        print(f"Successfully saved Pollinations wallpaper to {filename}!")
+                        print(f"Successfully saved Pollinations ({config['model']}) wallpaper to {filename}!")
                         success = True
+                        prompt_en = f"[Pollinations {config['model'].upper()}] {prompt_en}"
                         break
                     elif response.status_code == 402:
                         print(f"Attempt {attempt}: Received 402 (Queue full). Retrying in {backoff} seconds...")
@@ -543,11 +546,49 @@ def main():
             if success:
                 break
             else:
-                print("Current Pollinations URL strategy failed. Trying next strategy...")
+                print(f"Pollinations model {config['model']} failed. Trying next configuration...")
 
-    # 3. Try AI Horde (Stable Horde) anonymous API (Free, keyless, queue-based fallback)
+    # 3. Try Hercai API (Free, keyless, REST-based fallback)
     if not success:
-        print("Pollinations AI rate-limited. Initiating AI Horde generation fallback...")
+        print("Pollinations AI failed. Initiating Hercai API attempts...")
+        herc_models = ["v3", "simurg", "lexica"]
+        for model in herc_models:
+            print(f"Requesting image from Hercai (model: {model})...")
+            herc_url = f"https://hercai.onrender.com/{model}/text2image"
+            for attempt in range(1, 4):
+                try:
+                    response = requests.get(herc_url, params={"prompt": prompt_en}, timeout=60)
+                    if response.status_code == 200:
+                        res_json = response.json()
+                        img_url = res_json.get("url")
+                        if img_url:
+                            print(f"Hercai successfully returned image URL: {img_url}. Downloading...")
+                            img_data = requests.get(img_url, timeout=60)
+                            if img_data.status_code == 200:
+                                with open(filepath, 'wb') as f:
+                                    f.write(img_data.content)
+                                print(f"Successfully saved Hercai wallpaper to {filename}!")
+                                success = True
+                                prompt_en = f"[Hercai {model}] {prompt_en}"
+                                break
+                            else:
+                                print(f"Failed to download image from Hercai URL. Status: {img_data.status_code}")
+                        else:
+                            print(f"Hercai response missing 'url' key: {res_json}")
+                    else:
+                        print(f"Hercai attempt {attempt} returned status: {response.status_code}")
+                    time.sleep(3)
+                except Exception as e:
+                    print(f"Hercai attempt {attempt} failed: {type(e).__name__}")
+                    time.sleep(3)
+            if success:
+                break
+            else:
+                print(f"Hercai model {model} failed. Trying next model...")
+
+    # 4. Try AI Horde (Stable Horde) anonymous API (Free, keyless, queue-based fallback)
+    if not success:
+        print("Hercai AI failed. Initiating AI Horde generation fallback...")
         horde_url = "https://aihorde.net/api/v2/generate/async"
         horde_headers = {
             "apikey": "0000000000",  # Anonymous API key
@@ -601,9 +642,9 @@ def main():
         except Exception as e:
             print(f"AI Horde encountered error: {type(e).__name__}")
             
-    # 4. CRITICAL LAST RESORT: Fall back to stock photos if all AI backends fail
+    # 5. CRITICAL LAST RESORT: Fall back to stock photos if all AI backends fail
     if not success:
-        print("Both AI generation backends failed. Falling back to stock photo...")
+        print("All AI generation backends failed. Falling back to stock photo...")
         fallback_keywords = {
             "cyberpunk": "cyberpunk,neon,city,night,futuristic",
             "nature": "landscape,mountain,forest,waterfall,nature",
