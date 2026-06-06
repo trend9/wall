@@ -418,6 +418,91 @@ def generate_rss_feed(wallpapers):
         f.write(rss_content)
     print("Successfully generated RSS feed (feed.xml) for Pinterest integration!")
 
+def generate_metadata_with_llm(category, subject, style, hf_token):
+    """
+    Call a Hugging Face LLM to generate creative titles, descriptions,
+    and a high-quality image generation prompt based on the given subject.
+    Returns a dict with: title_en, title_ja, description_en, description_ja, image_prompt
+    Returns None on failure (caller should fall back to templates).
+    """
+    llm_models = [
+        "mistralai/Mistral-7B-Instruct-v0.3",
+        "HuggingFaceH4/zephyr-7b-beta",
+        "microsoft/Phi-3-mini-128k-instruct",
+        "google/gemma-2-2b-it"
+    ]
+    
+    system_prompt = (
+        "You are a creative writer and AI art director. "
+        "Your task is to generate metadata for an AI-generated desktop wallpaper. "
+        "Respond ONLY with a valid JSON object — no markdown, no code fences, no explanation. "
+        "The JSON must have exactly these keys: "
+        "title_en, title_ja, description_en, description_ja, image_prompt."
+    )
+    
+    user_prompt = (
+        f"Category: {category['name_en']} ({category['name_ja']})\n"
+        f"Subject (English): {subject['en']}\n"
+        f"Subject (Japanese): {subject['ja']}\n"
+        f"Art Style: {style}\n\n"
+        "Generate:\n"
+        "- title_en: A short, evocative English title (4-7 words, no quotes)\n"
+        "- title_ja: A beautiful Japanese translation of the title (natural Japanese, no quotes)\n"
+        "- description_en: An engaging 2-sentence English description for SEO (mention the subject and mood)\n"
+        "- description_ja: A natural Japanese translation of the description\n"
+        "- image_prompt: A highly detailed Stable Diffusion prompt in English. "
+        "Include the subject, art style, lighting, atmosphere, and quality tags like "
+        "'masterpiece, 8k, highly detailed, cinematic'. Make it vivid and specific.\n\n"
+        "Respond with ONLY the JSON object."
+    )
+    
+    headers = {"Authorization": f"Bearer {hf_token}"} if hf_token else {}
+    
+    for model in llm_models:
+        api_url = f"https://api-inference.huggingface.co/models/{model}/v1/chat/completions"
+        payload = {
+            "model": model,
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            "max_tokens": 600,
+            "temperature": 0.85
+        }
+        try:
+            print(f"Calling HF LLM ({model}) for metadata generation...")
+            resp = requests.post(api_url, json=payload, headers=headers, timeout=30)
+            if resp.status_code == 200:
+                raw_text = resp.json()["choices"][0]["message"]["content"].strip()
+                print(f"LLM raw response: {raw_text[:200]}...")
+                # Strip any accidental markdown fences
+                raw_text = raw_text.replace("```json", "").replace("```", "").strip()
+                # Find the JSON object within the response
+                start = raw_text.find("{")
+                end = raw_text.rfind("}") + 1
+                if start != -1 and end > start:
+                    metadata = json.loads(raw_text[start:end])
+                    required = ["title_en", "title_ja", "description_en", "description_ja", "image_prompt"]
+                    if all(k in metadata for k in required):
+                        print(f"LLM metadata generation successful!")
+                        print(f"  Title EN: {metadata['title_en']}")
+                        print(f"  Title JA: {metadata['title_ja']}")
+                        return metadata
+                    else:
+                        print(f"LLM response missing required keys. Trying next model...")
+                else:
+                    print(f"LLM response is not valid JSON. Trying next model...")
+            elif resp.status_code == 503:
+                print(f"LLM model {model} is loading, skipping to next...")
+            else:
+                print(f"LLM {model} returned status {resp.status_code}. Trying next model...")
+        except Exception as e:
+            print(f"LLM {model} failed: {type(e).__name__}. Trying next model...")
+    
+    print("All LLM models failed. Falling back to fixed templates.")
+    return None
+
+
 def main():
     existing_wallpapers = load_wallpapers()
     count = len(existing_wallpapers)
@@ -430,36 +515,36 @@ def main():
     subject = random.choice(category["subjects"])
     style = random.choice(category["styles"])
     
-    # Generate Prompt
-    prompt_en = f"{subject['en']}, {style}"
-    
-    # Set up metadata names & description
+    # Set up file metadata
     timestamp = int(time.time())
     wallpaper_id = f"wp_{timestamp}"
     filename = f"wallpaper_{timestamp}.jpg"
     filepath = os.path.join(WALLPAPERS_DIR, filename)
     
-    # Simple templates for generating Titles and Descriptions
-    # English title/desc
-    title_en = f"Mystical {category['name_en']} Landscape"
-    desc_en = f"A high-quality, breathtaking {category['name_en'].lower()} wallpaper depicting {subject['en']}. Generated with state-of-the-art AI."
-    
-    # Japanese title/desc
-    title_ja = f"神秘的な{category['name_ja']}の風景"
-    desc_ja = f"{subject['ja']}を描いた、高品質で息をのむような{category['name_ja']}の壁紙画像。最先端のAIによって生成されました。"
-    
-    # Use randomized variations for title to make it look unique
-    adjectives_en = ["Stunning", "Ethereal", "Epic", "Cinematic", "Serene", "Majestic", "Dreamy", "Vibrant"]
-    adjectives_ja = ["見事な", "幻想的な", "壮大な", "映画のような", "静寂な", "雄大な", "夢のような", "鮮やかな"]
-    
-    adj_idx = random.randint(0, len(adjectives_en) - 1)
-    adj_en = adjectives_en[adj_idx]
-    adj_ja = adjectives_ja[adj_idx]
-    
-    title_en = f"{adj_en} {category['name_en']}"
-    title_ja = f"{adj_ja}{category['name_ja']}"
-    
     print(f"Selected Category: {category['name_en']}")
+    print(f"Base Subject (EN): {subject['en']}")
+    
+    # --- Try HF LLM for creative metadata & image prompt ---
+    hf_token = os.environ.get('HF_TOKEN')
+    llm_result = generate_metadata_with_llm(category, subject, style, hf_token)
+    
+    if llm_result:
+        title_en      = llm_result["title_en"]
+        title_ja      = llm_result["title_ja"]
+        desc_en       = llm_result["description_en"]
+        desc_ja       = llm_result["description_ja"]
+        prompt_en     = llm_result["image_prompt"]
+    else:
+        # Fallback: use fixed templates
+        adjectives_en = ["Stunning", "Ethereal", "Epic", "Cinematic", "Serene", "Majestic", "Dreamy", "Vibrant"]
+        adjectives_ja = ["見事な", "幻想的な", "壮大な", "映画のような", "静寂な", "雄大な", "夢のような", "鮮やかな"]
+        adj_idx = random.randint(0, len(adjectives_en) - 1)
+        title_en  = f"{adjectives_en[adj_idx]} {category['name_en']}"
+        title_ja  = f"{adjectives_ja[adj_idx]}{category['name_ja']}"
+        desc_en   = f"A high-quality, breathtaking {category['name_en'].lower()} wallpaper depicting {subject['en']}. Generated with state-of-the-art AI."
+        desc_ja   = f"{subject['ja']}を描いた、高品質で息をのむような{category['name_ja']}の壁紙画像。最先端のAIによって生成されました。"
+        prompt_en = f"{subject['en']}, {style}"
+    
     print(f"Prompt (EN): {prompt_en}")
     
     # Ensure raw prompt has dynamic variation to guarantee uniqueness

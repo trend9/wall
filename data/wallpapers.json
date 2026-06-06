@@ -1,5 +1,37 @@
 [
   {
+    "id": "wp_1780763368",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cinematic Space",
+    "title_ja": "映画のような宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting an astronaut floating peacefully in deep space surrounded by distant galaxies and colorful dust. Generated with state-of-the-art AI.",
+    "description_ja": "遠くの銀河やカラフルな塵に囲まれ、深宇宙を静かに漂う宇宙飛行士を描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[AI Horde Generated] an astronaut floating peacefully in deep space surrounded by distant galaxies and colorful dust, epic space exploration art, Hubble telescope style, highly detailed cosmic rendering, cinematic lighting, photorealistic, 8k, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 891740",
+    "filename": "wallpaper_1780763368.jpg",
+    "date": "2026-06-06 16:29:52",
+    "timestamp": 1780763368,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
+    "id": "wp_1780762723",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Serene Minimalist",
+    "title_ja": "静寂なミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a minimal abstract geometric composition of sun and dunes using warm pastel tones. Generated with state-of-the-art AI.",
+    "description_ja": "暖かみのあるパステルカラーを使用した、太陽と砂丘のミニマルで抽象的な幾何学的構図を描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[AI Horde Generated] a minimal abstract geometric composition of sun and dunes using warm pastel tones, nordic style minimalism, muted pastel color palette, soft shadows, serene, simplistic beauty, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 7688217",
+    "filename": "wallpaper_1780762723.jpg",
+    "date": "2026-06-06 16:19:27",
+    "timestamp": 1780762723,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780762035",
     "category": "abstract",
     "category_name_en": "Abstract",
