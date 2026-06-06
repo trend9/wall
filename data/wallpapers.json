@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780759545",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Vibrant Nature",
+    "title_ja": "鮮やかな自然",
+    "description_en": "A high-quality, breathtaking nature wallpaper depicting a serene misty pine forest at sunrise with soft golden light rays filtering through the trees. Generated with state-of-the-art AI.",
+    "description_ja": "木々の間から柔らかな金色の光が差し込む、日の出の静かな霧深い松林を描いた、高品質で息をのむような自然の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[AI Horde Generated] a serene misty pine forest at sunrise with soft golden light rays filtering through the trees, magical realism, ethereal atmosphere, vivid colors, cinematic depth of field, masterpiece, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 9402233",
+    "filename": "wallpaper_1780759545.jpg",
+    "date": "2026-06-06 15:25:59",
+    "timestamp": 1780759545,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780758938",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
