@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780752413",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cinematic Cyberpunk",
+    "title_ja": "映画のようなサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a high-tech cyberpunk hacker den with multiple glowing holographic screens. Generated with state-of-the-art AI.",
+    "description_ja": "複数の光るホログラフィック画面があるハイテクなサイバーパンクのハッカーの隠れ家を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: cyberpunk, neon, city, night, futuristic",
+    "filename": "wallpaper_1780752413.jpg",
+    "date": "2026-06-06 13:28:26",
+    "timestamp": 1780752413,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780743150",
     "category": "abstract",
     "category_name_en": "Abstract",
