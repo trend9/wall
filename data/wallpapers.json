@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780724501",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Stunning Minimalist",
+    "title_ja": "見事なミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a solitary wooden pier leading into a vast, calm, misty white lake. Generated with state-of-the-art AI.",
+    "description_ja": "広大で穏やかな霧深い白い湖へと続く、一連の木製の桟橋を描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: minimalist, geometric, pastel, simple",
+    "filename": "wallpaper_1780724501.jpg",
+    "date": "2026-06-06 05:43:13",
+    "timestamp": 1780724501,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780716672",
     "category": "anime",
     "category_name_en": "Anime",
