@@ -696,12 +696,17 @@ def main():
                 print(f"AI Horde accepted request! Job ID: {job_id}. Polling for results...")
                 status_url = f"https://aihorde.net/api/v2/generate/status/{job_id}"
                 
-                # Poll status up to 15 times (approx 45 seconds max)
-                for poll in range(1, 16):
+                # Poll status up to 40 times (approx 120 seconds max)
+                for poll in range(1, 41):
                     status_resp = requests.get(status_url, timeout=15)
                     if status_resp.status_code == 200:
                         status_data = status_resp.json()
-                        if status_data.get("done") is True:
+                        done = status_data.get("done")
+                        wait_time = status_data.get("wait_time", "unknown")
+                        queue_pos = status_data.get("queue_position", "unknown")
+                        print(f"AI Horde Poll #{poll}: done={done}, wait_time={wait_time}s, queue_position={queue_pos}")
+                        
+                        if done is True:
                             generations = status_data.get("generations", [])
                             if generations:
                                 img_url = generations[0].get("img")
@@ -717,6 +722,8 @@ def main():
                         elif status_data.get("faulted") is True:
                             print("AI Horde job failed (faulted).")
                             break
+                    else:
+                        print(f"AI Horde Poll #{poll} returned status code {status_resp.status_code}")
                     time.sleep(3)
             else:
                 print(f"AI Horde submission failed: {submit_resp.status_code}")
