@@ -1,5 +1,37 @@
 [
   {
+    "id": "wp_1780758938",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Vibrant Cyberpunk",
+    "title_ja": "鮮やかなサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a futuristic rainy alleyway illuminated by pink and cyan neon signs. Generated with state-of-the-art AI.",
+    "description_ja": "ピンクとシアンのネオン看板に照らされた未来の雨の路地裏を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[AI Horde Generated] a futuristic rainy alleyway illuminated by pink and cyan neon signs, futuristic, synthwave aesthetic, neon glow, wet reflections, highly detailed, octane render, 8k resolution, cinematic lighting, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5789250",
+    "filename": "wallpaper_1780758938.jpg",
+    "date": "2026-06-06 15:15:51",
+    "timestamp": 1780758938,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
+    "id": "wp_1780758192",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Vibrant Abstract",
+    "title_ja": "鮮やかな抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a mesmerizing 3D render of looping glass ribbons reflecting a colorful gradient background. Generated with state-of-the-art AI.",
+    "description_ja": "カラフルなグラデーションの背景を反射する、ループするガラスのリボンの魅惑的な3Dレンダリングを描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Stock Photo fallback] Keywords: abstract, fluid, acrylic, smoke, art",
+    "filename": "wallpaper_1780758192.jpg",
+    "date": "2026-06-06 15:04:50",
+    "timestamp": 1780758192,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780727355",
     "category": "space",
     "category_name_en": "Space",

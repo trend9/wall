@@ -4,6 +4,7 @@ import random
 import time
 import urllib.parse
 import requests
+import io
 
 # Base paths
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -461,157 +462,152 @@ def main():
     print(f"Selected Category: {category['name_en']}")
     print(f"Prompt (EN): {prompt_en}")
     
-    # Call Pollinations AI
-    encoded_prompt = urllib.parse.quote(prompt_en)
-    seed = random.randint(0, 999999)
-    # 1920x1080 resolution
+    # Ensure raw prompt has dynamic variation to guarantee uniqueness
+    seed = random.randint(0, 9999999)
+    # Append subtle style parameters and the random seed directly into the prompt string
+    # to guarantee that even simple models generate totally different images
+    dynamic_suffixes = [
+        f"masterpiece, highly detailed, atmosphere: dramatic glow, seed: {seed}",
+        f"masterpiece, highly detailed, atmosphere: neon reflections, seed: {seed}",
+        f"masterpiece, highly detailed, atmosphere: cinematic lighting, seed: {seed}",
+        f"masterpiece, highly detailed, atmosphere: ethereal soft light, seed: {seed}"
+    ]
+    prompt_en_final = f"{prompt_en}, {random.choice(dynamic_suffixes)}"
+    encoded_prompt = urllib.parse.quote(prompt_en_final)
     success = False
-    
-    # 1. Try Hugging Face Inference API if HF_TOKEN is configured (Highly recommended, fast, & guaranteed)
-    hf_token = os.environ.get('HF_TOKEN')
-    if hf_token:
-        print("HF_TOKEN found! Initiating Hugging Face Inference API...")
-        # Use high-quality FLUX model or SDXL
-        hf_model = "black-forest-labs/FLUX.1-schnell"
-        hf_url = f"https://api-inference.huggingface.co/models/{hf_model}"
-        hf_headers = {"Authorization": f"Bearer {hf_token}"}
-        
-        for attempt in range(1, 4):
+
+    def save_image_from_bytes(content, filepath):
+        try:
+            from PIL import Image
+            img = Image.open(io.BytesIO(content))
+            if img.mode != 'RGB':
+                img = img.convert('RGB')
+            img.save(filepath, 'JPEG', quality=95)
+            print("Successfully converted and saved image using Pillow (JPG).")
+            return True
+        except Exception as e:
+            print(f"Pillow image conversion failed, saving raw bytes directly: {e}")
             try:
-                print(f"Requesting image from Hugging Face ({hf_model}) - Attempt {attempt}...")
-                response = requests.post(hf_url, json={"inputs": prompt_en}, headers=hf_headers, timeout=60)
+                with open(filepath, 'wb') as f:
+                    f.write(content)
+                return True
+            except Exception as ex:
+                print(f"Failed to write raw bytes: {ex}")
+                return False
+
+    # 1. Hugging Face Inference API (Try multiple models sequentially)
+    hf_token = os.environ.get('HF_TOKEN')
+    hf_headers = {"Authorization": f"Bearer {hf_token}"} if hf_token else {}
+    if not hf_token:
+        print("WARNING: HF_TOKEN not found in environment. Running anonymous Hugging Face requests...")
+
+    hf_models = [
+        "black-forest-labs/FLUX.1-schnell",
+        "stabilityai/stable-diffusion-xl-base-1.0",
+        "Lykon/dreamshaper-8",
+        "runwayml/stable-diffusion-v1-5",
+        "stabilityai/stable-diffusion-2-1"
+    ]
+
+    for hf_model in hf_models:
+        print(f"Initiating Hugging Face Inference API with model: {hf_model}...")
+        hf_url = f"https://api-inference.huggingface.co/models/{hf_model}"
+        
+        attempt_success = False
+        for attempt in range(1, 3):
+            try:
+                print(f"Requesting from Hugging Face ({hf_model}) - Attempt {attempt}...")
+                # Pass seed to Hugging Face parameters
+                payload = {
+                    "inputs": prompt_en_final,
+                    "parameters": {"seed": seed}
+                }
+                response = requests.post(hf_url, json=payload, headers=hf_headers, timeout=25)
+                
                 if response.status_code == 200:
-                    with open(filepath, 'wb') as f:
-                        f.write(response.content)
-                    print(f"Successfully generated and saved Hugging Face wallpaper to {filename}!")
-                    success = True
-                    prompt_en = f"[Hugging Face FLUX] {prompt_en}"
-                    break
+                    if save_image_from_bytes(response.content, filepath):
+                        print(f"Successfully generated and saved wallpaper from Hugging Face {hf_model}!")
+                        success = True
+                        prompt_en = f"[Hugging Face {hf_model}] {prompt_en_final}"
+                        attempt_success = True
+                        break
                 elif response.status_code == 503:
                     # Model loading, sleep and retry
-                    estimated_time = response.json().get("estimated_time", 20)
+                    try:
+                        estimated_time = min(response.json().get("estimated_time", 15), 20)
+                    except Exception:
+                        estimated_time = 15
                     print(f"Hugging Face model is loading. Waiting {estimated_time}s...")
                     time.sleep(estimated_time)
                 else:
-                    print(f"Hugging Face returned status code {response.status_code}: {response.text}")
-                    time.sleep(3)
+                    print(f"Hugging Face returned status code {response.status_code}: {response.text[:200]}")
+                    break  # Try next model if it is not 503
             except Exception as e:
                 print(f"Hugging Face request failed: {type(e).__name__}")
-                time.sleep(3)
+                break  # Try next model
+        if attempt_success:
+            break
 
-    # 2. Try Pollinations AI as second option (Free, keyless, but subject to IP rate limits)
+    # 2. Pollinations AI (Second option, but immediately skip on 402/Queue full)
     if not success:
         print("Proceeding to Pollinations AI attempts...")
-        # Try different models and parameters to bypass specific rate limits
         pollinations_configs = [
-            {"model": "flux", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=flux"},
-            {"model": "flux-realism", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=flux-realism"},
-            {"model": "turbo", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=turbo"},
-            {"model": "default", "params": f"?width=1920&height=1080&nologo=true&seed={seed}"}
+            {"model": "flux", "params": f"?width=1024&height=576&nologo=true&seed={seed}&model=flux"},
+            {"model": "flux-realism", "params": f"?width=1024&height=576&nologo=true&seed={seed}&model=flux-realism"},
+            {"model": "turbo", "params": f"?width=1024&height=576&nologo=true&seed={seed}&model=turbo"},
+            {"model": "default", "params": f"?width=1024&height=576&nologo=true&seed={seed}"}
         ]
         
         for config in pollinations_configs:
             url_attempt = f"https://image.pollinations.ai/prompt/{encoded_prompt}{config['params']}"
-            backoff = 3
             print(f"Targeting Pollinations (model: {config['model']}): {url_attempt}")
-            for attempt in range(1, 4):
-                try:
-                    response = requests.get(url_attempt, timeout=60)
-                    if response.status_code == 200:
-                        with open(filepath, 'wb') as f:
-                            f.write(response.content)
-                        print(f"Successfully saved Pollinations ({config['model']}) wallpaper to {filename}!")
+            try:
+                # Set a lower timeout to fail fast
+                response = requests.get(url_attempt, timeout=15)
+                if response.status_code == 200:
+                    if save_image_from_bytes(response.content, filepath):
+                        print(f"Successfully saved Pollinations ({config['model']}) wallpaper!")
                         success = True
-                        prompt_en = f"[Pollinations {config['model'].upper()}] {prompt_en}"
+                        prompt_en = f"[Pollinations {config['model'].upper()}] {prompt_en_final}"
                         break
-                    elif response.status_code == 402:
-                        print(f"Attempt {attempt}: Received 402 (Queue full). Retrying in {backoff} seconds...")
-                        time.sleep(backoff)
-                        backoff *= 1.5
-                    else:
-                        print(f"Attempt {attempt}: Received status code {response.status_code}. Retrying in {backoff} seconds...")
-                        time.sleep(backoff)
-                        backoff *= 1.5
-                except Exception as e:
-                    print(f"Attempt {attempt}: Request failed with error: {type(e).__name__}. Retrying in {backoff} seconds...")
-                    time.sleep(backoff)
-                    backoff *= 1.5
-            
-            if success:
-                break
-            else:
-                print(f"Pollinations model {config['model']} failed. Trying next configuration...")
+                elif response.status_code == 402:
+                    print(f"Received 402 (Queue full) for Pollinations model {config['model']}. Skipping immediately...")
+                else:
+                    print(f"Received status code {response.status_code} for Pollinations model {config['model']}. Trying next...")
+            except Exception as e:
+                print(f"Pollinations request failed with error: {type(e).__name__}. Trying next...")
 
-    # 3. Try Hercai API (Free, keyless, REST-based fallback)
+    # 3. AI Horde (Stable Horde) (Final option, queue-based fallback, purely generates from prompt)
     if not success:
-        print("Pollinations AI failed. Initiating Hercai API attempts...")
-        herc_models = ["v3", "simurg", "lexica"]
-        for model in herc_models:
-            print(f"Requesting image from Hercai (model: {model})...")
-            herc_url = f"https://hercai.onrender.com/{model}/text2image"
-            for attempt in range(1, 4):
-                try:
-                    response = requests.get(herc_url, params={"prompt": prompt_en}, timeout=60)
-                    if response.status_code == 200:
-                        res_json = response.json()
-                        img_url = res_json.get("url")
-                        if img_url:
-                            print(f"Hercai successfully returned image URL: {img_url}. Downloading...")
-                            img_data = requests.get(img_url, timeout=60)
-                            if img_data.status_code == 200:
-                                with open(filepath, 'wb') as f:
-                                    f.write(img_data.content)
-                                print(f"Successfully saved Hercai wallpaper to {filename}!")
-                                success = True
-                                prompt_en = f"[Hercai {model}] {prompt_en}"
-                                break
-                            else:
-                                print(f"Failed to download image from Hercai URL. Status: {img_data.status_code}")
-                        else:
-                            print(f"Hercai response missing 'url' key: {res_json}")
-                    else:
-                        print(f"Hercai attempt {attempt} returned status: {response.status_code}")
-                    time.sleep(3)
-                except Exception as e:
-                    print(f"Hercai attempt {attempt} failed: {type(e).__name__}")
-                    time.sleep(3)
-            if success:
-                break
-            else:
-                print(f"Hercai model {model} failed. Trying next model...")
-
-    # 4. Try AI Horde (Stable Horde) anonymous API (Free, keyless, queue-based fallback)
-    if not success:
-        print("Hercai AI failed. Initiating AI Horde generation fallback...")
+        print("Initiating AI Horde generation fallback...")
         horde_url = "https://aihorde.net/api/v2/generate/async"
         horde_headers = {
             "apikey": "0000000000",  # Anonymous API key
             "Client-Agent": "AetheriaWallpaperSystem:1.0:user@example.com"
         }
         
-        # Explicitly request the most active models to ensure fast queue processing
         horde_payload = {
-            "prompt": prompt_en,
+            "prompt": prompt_en_final,
             "models": ["stable_diffusion", "Dreamshaper", "Deliberate"],
             "params": {
-                "width": 1024,
-                "height": 576,
-                "steps": 20,
+                "width": 512,
+                "height": 512,
+                "steps": 15,
                 "cfg_scale": 7.0
             }
         }
         
         try:
             print("Submitting request to AI Horde...")
-            submit_resp = requests.post(horde_url, json=horde_payload, headers=horde_headers, timeout=45)
+            submit_resp = requests.post(horde_url, json=horde_payload, headers=horde_headers, timeout=25)
             if submit_resp.status_code == 202:
                 job_id = submit_resp.json().get("id")
                 print(f"AI Horde accepted request! Job ID: {job_id}. Polling for results...")
                 status_url = f"https://aihorde.net/api/v2/generate/status/{job_id}"
                 
-                # Poll status up to 36 times (3 minutes max)
-                for poll in range(1, 37):
-                    status_resp = requests.get(status_url, timeout=30)
+                # Poll status up to 15 times (approx 45 seconds max)
+                for poll in range(1, 16):
+                    status_resp = requests.get(status_url, timeout=15)
                     if status_resp.status_code == 200:
                         status_data = status_resp.json()
                         if status_data.get("done") is True:
@@ -619,53 +615,21 @@ def main():
                             if generations:
                                 img_url = generations[0].get("img")
                                 print(f"AI Horde finished! Downloading generated image from: {img_url}")
-                                img_data = requests.get(img_url, timeout=45)
+                                img_data = requests.get(img_url, timeout=25)
                                 if img_data.status_code == 200:
-                                    with open(filepath, 'wb') as f:
-                                        f.write(img_data.content)
-                                    print(f"Successfully saved AI Horde wallpaper to {filename}!")
-                                    success = True
-                                    prompt_en = f"[AI Horde Generated] {prompt_en}"
-                                    break
+                                    if save_image_from_bytes(img_data.content, filepath):
+                                        print("Successfully saved AI Horde wallpaper!")
+                                        success = True
+                                        prompt_en = f"[AI Horde Generated] {prompt_en_final}"
+                                        break
                         elif status_data.get("faulted") is True:
                             print("AI Horde job failed (faulted).")
                             break
-                    time.sleep(5)
+                    time.sleep(3)
             else:
                 print(f"AI Horde submission failed: {submit_resp.status_code}")
         except Exception as e:
             print(f"AI Horde encountered error: {type(e).__name__}")
-            
-    # 5. CRITICAL LAST RESORT: Fall back to stock photos if all AI backends fail
-    if not success:
-        print("All AI generation backends failed. Falling back to stock photo...")
-        fallback_keywords = {
-            "cyberpunk": "cyberpunk,neon,city,night,futuristic",
-            "nature": "landscape,mountain,forest,waterfall,nature",
-            "anime": "illustration,japanese,art,scenery",
-            "minimalist": "minimalist,geometric,pastel,simple",
-            "space": "galaxy,nebula,space,stars,astronaut",
-            "abstract": "abstract,fluid,acrylic,smoke,art"
-        }
-        kw = fallback_keywords.get(category["id"], "wallpaper,landscape")
-        fallback_url = f"https://picsum.photos/1920/1080?sig={timestamp}&q={kw}"
-        
-        for attempt in range(1, 4):
-            try:
-                response = requests.get(fallback_url, timeout=45)
-                if response.status_code == 200:
-                    with open(filepath, 'wb') as f:
-                        f.write(response.content)
-                    print(f"Successfully saved last-resort stock wallpaper to {filename}!")
-                    success = True
-                    prompt_en = f"[Stock Photo fallback] Keywords: {kw.replace(',', ', ')}"
-                    break
-                else:
-                    print(f"Fallback attempt {attempt} failed. Retrying...")
-                    time.sleep(2)
-            except Exception as e:
-                print(f"Fallback attempt {attempt} threw exception: {type(e).__name__}. Retrying...")
-                time.sleep(2)
 
     if success:
         # Create a database record
