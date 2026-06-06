@@ -517,12 +517,12 @@ def main():
         for attempt in range(1, 3):
             try:
                 print(f"Requesting from Hugging Face ({hf_model}) - Attempt {attempt}...")
-                # Pass seed to Hugging Face parameters
+                # Pass width, height and seed for 1920x1080 wallpaper
                 payload = {
                     "inputs": prompt_en_final,
-                    "parameters": {"seed": seed}
+                    "parameters": {"width": 1920, "height": 1080, "seed": seed}
                 }
-                response = requests.post(hf_url, json=payload, headers=hf_headers, timeout=25)
+                response = requests.post(hf_url, json=payload, headers=hf_headers, timeout=60)
                 
                 if response.status_code == 200:
                     if save_image_from_bytes(response.content, filepath):
@@ -552,10 +552,10 @@ def main():
     if not success:
         print("Proceeding to Pollinations AI attempts...")
         pollinations_configs = [
-            {"model": "flux", "params": f"?width=1024&height=576&nologo=true&seed={seed}&model=flux"},
-            {"model": "flux-realism", "params": f"?width=1024&height=576&nologo=true&seed={seed}&model=flux-realism"},
-            {"model": "turbo", "params": f"?width=1024&height=576&nologo=true&seed={seed}&model=turbo"},
-            {"model": "default", "params": f"?width=1024&height=576&nologo=true&seed={seed}"}
+            {"model": "flux", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=flux"},
+            {"model": "flux-realism", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=flux-realism"},
+            {"model": "turbo", "params": f"?width=1920&height=1080&nologo=true&seed={seed}&model=turbo"},
+            {"model": "default", "params": f"?width=1920&height=1080&nologo=true&seed={seed}"}
         ]
         
         for config in pollinations_configs:
@@ -586,13 +586,14 @@ def main():
             "Client-Agent": "AetheriaWallpaperSystem:1.0:user@example.com"
         }
         
+        # AI Horde max supported 16:9 resolution is 1024x576 (both multiples of 64)
         horde_payload = {
             "prompt": prompt_en_final,
             "models": ["stable_diffusion", "Dreamshaper", "Deliberate"],
             "params": {
-                "width": 512,
-                "height": 512,
-                "steps": 15,
+                "width": 1024,
+                "height": 576,
+                "steps": 20,
                 "cfg_scale": 7.0
             }
         }
