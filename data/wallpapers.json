@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780840073",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Serene Anime",
+    "title_ja": "静寂なアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting a futuristic anime city with clean modern streets, green foliage, and high-tech monorail. Generated with state-of-the-art AI.",
+    "description_ja": "クリーンでモダンな通り、緑の木々、ハイテクなモノレールがある未来のアニメ都市を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[AI Horde Generated] a futuristic anime city with clean modern streets, green foliage, and high-tech monorail, studio ghibli aesthetic, hand-drawn anime style, highly detailed illustration, warm colors, nostalgic, beautiful lighting, desktop wallpaper, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8533089",
+    "filename": "wallpaper_1780840073.jpg",
+    "date": "2026-06-07 13:48:20",
+    "timestamp": 1780840073,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780823640",
     "category": "nature",
     "category_name_en": "Nature",
