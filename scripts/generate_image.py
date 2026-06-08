@@ -418,20 +418,17 @@ def generate_rss_feed(wallpapers):
         f.write(rss_content)
     print("Successfully generated RSS feed (feed.xml) for Pinterest integration!")
 
-def generate_metadata_with_llm(category, subject, style, hf_token):
+def generate_metadata_with_llm(category, subject, style, colab_url):
     """
-    Call a Hugging Face LLM to generate creative titles, descriptions,
+    Call a Colab LLM to generate creative titles, descriptions,
     and a high-quality image generation prompt based on the given subject.
     Returns a dict with: title_en, title_ja, description_en, description_ja, image_prompt
     Returns None on failure (caller should fall back to templates).
     """
-    llm_models = [
-        "mistralai/Mistral-7B-Instruct-v0.3",
-        "HuggingFaceH4/zephyr-7b-beta",
-        "microsoft/Phi-3-mini-128k-instruct",
-        "google/gemma-2-2b-it"
-    ]
-    
+    if not colab_url:
+        print("COLAB_API_URL not set. Skipping Colab LLM.")
+        return None
+
     system_prompt = (
         "You are a creative writer and AI art director. "
         "Your task is to generate metadata for an AI-generated desktop wallpaper. "
@@ -456,50 +453,39 @@ def generate_metadata_with_llm(category, subject, style, hf_token):
         "Respond with ONLY the JSON object."
     )
     
-    headers = {"Authorization": f"Bearer {hf_token}"} if hf_token else {}
-    
-    for model in llm_models:
-        api_url = f"https://api-inference.huggingface.co/models/{model}/v1/chat/completions"
-        payload = {
-            "model": model,
-            "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt}
-            ],
-            "max_tokens": 600,
-            "temperature": 0.85
-        }
-        try:
-            print(f"Calling HF LLM ({model}) for metadata generation...")
-            resp = requests.post(api_url, json=payload, headers=headers, timeout=30)
-            if resp.status_code == 200:
-                raw_text = resp.json()["choices"][0]["message"]["content"].strip()
-                print(f"LLM raw response: {raw_text[:200]}...")
-                # Strip any accidental markdown fences
-                raw_text = raw_text.replace("```json", "").replace("```", "").strip()
-                # Find the JSON object within the response
-                start = raw_text.find("{")
-                end = raw_text.rfind("}") + 1
-                if start != -1 and end > start:
-                    metadata = json.loads(raw_text[start:end])
-                    required = ["title_en", "title_ja", "description_en", "description_ja", "image_prompt"]
-                    if all(k in metadata for k in required):
-                        print(f"LLM metadata generation successful!")
-                        print(f"  Title EN: {metadata['title_en']}")
-                        print(f"  Title JA: {metadata['title_ja']}")
-                        return metadata
-                    else:
-                        print(f"LLM response missing required keys. Trying next model...")
+    try:
+        print("Calling Colab LLM for metadata generation...")
+        resp = requests.post(
+            f"{colab_url.rstrip('/')}/generate/text",
+            json={
+                "system_prompt": system_prompt,
+                "user_prompt": user_prompt
+            },
+            timeout=30
+        )
+        if resp.status_code == 200:
+            raw_text = resp.json().get("result", "").strip()
+            print(f"LLM raw response: {raw_text[:200]}...")
+            # Strip any accidental markdown fences
+            raw_text = raw_text.replace("```json", "").replace("```", "").strip()
+            # Find the JSON object within the response
+            start = raw_text.find("{")
+            end = raw_text.rfind("}") + 1
+            if start != -1 and end > start:
+                metadata = json.loads(raw_text[start:end])
+                required = ["title_en", "title_ja", "description_en", "description_ja", "image_prompt"]
+                if all(k in metadata for k in required):
+                    print("LLM metadata generation successful!")
+                    return metadata
                 else:
-                    print(f"LLM response is not valid JSON. Trying next model...")
-            elif resp.status_code == 503:
-                print(f"LLM model {model} is loading, skipping to next...")
+                    print("LLM response missing required keys.")
             else:
-                print(f"LLM {model} returned status {resp.status_code}. Trying next model...")
-        except Exception as e:
-            print(f"LLM {model} failed: {type(e).__name__}. Trying next model...")
+                print("LLM response is not valid JSON.")
+        else:
+            print(f"LLM returned status {resp.status_code}.")
+    except Exception as e:
+        print(f"LLM failed: {type(e).__name__}")
     
-    print("All LLM models failed. Falling back to fixed templates.")
     return None
 
 
@@ -524,9 +510,9 @@ def main():
     print(f"Selected Category: {category['name_en']}")
     print(f"Base Subject (EN): {subject['en']}")
     
-    # --- Try HF LLM for creative metadata & image prompt ---
-    hf_token = os.environ.get('HF_TOKEN')
-    llm_result = generate_metadata_with_llm(category, subject, style, hf_token)
+    # --- Try Colab LLM for creative metadata & image prompt ---
+    colab_url = os.environ.get('COLAB_API_URL')
+    llm_result = generate_metadata_with_llm(category, subject, style, colab_url)
     
     if llm_result:
         title_en      = llm_result["title_en"]
@@ -584,58 +570,30 @@ def main():
                 print(f"Failed to write raw bytes: {ex}")
                 return False
 
-    # 1. Hugging Face Inference API (Try multiple models sequentially)
-    hf_token = os.environ.get('HF_TOKEN')
-    hf_headers = {"Authorization": f"Bearer {hf_token}"} if hf_token else {}
-    if not hf_token:
-        print("WARNING: HF_TOKEN not found in environment. Running anonymous Hugging Face requests...")
-
-    hf_models = [
-        "black-forest-labs/FLUX.1-schnell",
-        "stabilityai/stable-diffusion-xl-base-1.0",
-        "Lykon/dreamshaper-8",
-        "runwayml/stable-diffusion-v1-5",
-        "stabilityai/stable-diffusion-2-1"
-    ]
-
-    for hf_model in hf_models:
-        print(f"Initiating Hugging Face Inference API with model: {hf_model}...")
-        hf_url = f"https://api-inference.huggingface.co/models/{hf_model}"
-        
-        attempt_success = False
-        for attempt in range(1, 3):
-            try:
-                print(f"Requesting from Hugging Face ({hf_model}) - Attempt {attempt}...")
-                # Pass width, height and seed for 1920x1080 wallpaper
-                payload = {
-                    "inputs": prompt_en_final,
-                    "parameters": {"width": 1920, "height": 1080, "seed": seed}
-                }
-                response = requests.post(hf_url, json=payload, headers=hf_headers, timeout=60)
-                
-                if response.status_code == 200:
-                    if save_image_from_bytes(response.content, filepath):
-                        print(f"Successfully generated and saved wallpaper from Hugging Face {hf_model}!")
+    # 1. Colab Stable Diffusion
+    if colab_url:
+        print("Calling Colab Stable Diffusion for image generation...")
+        try:
+            payload = {
+                "prompt": prompt_en_final,
+                "width": 512,
+                "height": 512
+            }
+            response = requests.post(f"{colab_url.rstrip('/')}/generate/image", json=payload, timeout=90)
+            if response.status_code == 200:
+                res_json = response.json()
+                base64_str = res_json.get("image_base64")
+                if base64_str:
+                    import base64
+                    img_data = base64.b64decode(base64_str)
+                    if save_image_from_bytes(img_data, filepath):
+                        print("Successfully generated and saved wallpaper from Colab!")
                         success = True
-                        prompt_en = f"[Hugging Face {hf_model}] {prompt_en_final}"
-                        attempt_success = True
-                        break
-                elif response.status_code == 503:
-                    # Model loading, sleep and retry
-                    try:
-                        estimated_time = min(response.json().get("estimated_time", 15), 20)
-                    except Exception:
-                        estimated_time = 15
-                    print(f"Hugging Face model is loading. Waiting {estimated_time}s...")
-                    time.sleep(estimated_time)
-                else:
-                    print(f"Hugging Face returned status code {response.status_code}: {response.text[:200]}")
-                    break  # Try next model if it is not 503
-            except Exception as e:
-                print(f"Hugging Face request failed: {type(e).__name__}")
-                break  # Try next model
-        if attempt_success:
-            break
+                        prompt_en = f"[Colab Stable Diffusion] {prompt_en_final}"
+            else:
+                print(f"Colab Image API returned status code {response.status_code}")
+        except Exception as e:
+            print(f"Colab Stable Diffusion request failed: {type(e).__name__}")
 
     # 2. Pollinations AI (Second option, but immediately skip on 402/Queue full)
     if not success:

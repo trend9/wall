@@ -32,7 +32,7 @@ jobs:
 
       - name: Run generation script
         env:
-          HF_TOKEN: "${{ secrets.HF_TOKEN }}"
+          COLAB_API_URL: "${{ secrets.COLAB_API_URL }}"
         run: python scripts/generate_image.py
 
       - name: Commit and push changes
