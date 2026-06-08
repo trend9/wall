@@ -511,7 +511,12 @@ def main():
     print(f"Base Subject (EN): {subject['en']}")
     
     # --- Try Colab LLM for creative metadata & image prompt ---
-    colab_url = os.environ.get('COLAB_API_URL')
+    import sys
+    colab_url = None
+    if len(sys.argv) > 1 and (sys.argv[1].startswith("http://") or sys.argv[1].startswith("https://")):
+        colab_url = sys.argv[1]
+    else:
+        colab_url = os.environ.get('COLAB_API_URL')
     llm_result = generate_metadata_with_llm(category, subject, style, colab_url)
     
     if llm_result:
