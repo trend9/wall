@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1780998375",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Digital Grid Waves",
+    "title_ja": "デジタルグリッドの波",
+    "description_en": "This abstract wallpaper features a retro-wave digital grid, adorned with organic neon silk-like waves that create a mesmerizing and vibrant atmosphere. Experience the beauty of modern abstract art in your workspace.",
+    "description_ja": "この抽象的なWallpaperは、レトロなデジタルグリッドに有機的なネオンシルクのような波が浮かび、魅惑的で活気のある雰囲気を演出します。仕事場を飾るためのモダンな抽象的なアートを楽しむことができます。",
+    "prompt": "[Colab Stable Diffusion] A high-resolution 8k digital painting, masterpiece, cinematic, 3D rendered, with vibrant neon colors, organic neon silk-like waves floating above a retro-wave digital grid. Use octane render for realistic lighting and atmosphere. Focus on the intricate details of the wave pattern and its interplay with the grid., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1646382",
+    "filename": "wallpaper_1780998375.jpg",
+    "date": "2026-06-09 09:47:09",
+    "timestamp": 1780998375,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1780941245",
     "category": "space",
     "category_name_en": "Space",
