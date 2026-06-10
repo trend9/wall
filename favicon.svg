@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <!-- Sunset/Dawn Gradient -->
+    <linearGradient id="aetheria-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5E7E"/>
+      <stop offset="50%" stop-color="#845ef7"/>
+      <stop offset="100%" stop-color="#339af0"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Outer border circle -->
+  <circle cx="50" cy="50" r="48" fill="url(#aetheria-grad)"/>
+  
+  <!-- Stylized diamond/star (representing digital art frame/aperture) -->
+  <path d="M50 15 L62 38 L85 50 L62 62 L50 85 L38 62 L15 50 L38 38 Z" fill="#ffffff"/>
+  
+  <!-- Core sphere -->
+  <circle cx="50" cy="50" r="8" fill="url(#aetheria-grad)"/>
+</svg>
