@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781123659",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Ringed Exoplanet Rising Over a Barren Moon",
+    "title_ja": "輪を持つ系外惑星の地平線に昇る",
+    "description_en": "Witness a distant ringed exoplanet rising above the barren landscape of an alien moon. Explore the vastness of space and its captivating beauty with this detailed, cinematic artwork.",
+    "description_ja": "遠くの輪を持つ系外惑星が、荒れ果てたエイリアンの月の地平線に昇る様子を捉える。この詳細で、映画的な雰囲気のArtworkを通じて、宇宙の広大さと魅力を見つける。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, cinematic rendering of a distant ringed exoplanet rising over the barren horizon of an alien moon landscape. Inspired by the Hubble telescope style, featuring epic space exploration art and stunning photorealistic lighting. Masterpiece, 8k, highly detailed, cinematic, masterpiece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4566412",
+    "filename": "wallpaper_1781123659.jpg",
+    "date": "2026-06-10 20:35:31",
+    "timestamp": 1781123659,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781105907",
     "category": "minimalist",
     "category_name_en": "Minimalist",
