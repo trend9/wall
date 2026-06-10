@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781085854",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Cozy Summer Study",
+    "title_ja": "夏空の書斎",
+    "description_en": "Embark on a relaxing journey into a cozy anime-style study room bathed in warm summer light. This dreamy scene captures the nostalgia and beauty of a beloved anime aesthetic.",
+    "description_ja": "この夏の空と、ふわふわした白い雲が見える書斎は、温かい光で満たされています。懐かしいアニメの雰囲気を感じられる、魅力的なシーンです。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, 8k Stable Diffusion artwork of a cozy anime-style study room with a window overlooking a summer sky filled with fluffy white clouds. The scene is rendered in the studio Ghibli aesthetic with warm colors and nostalgic lighting, creating a cinematic masterpiece. Keywords: masterpieece, 8k, highly detailed, cinematic, Studio Ghibli, Anime, Summer Sky, Cloud, Cozy Study Room, Warm Light, Nostalgia, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 396258",
+    "filename": "wallpaper_1781085854.jpg",
+    "date": "2026-06-10 10:05:22",
+    "timestamp": 1781085854,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781076945",
     "category": "nature",
     "category_name_en": "Nature",
