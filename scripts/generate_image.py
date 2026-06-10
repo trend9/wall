@@ -62,7 +62,7 @@ def generate_individual_pages(wallpapers):
   <meta property="og:type" content="article">
   
   <!-- CSS Link -->
-  <link rel="icon" type="image/svg+xml" href="../favicon.svg" />
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg?v=2" />
   <link rel="stylesheet" href="../index.css">
   
   <!-- Feather Icons -->
