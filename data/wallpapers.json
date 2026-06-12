@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781303227",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sun & Dunes: Minimalist Geometric Composition",
+    "title_ja": "太陽と砂丘: ミニマルで抽象的な幾何学的デザイン",
+    "description_en": "Embrace tranquility with this minimalist abstract composition. Sun and dunes are rendered in warm pastel tones, creating a serene and calming atmosphere.",
+    "description_ja": "穏やかで落ち着く雰囲気を醸し出す、ミニマルな抽象的な幾何学的デザイン。暖色系のパステルカラーで太陽と砂丘が表現され、静寂な空間を作り出している",
+    "prompt": "[Colab Stable Diffusion] Masterpiece, 8k, highly detailed, cinematic photorealistic image of a minimalist abstract geometric composition featuring sun and dunes rendered in warm pastel colors. Clean minimalist design with subtle textures, elegant composition in soft lighting, peaceful atmosphere, zen aesthetic., masterpiece, highly detailed, atmosphere: neon reflections, seed: 2759221",
+    "filename": "wallpaper_1781303227.jpg",
+    "date": "2026-06-12 22:28:13",
+    "timestamp": 1781303227,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781295235",
     "category": "anime",
     "category_name_en": "Anime",
