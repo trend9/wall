@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781378896",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Sunset Airship in Cloud Sea",
+    "title_ja": "夕暮れ時の雲海に浮かぶ飛行船",
+    "description_en": "Experience a stunning airship gliding through a sunset cloud sea, bathed in warm lighting and nostalgic charm.  A masterpiece of anime-inspired art.",
+    "description_ja": "夕暮れの雲海に浮かぶ飛行船を、温かい光とノスタルジックな雰囲気で表現した、アニメ調の傑作です。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed 8k artwork in the style of Studio Ghibli, depicting a retro-futuristic steampunk airship floating over a sea of clouds at sunset. Use warm colors and glowing lights. The scene should have a cinematic atmosphere, with soft brushstrokes for a hand-drawn anime feel.  Tags: masterpiece, 8k, highly detailed, cinematic, artstation, trending, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 9781121",
+    "filename": "wallpaper_1781378896.jpg",
+    "date": "2026-06-13 19:29:22",
+    "timestamp": 1781378896,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781367363",
     "category": "nature",
     "category_name_en": "Nature",
