@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781454236",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Peaceful Cherry Blossom Path",
+    "title_ja": "満開の静かな桜並木",
+    "description_en": "Experience the ethereal beauty of a peaceful cherry blossom path in full bloom, where petals gently float on a soft spring breeze. This captivating wallpaper captures the serenity and wonder of nature's art.",
+    "description_ja": "春の風の中で、満開の桜並木が静かに映し出されています。花びらが優しく舞い、幻想的な美しさを感じられるでしょう。",
+    "prompt": "[Colab Stable Diffusion] A breathtaking close-up portrait of a peaceful cherry blossom path in full bloom, with petals gently floating on the soft spring breeze. Masterpiece, 8k, highly detailed, cinematic, National Geographic style, soft lighting, natural bokeh, vibrant colors, award-winning photography., masterpiece, highly detailed, atmosphere: neon reflections, seed: 969999",
+    "filename": "wallpaper_1781454236.jpg",
+    "date": "2026-06-14 16:25:03",
+    "timestamp": 1781454236,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781445930",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
