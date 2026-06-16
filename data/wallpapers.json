@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781608421",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Stunning Minimalist",
+    "title_ja": "見事なミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a simple pastel colored mountain range silhouette under a pale sun, clean lines. Generated with state-of-the-art AI.",
+    "description_ja": "淡い太陽の下に広がる、シンプルなパステルカラーの山脈のシルエット、クリーンなラインを描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a simple pastel colored mountain range silhouette under a pale sun, clean lines, clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic, zen, 8k resolution, masterpiece, highly detailed, atmosphere: neon reflections, seed: 4243579",
+    "filename": "wallpaper_1781608421.jpg",
+    "date": "2026-06-16 11:15:04",
+    "timestamp": 1781608421,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781583182",
     "category": "anime",
     "category_name_en": "Anime",
