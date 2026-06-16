@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781628922",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Solitude",
+    "title_ja": "宇宙の静寂",
+    "description_en": "Discover a serene astronaut floating amidst a tapestry of galaxies and cosmic dust in this breathtaking depiction of space exploration. The image captures the vastness and beauty of the cosmos.",
+    "description_ja": "広大な宇宙空間で、宇宙飛行士が銀河と宇宙塵に包まれ、静かに漂う様子を捉えた、壮大な宇宙探索の画像です。宇宙の広大さと美しさを堪能してください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece image of an astronaut floating peacefully in deep space. Immerse yourself in a stunning cosmic scene capturing the Hubble telescope-style details with cinematic lighting and high atmospheric quality. The scene should be filled with colorful dust particles, distant galaxies swirling around the astronaut, and a peaceful mood., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5158077",
+    "filename": "wallpaper_1781628922.jpg",
+    "date": "2026-06-16 16:56:32",
+    "timestamp": 1781628922,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781608421",
     "category": "minimalist",
     "category_name_en": "Minimalist",
