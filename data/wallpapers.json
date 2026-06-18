@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781823486",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Nebula Starbirth Symphony",
+    "title_ja": "宇宙星雲の劇的な演奏",
+    "description_en": "Explore a breathtaking nebula teeming with vibrant violet, blue and gold dust clouds as stars ignite within. This stunning cosmic scene captures the awe-inspiring beauty of interstellar space.",
+    "description_ja": "壮大な宇宙星雲に、鮮やかなバイオレット、ブルー、ゴールドの宇宙塵が織りなす幻想的な風景を眺めましょう。この宇宙の美しさを存分に堪能しましょう。",
+    "prompt": "[Colab Stable Diffusion] A hyperrealistic 8k masterpiece, Cinematic lighting from Unreal Engine 5 rendering, an interstellar space scene, vibrant nebula with violet, blue and gold dust clouds forming stars. This cosmic landscape depicts a symphony of stellar birth in the depths of space. High-quality details, highly detailed, master piece, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1936880",
+    "filename": "wallpaper_1781823486.jpg",
+    "date": "2026-06-18 22:59:15",
+    "timestamp": 1781823486,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781814539",
     "category": "minimalist",
     "category_name_en": "Minimalist",
