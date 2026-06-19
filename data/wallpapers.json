@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781843002",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Glass Ribbons Dancing in Color",
+    "title_ja": "ガラスリボンが踊る、カラフルなグラデーションの壁紙",
+    "description_en": "Experience a mesmerizing dance of colorful ribbons, shimmering with 3D depth and ethereal beauty. This abstract wallpaper captivates the senses with vibrant hues and intricate details.",
+    "description_ja": "鮮やかな色のリボンが、3Dで躍動する魅惑的なダンスを堪能してください。この抽象的な壁紙は、鮮やかな色と複雑な詳細によって感覚に刺激を与えます。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic render of a mesmerizing looping glass ribbons in vibrant colors reflecting a colorful gradient background. Focus on high-quality textures and intricate details, with soft ambient lighting, ethereal atmosphere, studio setting. #glassribbons, #abstractart, #3Dwallpaper, #colorgradient, masterpiece, highly detailed, atmosphere: neon reflections, seed: 8304113",
+    "filename": "wallpaper_1781843002.jpg",
+    "date": "2026-06-19 04:24:16",
+    "timestamp": 1781843002,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781823486",
     "category": "space",
     "category_name_en": "Space",
