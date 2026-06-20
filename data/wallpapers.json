@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781927075",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Celestial Station in Orbit",
+    "title_ja": "宇宙ステーションの軌道を回る",
+    "description_en": "This stunning wallpaper features a futuristic space station orbiting a vibrant, Earth-like planet against a backdrop of swirling nebulae. Immerse yourself in the vastness of space and the beauty of the unknown.",
+    "description_ja": "美しい緑と青の地球のような惑星の軌道を回る、未来的な宇宙ステーションが、渦巻く銀河に映る。広大な宇宙と未知の世界を堪能しましょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and photorealistic 8k masterpiece of a futuristic space station orbiting a beautiful green and blue Earth-like planet. Utilize Hubble telescope style, cinematic lighting, epic scope, and explore the vastness of space with swirling nebulae. Emphasize cosmic wonder, detail, and realism.  tags: #masterpiece, #8k, #highlydetailed, #cinematic, #spaceexploration, #HubbleTelescope, masterpiece, highly detailed, atmosphere: neon reflections, seed: 6941092",
+    "filename": "wallpaper_1781927075.jpg",
+    "date": "2026-06-20 03:45:42",
+    "timestamp": 1781927075,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781906853",
     "category": "minimalist",
     "category_name_en": "Minimalist",
