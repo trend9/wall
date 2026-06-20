@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1781993398",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Astronaut Drifting in Cosmic Symphony",
+    "title_ja": "宇宙飛行士の静かな漂う",
+    "description_en": "This majestic image captures an astronaut peacefully floating amidst a swirling nebula of colors and distant galaxies, enveloped by the vastness of deep space.  A sense of serenity and awe emanates from this stunning artwork.",
+    "description_ja": "宇宙空間の静寂の中で、宇宙飛行士は銀河とカラフルな塵に囲まれ、深宇宙を漂う。この美しい作品は、宇宙の広大さを表現した壮大な光景を描き出す。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic lighting, inspired by the Hubble Telescope style, an astronaut adrift in deep space surrounded by distant galaxies and colorful dust nebulas. The scene is filled with cosmic wonder, serene atmosphere, and a sense of awe-inspiring depth. Tags: epic space exploration art, master piece, 8k, highly detailed, cinematic, photorealistic, nebulae, stars, planets, galaxy, deep space, astronaut, serenity., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1574084",
+    "filename": "wallpaper_1781993398.jpg",
+    "date": "2026-06-20 22:11:07",
+    "timestamp": 1781993398,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1781983769",
     "category": "minimalist",
     "category_name_en": "Minimalist",
