@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782071059",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Pale Sun Peaks",
+    "title_ja": "淡い太陽の下のシンプルな山脈",
+    "description_en": "This serene wallpaper depicts a simple, pastel-colored mountain range silhouette bathed in a soft, pale sun. The clean lines and muted color palette create a peaceful and minimalistic aesthetic.",
+    "description_ja": "この静寂な壁紙には、淡い太陽の下に広がるシンプルなパステルカラーの山脈のシルエットが描かれています。クリーンなラインと淡いカラーパレットは、穏やかでシンプルながらも美しい美しさをもたらします。",
+    "prompt": "[Colab Stable Diffusion] A majestic pastel mountain range silhouette, rendered in a nordic minimalist style with soft shadows and muted tones. Capture the serenity of dawn under a pale sun, using intricate details and high-resolution 8k imaging.  The scene should be bathed in a subtle light and have a cinematic feel with masterful composition. Tags: masterpiece, 8k, highly detailed, cinematic, soft lighting, minimal, pastel, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6716703",
+    "filename": "wallpaper_1782071059.jpg",
+    "date": "2026-06-21 19:45:27",
+    "timestamp": 1782071059,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782060476",
     "category": "anime",
     "category_name_en": "Anime",
