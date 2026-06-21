@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782060476",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Epic Anime",
+    "title_ja": "壮大なアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting an industrial retro-futuristic steampunk airship floating over a sea of clouds at sunset. Generated with state-of-the-art AI.",
+    "description_ja": "夕暮れ時の雲海に浮かぶ、インダストリアルでレトロフューチャーなスチームパンクの飛行船を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] an industrial retro-futuristic steampunk airship floating over a sea of clouds at sunset, makoto shinkai style, gorgeous sky details, lens flare, vivid color grading, ethereal, wind blowing, high quality digital art, masterpiece, highly detailed, atmosphere: neon reflections, seed: 280240",
+    "filename": "wallpaper_1782060476.jpg",
+    "date": "2026-06-21 16:49:07",
+    "timestamp": 1782060476,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782051227",
     "category": "nature",
     "category_name_en": "Nature",
