@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782129506",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon City Hacker's Den",
+    "title_ja": "サイバーパンクハッカーの隠れ家",
+    "description_en": "Dive into a thrilling cyberpunk hacker den, filled with holographic screens and neon glow, where technology reigns supreme. This moody masterpiece evokes the energy of a vibrant, futuristic city.",
+    "description_ja": "サイバーパンクの世界に潜入する。ホログラフィックスクリーンとネオンの輝きが、テクノロジーに満ちた都市の活気を放つ。この情緒豊かな作品は、未来都市の躍動感を表現します。",
+    "prompt": "[Colab Stable Diffusion] Masterpiece, 8k, highly detailed, cinematic, cyberpunk hacker den with multiple glowing holographic screens, futuristic synthwave aesthetic, neon glow, wet reflections, dark and gritty atmosphere, powerful lighting. octane render, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4768482",
+    "filename": "wallpaper_1782129506.jpg",
+    "date": "2026-06-22 11:59:31",
+    "timestamp": 1782129506,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782101980",
     "category": "abstract",
     "category_name_en": "Abstract",
