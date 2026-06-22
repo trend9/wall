@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782161484",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Urban Oasis of Tomorrow",
+    "title_ja": "未来都市の緑",
+    "description_en": "Explore a mesmerizing futuristic anime city brimming with clean lines, vibrant greenery, and high-tech monorail infrastructure. The ethereal beauty of the setting evokes a sense of wonder and tranquility.",
+    "description_ja": "未来都市の cleanなラインと鮮やかな緑、ハイテクなモノレールが織りなす、魅惑的な風景に浸ってください。その幻想的な雰囲気は、希望と静寂を同時に感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic masterpiece in 8K, of a futuristic anime city with clean modern streets, vibrant green foliage and a high-tech monorail system. Rendered in Makoto Shinkai style with gorgeous sky details, lens flares, vivid color grading and ethereal lighting, capturing the wind blowing through the cityscape.  High quality digital art, trending on artstation, artstation trending, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 2324573",
+    "filename": "wallpaper_1782161484.jpg",
+    "date": "2026-06-22 20:52:29",
+    "timestamp": 1782161484,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782147832",
     "category": "nature",
     "category_name_en": "Nature",
