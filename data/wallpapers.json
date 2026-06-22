@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782168591",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Gentle Leaf on Soft Beige",
+    "title_ja": "緑の葉と水滴 - 清潔なベージュの背景",
+    "description_en": "This stunning, minimalist wallpaper features a single green leaf with a water droplet perched delicately on a soft beige background. The clean lines and subtle textures evoke tranquility and serenity.",
+    "description_ja": "シンプルなデザインで、緑の葉とその雫が、柔らかなベージュの背景に浮かび上がる。静寂と穏やかさを表現した、美しい壁紙です。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic lighting, clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic. Single green leaf with one water droplet on a pristine soft beige background.  Masterpiece, 8k resolution, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 9343773",
+    "filename": "wallpaper_1782168591.jpg",
+    "date": "2026-06-22 22:51:00",
+    "timestamp": 1782168591,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782161484",
     "category": "anime",
     "category_name_en": "Anime",
