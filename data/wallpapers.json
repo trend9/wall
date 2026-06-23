@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782245347",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Magical Countryside Stars",
+    "title_ja": "魔法の田舎の星空",
+    "description_en": "Discover a peaceful countryside hill bathed in a magical starry night sky, illuminated by a single glowing tree. This hand-drawn anime wallpaper evokes a nostalgic and beautiful mood.",
+    "description_ja": "静かな田舎の丘に、魔法のような星空が広がる。光る木が、幻想的な夜空を表現する。この手描きアニメ壁紙は、懐かしさと美しい雰囲気を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k Stable Diffusion illustration of a peaceful countryside hill bathed in a magical starry night sky. A single glowing tree stands on the hill, casting long shadows against the stars. The scene has a studio ghibli aesthetic and a warm color palette with soft lighting. Emphasize the hand-drawn anime style and intricate details. Tags: masterpiece, 8k, highly detailed, cinematic, anime wallpaper, fantasy art, nostalgic, beautiful lighting, studio ghibli aesthetics, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 2346416",
+    "filename": "wallpaper_1782245347.jpg",
+    "date": "2026-06-23 20:10:14",
+    "timestamp": 1782245347,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782235273",
     "category": "nature",
     "category_name_en": "Nature",
