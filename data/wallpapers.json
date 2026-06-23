@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782207707",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Torn Textures Collage",
+    "title_ja": "破れたテクスチャコラージュ",
+    "description_en": "This vibrant collage features dynamic textures, bold brushstrokes, and metallic gold paint splatters creating an eye-catching abstract piece. The image evokes a sense of movement and energy.",
+    "description_ja": "鮮やかなコラージュは、動的なテクスチャ、大胆なブラシストローク、そして金属的なゴールドペイントの飛沫で構成されています。この作品は視覚にインパクトを与え、エネルギーのある抽象表現を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A dynamic, abstract collage of torn textures, colorful brush strokes, and metallic gold paint splatters. Rendered in a modern abstract art style with vibrant color palette, high fidelity textures, 3D digital render. Cinematic lighting, atmospheric glow, masterpiece 8k highly detailed, cinematic, sharp focus, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4025237",
+    "filename": "wallpaper_1782207707.jpg",
+    "date": "2026-06-23 09:42:53",
+    "timestamp": 1782207707,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782185927",
     "category": "space",
     "category_name_en": "Space",
