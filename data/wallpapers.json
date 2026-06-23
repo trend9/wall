@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782252947",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Concrete Wall Serenity",
+    "title_ja": "コンクリート壁の静寂",
+    "description_en": "This minimalist wallpaper features a clean concrete wall bathed in the warm glow of afternoon sunlight, casting elegant shadows from swaying palm leaves. The serene ambiance evokes a sense of quiet contemplation.",
+    "description_ja": "シンプルな壁紙は、午後の太陽が照りつけるクリーンなコンクリート壁に、優雅なヤシの葉の影が浮かびます。静かな雰囲気は、心を落ち着かせ、穏やかな思考を促します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a clean concrete wall bathed in the warm afternoon sunlight. Elegant shadows from swaying palm leaves cast by the sun create subtle and beautiful design. The overall aesthetic leans towards nordic style minimalism with muted pastel color palette and soft shadows. Focus on the intricate details of the wall texture, including the rough surface of concrete. Add warmth and depth to the scene using soft lighting., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5575032",
+    "filename": "wallpaper_1782252947.jpg",
+    "date": "2026-06-23 22:16:54",
+    "timestamp": 1782252947,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782245347",
     "category": "anime",
     "category_name_en": "Anime",
