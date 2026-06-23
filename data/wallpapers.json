@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782185927",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Celestial Vista: Future Station",
+    "title_ja": "未来的な宇宙ステーションと美しい地球",
+    "description_en": "Behold a futuristic space station orbiting a vibrant, Earth-like planet, against the backdrop of breathtaking cosmos. This wallpaper captures the awe and mystery of the unknown.",
+    "description_ja": "未来的な宇宙ステーションが、美しい緑と青の地球のような惑星の周りを回る様子を捉えた画像。この壁紙は、宇宙の神秘と奥深さを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic render of a futuristic space station orbiting a green and blue earth-like planet in deep contrast. Unreal Engine 5, interstellar dust clouds, vibrant light from the distant sun, dramatic lighting, cosmic energy, epic atmosphere, unreal engine 5 render., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 958695",
+    "filename": "wallpaper_1782185927.jpg",
+    "date": "2026-06-23 03:39:55",
+    "timestamp": 1782185927,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782168591",
     "category": "minimalist",
     "category_name_en": "Minimalist",
