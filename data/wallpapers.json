@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782293566",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Epic Abstract",
+    "title_ja": "壮大な抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a chaotic but beautiful explosion of colorful smoke waves and geometric crystal shards. Generated with state-of-the-art AI.",
+    "description_ja": "カラフルな煙の波と幾何学的な結晶の破片のカオスでありながら美しい爆発を描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a chaotic but beautiful explosion of colorful smoke waves and geometric crystal shards, modern abstract art, vibrant color palette, high fidelity textures, 3D digital render, creative wallpaper, octane render, 8k, masterpiece, highly detailed, atmosphere: neon reflections, seed: 1087785",
+    "filename": "wallpaper_1782293566.jpg",
+    "date": "2026-06-24 09:33:47",
+    "timestamp": 1782293566,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782272372",
     "category": "space",
     "category_name_en": "Space",
