@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782379532",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Fluid Gold & Ink Blending: Abstract Art",
+    "title_ja": "液体ゴールドとインクの融合：抽象アート",
+    "description_en": "Experience the mesmerizing blend of liquid gold and deep blue ink as they intertwine in this abstract masterpiece. The flow creates a sense of dynamism and visual poetry.",
+    "description_ja": "抽象的な芸術作品として、液体ゴールドと深藍色のインクが融合する魅惑的な光景を体験してください。流動性のある表現は、躍動感と視覚的な詩性を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece of abstract art featuring a fluid dynamic blend of liquid gold and deep blue ink. The artwork features organic shapes with textured canvas effect, showcasing the interplay of light and shadow with cinematic lighting. Use trending keywords such as 'masterpiece', 'highly detailed', 'cinematic' to enhance the image. Focus on a rich color palette with shimmering glitter details for visual impact., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 8785912",
+    "filename": "wallpaper_1782379532.jpg",
+    "date": "2026-06-25 09:26:38",
+    "timestamp": 1782379532,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782358764",
     "category": "space",
     "category_name_en": "Space",
