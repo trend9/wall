@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782358764",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Dreams",
+    "title_ja": "宇宙の星雲の夢",
+    "description_en": "This stunning cosmic nebula wallpaper features vibrant violet, blue, and gold dust clouds swirling into the heart of a nascent star system. Experience the wonder and beauty of interstellar space with this deep contrast masterpiece.",
+    "description_ja": "この壮大な宇宙星雲壁紙には、鮮やかなバイオレット、ブルー、ゴールドの塵が星系に渦巻く様子が描かれています。宇宙空間の神秘と美しさを堪能できる、深いコントラストの傑作です。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, hyper-realistic interstellar concept art inspired by the Unreal Engine 5 render. A vibrant cosmic nebula with striking violet, blue, and gold dust clouds forming stars. Deep contrast lighting creates a mesmerizing atmosphere. Masterpiece, 8k, highly detailed, cinematic., masterpiece, highly detailed, atmosphere: neon reflections, seed: 9208773",
+    "filename": "wallpaper_1782358764.jpg",
+    "date": "2026-06-25 03:40:29",
+    "timestamp": 1782358764,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782339634",
     "category": "minimalist",
     "category_name_en": "Minimalist",
