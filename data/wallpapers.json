@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782484072",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Ethereal Cyberpunk",
+    "title_ja": "幻想的なサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a massive futuristic metropolis with flying cars zooming between skyscrapers at dusk. Generated with state-of-the-art AI.",
+    "description_ja": "夕暮れ時に超高層ビルの間を飛び交う空飛ぶ車と巨大な未来都市を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a massive futuristic metropolis with flying cars zooming between skyscrapers at dusk, cyberpunk 2077 style, blade runner aesthetic, realistic textures, volumetric fog, dramatic contrast, unreal engine 5 render, masterpiece, highly detailed, atmosphere: neon reflections, seed: 5570046",
+    "filename": "wallpaper_1782484072.jpg",
+    "date": "2026-06-26 14:28:58",
+    "timestamp": 1782484072,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782466214",
     "category": "abstract",
     "category_name_en": "Abstract",
