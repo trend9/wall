@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782445544",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Ringed Exoplanet Rising Over a Moon Landscape",
+    "title_ja": "輪を持つ系外惑星の月が昇る",
+    "description_en": "Witness the majesty of distant, ringed exoplanets as they rise over barren alien moonscapes in this epic space exploration wallpaper. Experience the awe-inspiring beauty and boundless mysteries of the cosmos.",
+    "description_ja": "壮大な宇宙探査の壁紙。遠くの輪を持つ系外惑星が、荒れ果てたエイリアンの月の地平線上に昇る様子を捉えた作品。宇宙の美しさと謎に満ちた世界を体験してください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image, art style epic space exploration art with a Hubble telescope aesthetic, cinematic lighting, and photorealistic renderings. Subject: A distant ringed exoplanet rising over the horizon of a barren alien moon landscape. Atmosphere: Mysterious and awe-inspiring, evoking cosmic wonder. Lighting:  Focus on dramatic chiaroscuro highlighting the celestial body and its surroundings. Quality: Masterpiece, 8k, highly detailed, cinematic., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4060228",
+    "filename": "wallpaper_1782445544.jpg",
+    "date": "2026-06-26 03:46:54",
+    "timestamp": 1782445544,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782426218",
     "category": "minimalist",
     "category_name_en": "Minimalist",
