@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782512177",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf Dazzle",
+    "title_ja": "緑の葉に水滴",
+    "description_en": "A single green leaf with a single water droplet rests serenely on a clean, soft beige background. This minimalist design embodies serenity and simplistic beauty.",
+    "description_ja": "淡いベージュの背景に、葉っぱと水滴が静かに置かれています。このミニマリストなデザインは穏やかさとシンプルで美しい美しさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic lighting, soft shadows, Nordic style minimalism, a single green leaf with a single water droplet resting on a clean beige background. Strong focus on the leaf and water droplet, muted pastel color palette, serene and simplistic beauty., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 3534068",
+    "filename": "wallpaper_1782512177.jpg",
+    "date": "2026-06-26 22:17:20",
+    "timestamp": 1782512177,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782503471",
     "category": "anime",
     "category_name_en": "Anime",
