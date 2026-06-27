@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782576434",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Futuristic Anime Metropolis",
+    "title_ja": "未来のアニメ都市",
+    "description_en": "Explore a sleek futuristic anime city with green foliage and high-tech monorails, capturing the beauty of a nostalgic childhood dream. This wallpaper blends studio ghibli aesthetic with hand-drawn anime style for a breathtakingly detailed desktop artwork.",
+    "description_ja": "鮮やかな未来のアニメ都市で、緑の葉が生い茂る clean でモダンな道路とハイテクなモノレールを眺める。この壁紙は、スタジオジブリのアニメーションと手描きのアニメスタイルが融合した、美しい、懐かしい風景を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k Stable Diffusion artwork of a futuristic anime city with clean modern streets lined with lush green foliage. A colorful and vibrant monorail seamlessly glides along the elevated tracks, showcasing intricate details in its structure and surrounding environment. The scene is bathed in warm and nostalgic lighting, reminiscent of Studio Ghibli animation. Include elements of melancholy nostalgia with a sense of wonderment., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 685165",
+    "filename": "wallpaper_1782576434.jpg",
+    "date": "2026-06-27 16:08:21",
+    "timestamp": 1782576434,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782567973",
     "category": "nature",
     "category_name_en": "Nature",
