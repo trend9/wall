@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782531193",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Orbital Dreamscape",
+    "title_ja": "宇宙ステーションの夢",
+    "description_en": "Marvel at a futuristic space station orbiting a vibrant, Earth-like planet in this awe-inspiring artwork. The composition evokes the vastness and beauty of interstellar travel.",
+    "description_ja": "未来的な宇宙ステーションが美しい緑と青の地球のような惑星に周回している壮大な景色を堪能してください。この作品は、宇宙旅行の広大さと美しさを感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k Stable Diffusion render of a futuristic space station orbiting a beautiful green and blue Earth-like planet. The scene should be rendered in Unreal Engine 5 with deep contrast and cosmic dust effects. The lighting should be soft and ethereal with a focus on the station's intricate details.  The artwork should have a sci-fi concept art style, hyper-realistic, masterpiece quality, highly detailed. Tags: #masterpiece, #8k, #highlydetailed, #cinematic, #space, #interstellar, #sci-fi, #conceptart, #futuristic, masterpiece, highly detailed, atmosphere: neon reflections, seed: 4629811",
+    "filename": "wallpaper_1782531193.jpg",
+    "date": "2026-06-27 03:34:22",
+    "timestamp": 1782531193,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782512177",
     "category": "minimalist",
     "category_name_en": "Minimalist",
