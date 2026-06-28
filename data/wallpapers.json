@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782654571",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Anime Shrine at Twilight",
+    "title_ja": "アニメ神社の夕暮れ",
+    "description_en": "Step into a whimsical anime shrine bathed in warm twilight colors, where ancient sakura trees stand tall and blooming. Immerse yourself in this nostalgic artwork with stunning detail.",
+    "description_ja": "アニメ風の神社に、夕暮れの優しい光が差し込む。巨大な古い桜の木の下に佇む静寂と美しさを表現した作品で、ノスタルジックな雰囲気を楽しもう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a beautiful anime shrine entrance under a massive ancient sakura tree in full bloom at twilight, in the style of Studio Ghibli. Warm colors, nostalgic atmosphere with cinematic lighting. Masterpiece, 8k, highly detailed, cinematic, trending on artstation, masterpiece, highly detailed, atmosphere: neon reflections, seed: 1770913",
+    "filename": "wallpaper_1782654571.jpg",
+    "date": "2026-06-28 13:50:37",
+    "timestamp": 1782654571,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782645015",
     "category": "nature",
     "category_name_en": "Nature",
