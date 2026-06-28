@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782684279",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Cosmic Chaos",
+    "title_ja": "宇宙の混乱",
+    "description_en": "Experience the explosive beauty of vibrant smoke waves and geometric crystal shards in a chaotic yet mesmerizing display.",
+    "description_ja": "鮮やかな煙波と幾何学的な結晶の破片が、混沌ながらも魅惑的な美しさを表現した風景を堪能する。",
+    "prompt": "[Colab Stable Diffusion] A masterfully crafted 8k, highly detailed, cinematic masterpiece of abstract art. Rendered in octane render with vibrant colors and high fidelity textures. Show a chaotic yet beautiful explosion of colorful smoke waves and geometric crystal shards. Emphasize the dynamic interplay of light and shadow, featuring both surrealism and realism. Capture a sense of wonder and awe., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8009284",
+    "filename": "wallpaper_1782684279.jpg",
+    "date": "2026-06-28 22:05:43",
+    "timestamp": 1782684279,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782674542",
     "category": "space",
     "category_name_en": "Space",
