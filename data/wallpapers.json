@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782674542",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Futuristic Station in Cosmic Symphony",
+    "title_ja": "未来的な宇宙ステーションが宇宙の音楽を奏でる",
+    "description_en": "Gaze upon a futuristic space station orbiting a breathtakingly beautiful green and blue planet. Immerse yourself in the awe-inspiring beauty of deep space.",
+    "description_ja": "美しい緑と青の地球のような惑星の軌道を回る未来的な宇宙ステーション。宇宙の壮大な風景に魅せられる",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, masterfully crafted masterpiece 8k image of a futuristic space station orbiting an Earth-like planet with a vibrant green and blue hue. Rendered in Unreal Engine 5, the scene should showcase the vastness of space with cosmic dust swirling around. Use deep contrast lighting to highlight intricate details like the station's metallic structure and glowing solar panels. The overall atmosphere should be awe-inspiring and immersive, capturing a cinematic experience., masterpiece, highly detailed, atmosphere: neon reflections, seed: 7843309",
+    "filename": "wallpaper_1782674542.jpg",
+    "date": "2026-06-28 19:23:33",
+    "timestamp": 1782674542,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782663184",
     "category": "minimalist",
     "category_name_en": "Minimalist",
