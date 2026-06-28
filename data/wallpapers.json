@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782645015",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Epic Sunset Over Calm Ocean",
+    "title_ja": "壮大な夕日、穏やかな海",
+    "description_en": "Witness a breathtaking sunset over an endless ocean, bathed in vibrant pink, purple, and orange hues. This captivating scene evokes the magic and mystery of nature's beauty.",
+    "description_ja": "美しい海に沈む壮大な夕日。鮮やかなピンク、紫、オレンジ色の雲が描かれ、静寂な空気が漂う。",
+    "prompt": "[Colab Stable Diffusion] An ethereal masterpiece, 8k highly detailed, cinematic lighting, an epic sunset over a calm ocean, vibrant pink, purple, and orange clouds, magical realism, 8k ultra high resolution, dreamy atmosphere, blurred background, masterful composition., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 925616",
+    "filename": "wallpaper_1782645015.jpg",
+    "date": "2026-06-28 11:11:19",
+    "timestamp": 1782645015,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782636943",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
