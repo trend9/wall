@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782748210",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Celestial Calm in a Peaceful Countryside",
+    "title_ja": "静かな田舎の丘の上の魔法的な星空",
+    "description_en": "Experience a peaceful countryside scene bathed in magical starlight and an ethereal glow. This artwork captures the beauty of nature's wonders.",
+    "description_ja": "静かな田舎の丘の上で、魔法のような星空の下に輝く木が映る風景を体験しましょう。この絵は自然の美しさの中で、魔法の輝きを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k artwork in Makoto Shinkai style featuring a magical starry night sky over a peaceful countryside hill with a single glowing tree. The scene should be bathed in ethereal glow and have lens flare, vivid color grading, and an ethereal atmosphere with wind blowing. Tags: masterpiece, 8k, highly detailed, cinematic, artstation, trending, masterpiece, highly detailed, atmosphere: neon reflections, seed: 9151678",
+    "filename": "wallpaper_1782748210.jpg",
+    "date": "2026-06-29 15:51:17",
+    "timestamp": 1782748210,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782730990",
     "category": "nature",
     "category_name_en": "Nature",
