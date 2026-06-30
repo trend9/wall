@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782839313",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Anime Shrine Entrance at Twilight",
+    "title_ja": "アニメ風の神社入り口の黄昏風景",
+    "description_en": "Explore a mesmerizing anime shrine entrance bathed in the warm glow of twilight, set against the backdrop of an enormous blooming sakura tree. This desktop wallpaper captures a sense of nostalgic beauty and serenity.",
+    "description_ja": "Twilightの美しいアニメ風の神社入り口で、巨大な桜の木の下に映る幻想的な風景。このデスクトップ壁紙は、懐かしさと静けさの美しさを持つ、温かみのある表現を楽しめます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, anime-style illustration of a beautiful shrine entrance illuminated by warm twilight light. The scene features an enormous ancient sakura tree in full bloom. Rendered with studio ghibli aesthetic and hand-drawn style, capturing a nostalgic feel. Photorealistic quality, cinematic lighting., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3212945",
+    "filename": "wallpaper_1782839313.jpg",
+    "date": "2026-06-30 17:09:42",
+    "timestamp": 1782839313,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782829339",
     "category": "nature",
     "category_name_en": "Nature",
