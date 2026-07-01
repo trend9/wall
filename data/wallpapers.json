@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782944410",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Serenity",
+    "title_ja": "宇宙の静寂",
+    "description_en": "Witness an astronaut suspended in deep space, surrounded by shimmering galaxies and ethereal dust, conveying a sense of profound peace.",
+    "description_ja": "宇宙の深い空間で、宇宙飛行士が静かに漂う様子を眺める。輝く銀河と光る塵に囲まれ、深い静けさを表現する。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic render of an astronaut floating peacefully in deep space with colorful dust particles and distant galaxies, rendered in Unreal Engine 5. The scene should have a dark background with soft blue light from faraway stars, strong contrasts between the astronaut's silhouette and the cosmic backdrop, and a sense of interstellar peace., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1676982",
+    "filename": "wallpaper_1782944410.jpg",
+    "date": "2026-07-01 22:21:14",
+    "timestamp": 1782944410,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782935944",
     "category": "minimalist",
     "category_name_en": "Minimalist",
