@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782899427",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk City Train",
+    "title_ja": "サイバーパンク都市の列車",
+    "description_en": "Witness a futuristic train speeding through a neon-lit cyberpunk city canyon in this breathtaking piece of digital art. Immerse yourself in the bustling energy and vibrant atmosphere of the urban environment.",
+    "description_ja": "このデジタルアート作品では、ネオンに照らされたサイバーパンク都市の谷間を疾走する未来的な列車を表現しています。都会の活気を味わうことができます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and realistic 8k image of a futuristic train racing through a neon-lit cyberpunk city canyon. The scene showcases the vibrant colors of neon signs, wet reflections on the streets, and intricate details in the city's architecture. Masterpiece, 8k, highly detailed, cinematic lighting, octane render., masterpiece, highly detailed, atmosphere: neon reflections, seed: 9379168",
+    "filename": "wallpaper_1782899427.jpg",
+    "date": "2026-07-01 09:51:33",
+    "timestamp": 1782899427,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782878332",
     "category": "abstract",
     "category_name_en": "Abstract",
