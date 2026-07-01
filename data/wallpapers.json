@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1782926180",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Summer Sky Study",
+    "title_ja": "夏の空の書斎",
+    "description_en": "Escape to a cozy anime-style study room bathed in summer light, with a view of fluffy clouds and the vast blue sky. This ethereal scene offers a sense of peace and inspiration.",
+    "description_ja": "夏空に浮かぶ雲と、窓から見える美しい風景を眺めながら、居心地の良いアニメ風の書斎で、リラックスできる時間を過ごしてみませんか。このエtherealな空間は、心の安らぎと創造性を呼び起こすでしょう",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of an anime-style study room, featuring a view of summer sky with fluffy white clouds and a subtle lens flare effect. The room should be warm and inviting, with a soft glow emanating from the window. Makoto Shinkai style art, ethereal atmosphere, high quality digital art., masterpiece, highly detailed, atmosphere: neon reflections, seed: 9164019",
+    "filename": "wallpaper_1782926180.jpg",
+    "date": "2026-07-01 17:17:27",
+    "timestamp": 1782926180,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782916748",
     "category": "nature",
     "category_name_en": "Nature",
