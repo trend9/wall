@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783011094",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf Dewdrop - Minimalist Desktop Wallpaper",
+    "title_ja": "緑の葉の水滴 - ミニマリストデスクトップ壁紙",
+    "description_en": "This minimalist wallpaper features a single green leaf with a water droplet, creating a serene and elegant aesthetic. Perfect for a clean workspace.",
+    "description_ja": "このミニマリストの壁紙には、水滴が付いた一枚の緑の葉が描かれている。洗練された雰囲気と静寂さを演出する。オフィス空間を清浄に見せるのに最適である。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece of a single green leaf with a droplet of water on a clean, soft beige background. Clean lines and subtle textures, elegant composition, cinematic lighting, ambient atmosphere - minimalist design. #minimalism #desktopswallpaper #nature #greenleaf #waterdrop #digitalart  #8k #highlydetailed #cinematic, masterpiece, highly detailed, atmosphere: neon reflections, seed: 3999578",
+    "filename": "wallpaper_1783011094.jpg",
+    "date": "2026-07-02 16:52:45",
+    "timestamp": 1783011094,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783001023",
     "category": "anime",
     "category_name_en": "Anime",
