@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783020628",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Spiral Galaxy",
+    "title_ja": "巨大渦巻銀河の宇宙",
+    "description_en": "Witness the breathtaking beauty of a massive spiral galaxy, teeming with millions of stars against a deep black canvas. This artwork captures the wonder and mystery of space in all its glory.",
+    "description_ja": "深闇に煌めく、数百万の星が輝く巨大な渦巻銀河を堪能してください。この作品は宇宙の神秘と美しさに迫ります。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a massive spiral galaxy with millions of stars, glowing brightly against deep black space. Rendered using Unreal Engine 5, this artwork features cosmic dust swirling and vibrant light effects. Subject: Cosmic Spiral Galaxy. Art Style: Sci-fi Concept Art. Lighting: Dramatic lighting from within the galaxy. Atmosphere: Mysterious and awe-inspiring. Tags: masterpiece, 8k, highly detailed, cinematic, unreal engine 5 render, masterpiece, highly detailed, atmosphere: neon reflections, seed: 3428345",
+    "filename": "wallpaper_1783020628.jpg",
+    "date": "2026-07-02 19:31:35",
+    "timestamp": 1783020628,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783011094",
     "category": "minimalist",
     "category_name_en": "Minimalist",
