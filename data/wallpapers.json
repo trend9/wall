@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783001023",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Magical Starry Night Over Peaceful Hills",
+    "title_ja": "魔法の星空が立つ静かな田舎の丘",
+    "description_en": "Experience a tranquil countryside scene bathed in magic as a glowing tree stands against the backdrop of a starry night sky. This artwork captures the beauty and nostalgia of a peaceful evening, ideal for desktop wallpaper.",
+    "description_ja": "静かな田舎の丘の上で、魔法のような星空が広がる様子が、光る木と共に描かれています。この作品は、美しい夜空と穏やかな静寂さを表現し、デスクトップの壁紙として最適なデザインです。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, cinematic 8k masterpiece illustration of a magical starry night sky above a peaceful countryside hill. Featuring a single glowing tree illuminated with warm lighting and soft shadows. Studio Ghibli inspired art style. Detailed textures and vibrant colors. No photo references, purely artistic vision. #magicalnight #animewallpaper #studioghibli #peacefullandscape #desktopbackground, masterpiece, highly detailed, atmosphere: neon reflections, seed: 5124084",
+    "filename": "wallpaper_1783001023.jpg",
+    "date": "2026-07-02 14:04:52",
+    "timestamp": 1783001023,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1782992374",
     "category": "nature",
     "category_name_en": "Nature",
