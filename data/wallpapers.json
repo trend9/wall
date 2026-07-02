@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783030174",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Dreamy Abstract",
+    "title_ja": "夢のような抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a dynamic collage of torn textures, colorful brush strokes, and metallic gold paint splatters. Generated with state-of-the-art AI.",
+    "description_ja": "破れたテクスチャ、カラフルなブラシストローク、金属的なゴールドペイントの飛沫のダイナミックなコラージュを描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a dynamic collage of torn textures, colorful brush strokes, and metallic gold paint splatters, fine art aesthetics, textured canvas, organic shapes, fluid movement, premium graphic design, visual masterpiece, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 6740201",
+    "filename": "wallpaper_1783030174.jpg",
+    "date": "2026-07-02 22:10:35",
+    "timestamp": 1783030174,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783020628",
     "category": "space",
     "category_name_en": "Space",
