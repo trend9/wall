@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783106718",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Stars",
+    "title_ja": "宇宙星雲",
+    "description_en": "Witness a stunning cosmic nebula teeming with vibrant violet, blue, and gold dust clouds, hinting at the birth of new stars. This mesmerizing artwork captures the beauty and mystery of interstellar space.",
+    "description_ja": "壮大な宇宙星雲に、鮮やかなバイオレット、ブルー、ゴールドの宇宙塵が織りなす幻想的な風景を堪能しましょう。この神秘的な絵画は、宇宙の美しさや謎に迫ります。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic rendering of a stunning cosmic nebula with vibrant violet, blue and gold dust clouds forming stars. Hyper-realistic art style with deep contrast, Unreal Engine 5 render, interstellar space concept art, ethereal atmosphere, dreamlike beauty., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1241321",
+    "filename": "wallpaper_1783106718.jpg",
+    "date": "2026-07-03 19:26:12",
+    "timestamp": 1783106718,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783096092",
     "category": "minimalist",
     "category_name_en": "Minimalist",
