@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783087624",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Forest Haven",
+    "title_ja": "星空の静かな田舎風景",
+    "description_en": "This ethereal wallpaper depicts a peaceful countryside scene bathed in a magical starry night sky, with a single glowing tree. The soft lighting and wind create a calming atmosphere.",
+    "description_ja": "この幻想的な壁紙には、静かな田舎風景が魔法の星空の下に映し出されています。光る木は、穏やかな雰囲気を作り出し、優しい光と風で心を落ち着かせます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k artwork in the Makoto Shinkai style featuring a peaceful countryside hill with a single glowing tree. The sky is filled with vibrant stars, and there are subtle lens flare effects. Soft lighting from the moon creates an ethereal atmosphere. High quality digital art - masterpiece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4508396",
+    "filename": "wallpaper_1783087624.jpg",
+    "date": "2026-07-03 14:08:10",
+    "timestamp": 1783087624,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783070434",
     "category": "nature",
     "category_name_en": "Nature",
