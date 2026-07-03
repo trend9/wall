@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783048883",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Hacker Haven",
+    "title_ja": "サイバーパンクハッカーの隠れ家",
+    "description_en": "Experience a thrilling cyberpunk hacker den teeming with glowing holographic screens, where high-tech meets the gritty reality of digital life. Dive into the captivating world of neon lights and urban intrigue.",
+    "description_ja": "まるでサイバーパンクの世界に飛び込んだような、光るホログラフィック画面が満載のハイテクなハッカーの隠れ家。都市の闇とデジタルの躍動感が融合した独特の世界観を体感してください。",
+    "prompt": "[Colab Stable Diffusion] A hyperrealistic cinematic 8k image of a cyberpunk hacker den. Detailed holographic screens display swirling data streams and complex algorithms. The room is bathed in neon blue and green hues, illuminated by dramatic volumetric fog and accented with sharp shadows. The atmosphere is dark, gritty, and electrifying. Style reminiscent of Cyberpunk 2077 with detailed textures, Unreal Engine 5 render, masterpiece, highly detailed, cinematic, 8k., masterpiece, highly detailed, atmosphere: neon reflections, seed: 5523674",
+    "filename": "wallpaper_1783048883.jpg",
+    "date": "2026-07-03 03:22:31",
+    "timestamp": 1783048883,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783030174",
     "category": "abstract",
     "category_name_en": "Abstract",
