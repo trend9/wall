@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783146300",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Cinematic Nature",
+    "title_ja": "映画のような自然",
+    "description_en": "A high-quality, breathtaking nature wallpaper depicting majestic snow-capped mountain peaks reflecting perfectly in a crystal-clear alpine lake. Generated with state-of-the-art AI.",
+    "description_ja": "澄み切った高山湖に完璧に映り込む、雄大な雪を頂いた山の頂を描いた、高品質で息をのむような自然の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] majestic snow-capped mountain peaks reflecting perfectly in a crystal-clear alpine lake, magical realism, ethereal atmosphere, vivid colors, cinematic depth of field, masterpiece, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6567449",
+    "filename": "wallpaper_1783146300.jpg",
+    "date": "2026-07-04 06:26:06",
+    "timestamp": 1783146300,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783133949",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
