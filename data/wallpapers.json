@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783192640",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Liquid Gold & Deep Blue Fusion",
+    "title_ja": "ゴールドと深藍の融合",
+    "description_en": "This abstract artwork depicts a mesmerizing dance of liquid gold and deep blue ink, blended with shimmering glitter details, evoking a sense of movement and depth. The texture and organic shapes create a captivating visual masterpiece.",
+    "description_ja": "抽象的な作品で、液体ゴールドと深藍のインクがキラキラと輝くように融合する様子を表現しています。この作品は、質感と有機的な形状により、視覚的な美しさを実現した作品となっています。",
+    "prompt": "[Colab Stable Diffusion] A high-resolution 8k digital art masterpiece, featuring a textured canvas with flowing liquid gold and deep blue ink blending together. The artwork features organic shapes and shimmering glitter details. Soft ambient lighting creates a dreamy atmosphere. Use cinematic camera effects for the best possible composition. Tag: masterpiece, 8k, highly detailed, cinematic, artistic, abstract, textured canvas, fluid movement, masterpiece, highly detailed, atmosphere: neon reflections, seed: 9292577",
+    "filename": "wallpaper_1783192640.jpg",
+    "date": "2026-07-04 19:18:26",
+    "timestamp": 1783192640,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783181071",
     "category": "space",
     "category_name_en": "Space",
