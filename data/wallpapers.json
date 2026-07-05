@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783258916",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Ethereal Space",
+    "title_ja": "幻想的な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a futuristic space station orbiting a beautiful green and blue earth-like planet. Generated with state-of-the-art AI.",
+    "description_ja": "美しい緑と青の地球のような惑星の軌道を回る、未来的な宇宙ステーションを描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a futuristic space station orbiting a beautiful green and blue earth-like planet, epic space exploration art, Hubble telescope style, highly detailed cosmic rendering, cinematic lighting, photorealistic, 8k, masterpiece, highly detailed, atmosphere: neon reflections, seed: 7616076",
+    "filename": "wallpaper_1783258916.jpg",
+    "date": "2026-07-05 13:42:59",
+    "timestamp": 1783258916,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783249563",
     "category": "minimalist",
     "category_name_en": "Minimalist",
