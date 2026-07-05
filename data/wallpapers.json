@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783249563",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Lone Pier Beckons to Serenity",
+    "title_ja": "静寂に誘われる孤島と湖",
+    "description_en": "This minimalist wallpaper features a solitary wooden pier gracefully leading into a vast, calm, and misty white lake. Capture the serenity of nature's beauty.",
+    "description_ja": "このミニマリスト壁紙は、広大な静かな霧深い白い湖へと続く一連の木製の桟橋。自然の美しさを表現した静寂な風景を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A solitary wooden pier leading into a vast, calm, misty white lake. Masterpiece, 8k, highly detailed, cinematic lighting, ethereal mist, minimal color palette (greys, blues, whites), elegant composition, zen aesthetics. Focus on texture and detail with clean lines., masterpiece, highly detailed, atmosphere: neon reflections, seed: 46899",
+    "filename": "wallpaper_1783249563.jpg",
+    "date": "2026-07-05 11:07:15",
+    "timestamp": 1783249563,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783241709",
     "category": "anime",
     "category_name_en": "Anime",
