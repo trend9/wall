@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783368018",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Torn Textures & Brushstrokes",
+    "title_ja": "破れたテクスチャとブラシストロークのダイナミックなコラージュ",
+    "description_en": "This dynamic collage features torn textures, vibrant brush strokes, and metallic gold paint splatters. It evokes a sense of energy and movement.",
+    "description_ja": "このダイナミックなコラージュには、破れたテクスチャ、鮮やかなブラシストローク、そして金属的なゴールドペイントの飛沫が組み込まれています。 それはエネルギーと動きを感じさせる雰囲気です。",
+    "prompt": "[Colab Stable Diffusion] A dynamic collage of torn textures, colorful brush strokes, and metallic gold paint splatters on a textured canvas. Highly detailed, cinematic, 8k masterpiece artwork with warm lighting and ethereal atmosphere. Smooth blend of organic shapes, fluid movement, and premium graphic design., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1643217",
+    "filename": "wallpaper_1783368018.jpg",
+    "date": "2026-07-06 20:01:25",
+    "timestamp": 1783368018,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783352182",
     "category": "space",
     "category_name_en": "Space",
