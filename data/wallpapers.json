@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783376124",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Vibrant Cyberpunk",
+    "title_ja": "鮮やかなサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a cyberpunk street market with glowing street food stalls and robotic sellers. Generated with state-of-the-art AI.",
+    "description_ja": "光るストリートフードの屋台とロボットの売り手がいるサイバーパンクの夜市を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a cyberpunk street market with glowing street food stalls and robotic sellers, futuristic, synthwave aesthetic, neon glow, wet reflections, highly detailed, octane render, 8k resolution, cinematic lighting, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 9284427",
+    "filename": "wallpaper_1783376124.jpg",
+    "date": "2026-07-06 22:16:34",
+    "timestamp": 1783376124,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783368018",
     "category": "abstract",
     "category_name_en": "Abstract",
