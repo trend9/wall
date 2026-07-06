@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783333498",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Epic Minimalist",
+    "title_ja": "壮大なミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a solitary wooden pier leading into a vast, calm, misty white lake. Generated with state-of-the-art AI.",
+    "description_ja": "広大で穏やかな霧深い白い湖へと続く、一連の木製の桟橋を描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a solitary wooden pier leading into a vast, calm, misty white lake, clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic, zen, 8k resolution, masterpiece, highly detailed, atmosphere: neon reflections, seed: 3769189",
+    "filename": "wallpaper_1783333498.jpg",
+    "date": "2026-07-06 10:26:03",
+    "timestamp": 1783333498,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783309075",
     "category": "anime",
     "category_name_en": "Anime",
