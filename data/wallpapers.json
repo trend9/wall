@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783434994",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sun-Kissed Dunes: Minimalist Abstract Wallpaper",
+    "title_ja": "太陽と砂丘のミニマル抽象：シンプルで美しいデスクトップ壁紙",
+    "description_en": "This minimalist wallpaper features a sun-kissed landscape of dunes, showcasing subtle textures and geometric shapes in warm pastel tones. The elegant composition evokes serenity and tranquility.",
+    "description_ja": "シンプルなデザインで、太陽と砂丘を表現した抽象的な幾何学的構成が、優しいパステルカラーで表現されています。この美しい風景は、穏やかな心境と落ち着きをもたらします。",
+    "prompt": "[Colab Stable Diffusion] A minimalist abstract composition of sun and dunes in warm pastel colors, rendered with clean lines and subtle textures. The scene evokes a sense of tranquility and zen, featuring a cinematic style with 8k resolution. Tags: masterpiece, 8k, highly detailed, cinematic, artstation, trending, wallpaper, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 1229088",
+    "filename": "wallpaper_1783434994.jpg",
+    "date": "2026-07-07 14:37:41",
+    "timestamp": 1783434994,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783417426",
     "category": "anime",
     "category_name_en": "Anime",
