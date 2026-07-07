@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783462398",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Night Market",
+    "title_ja": "サイバーパンクの夜市",
+    "description_en": "Explore a bustling cyberpunk street market bathed in neon light, where robotic vendors hawk glowing street food. Experience the vibrant energy and gritty atmosphere of this futuristic scene.",
+    "description_ja": "ネオンが輝くサイバーパンクの夜市を探索。ロボットの販売員が光るストリートフードを売り歩く、活気に満ちた街並みが楽しめます。未来都市の独特な雰囲気を感じ取れます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k image of a cyberpunk street market scene with realistic textures and volumetric fog. The night sky is filled with neon lights illuminating glowing food stalls, robotic vendors, and bustling crowds. Rendered in the style of Cyberpunk 2077 and Blade Runner, capturing a cinematic atmosphere. Tags: masterpiece, 8k, highly detailed, cinematic, intricate, dark, moody, cyberpunk, neon, volumetric fog, realistic textures., masterpiece, highly detailed, atmosphere: neon reflections, seed: 4217356",
+    "filename": "wallpaper_1783462398.jpg",
+    "date": "2026-07-07 22:14:26",
+    "timestamp": 1783462398,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783454285",
     "category": "abstract",
     "category_name_en": "Abstract",
