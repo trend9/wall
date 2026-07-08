@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783508821",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Spiral Galaxy",
+    "title_ja": "巨大渦巻銀河の宇宙",
+    "description_en": "Witness the grandeur of a spiral galaxy teeming with millions of stars, bathed in ethereal light across the vast expanse of space. This epic depiction captures the awe-inspiring beauty and cosmic mystery.",
+    "description_ja": "壮大な渦巻銀河が、星々の輝きを放つ宇宙を映し出します。この壮観な作品は、宇宙の神秘的な美しさを見せることができます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic rendering of a massive spiral galaxy, glowing brightly with millions of stars against the backdrop of deep black space.  Inspired by Hubble telescope imagery, use epic scale, dramatic lighting, and photorealistic detail. Masterpiece, 8k, highly detailed, cinematic, masterpiece, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 5988473",
+    "filename": "wallpaper_1783508821.jpg",
+    "date": "2026-07-08 11:08:06",
+    "timestamp": 1783508821,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783499511",
     "category": "minimalist",
     "category_name_en": "Minimalist",
