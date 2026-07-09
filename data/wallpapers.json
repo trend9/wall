@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783590230",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Astronaut Drifting in Cosmic Silence",
+    "title_ja": "宇宙飛行士の静寂な漂流",
+    "description_en": "Discover a peaceful moment as an astronaut floats serenely amidst the vast expanse of deep space, surrounded by swirling galaxies and vibrant cosmic dust. Experience the awe-inspiring beauty of interstellar wonder.",
+    "description_ja": "広大な宇宙の中で、宇宙飛行士が静かに漂う様子を描いた、壮大な静寂を味わえる画像です。遠くの銀河やカラフルな塵に囲まれた、宇宙の神秘を感じてください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, masterpiece 8k Stable Diffusion image of an astronaut floating peacefully in deep space surrounded by distant galaxies and colorful cosmic dust. The scene is rendered with Unreal Engine 5, featuring dramatic deep contrast lighting and a cinematic atmosphere. Utilize realistic textures and interstellar detail, emphasizing the majesty of the cosmos. #sci-fi concept art, interstellar space, cosmic dust, deep contrast, unreal engine 5 render, hyper-detailed, cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8550099",
+    "filename": "wallpaper_1783590230.jpg",
+    "date": "2026-07-09 09:44:59",
+    "timestamp": 1783590230,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783567258",
     "category": "minimalist",
     "category_name_en": "Minimalist",
