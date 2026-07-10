@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783653795",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Celestial Calm: Starry Night in the Countryside",
+    "title_ja": "星空の下、静かな田舎の丘",
+    "description_en": "Gaze upon a magical starry night sky over a peaceful countryside hill, illuminated by a single glowing tree. The scene evokes a sense of nostalgia and tranquility.",
+    "description_ja": "静かな田舎の丘の上で、魔法の星空が広がっています。そこに光る木が一つだけ立ち、神秘的な雰囲気を感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece illustration in the Studio Ghibli style. The scene features a peaceful countryside hill with a glowing tree illuminated by the magical starry night sky. The colors should be warm and nostalgic, showcasing highly detailed lighting effects that emphasize depth and texture. Use terms like 'magical', 'dreamlike', 'fantasy' to set the mood., masterpiece, highly detailed, atmosphere: neon reflections, seed: 9224068",
+    "filename": "wallpaper_1783653795.jpg",
+    "date": "2026-07-10 03:24:24",
+    "timestamp": 1783653795,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783636190",
     "category": "nature",
     "category_name_en": "Nature",
