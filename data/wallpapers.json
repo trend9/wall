@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783693757",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Orbiting Station: A Stellar Symphony",
+    "title_ja": "宇宙ステーションの軌道を回る：壮大な銀河の音楽",
+    "description_en": "Witness a futuristic space station, orbiting a breathtakingly beautiful Earth-like planet, bathed in the glow of distant stars. This stunning image captures the awe-inspiring beauty and cosmic wonder of interstellar travel.",
+    "description_ja": "未来的な宇宙ステーションが、美しい地球のような惑星の軌道を描き、遠くの星々が輝く幻想的な世界を映し出しています。この壮大な画像には、宇宙旅行の美しさや宇宙の神秘が含まれています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic 8k masterpiece of a futuristic space station orbiting a beautiful green and blue Earth-like planet, rendered in Unreal Engine 5. The image should be filled with cosmic dust, showcasing the deep contrast of darkness and light, with an atmospheric perspective. Use hyperrealistic lighting to create a sense of awe and wonder at this breathtaking scene., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 9529764",
+    "filename": "wallpaper_1783693757.jpg",
+    "date": "2026-07-10 14:30:29",
+    "timestamp": 1783693757,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783676286",
     "category": "minimalist",
     "category_name_en": "Minimalist",
