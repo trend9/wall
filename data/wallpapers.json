@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783872140",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Summer Study Room Dreamscape",
+    "title_ja": "夏空の書斎",
+    "description_en": "Escape to a cozy anime-style study room bathed in summer sunlight, with clouds drifting across the sky. This ethereal space evokes a feeling of tranquility and peace.",
+    "description_ja": "夏の空とふわふわした白い雲を見渡す窓がある、居心地の良いアニメ風の書斎。このエtherealな空間は、穏やかで落ち着いた雰囲気をもたらします。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece cinematic still of a cozy anime-style study room with a window overlooking a vibrant summer sky. The scene features fluffy white clouds drifting across the sky, and a gentle breeze blowing through the air. Use Makoto Shinkai style for lighting and atmosphere; include lens flare effect. High quality digital art., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 7903177",
+    "filename": "wallpaper_1783872140.jpg",
+    "date": "2026-07-12 16:03:26",
+    "timestamp": 1783872140,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783862522",
     "category": "nature",
     "category_name_en": "Nature",
