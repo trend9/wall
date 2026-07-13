@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783944551",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Ethereal Nature",
+    "title_ja": "幻想的な自然",
+    "description_en": "A high-quality, breathtaking nature wallpaper depicting an epic sunset over a calm ocean with vibrant pink, purple, and orange clouds. Generated with state-of-the-art AI.",
+    "description_ja": "鮮やかなピンク、紫、オレンジ色の雲が広がる、穏やかな海に沈む壮大な夕日を描いた、高品質で息をのむような自然の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] an epic sunset over a calm ocean with vibrant pink, purple, and orange clouds, breathtaking nature photography, soft lighting, award-winning, highly detailed, realistic, National Geographic style, 8k, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 6222083",
+    "filename": "wallpaper_1783944551.jpg",
+    "date": "2026-07-13 12:10:20",
+    "timestamp": 1783944551,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783923726",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
