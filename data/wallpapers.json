@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1783923726",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Metropolis",
+    "title_ja": "未来都市の夜景",
+    "description_en": "Witness a vibrant cyberpunk cityscape with flying cars weaving through towering skyscrapers at dusk, bathed in neon lights and reflecting the city's energy. Experience the immersive atmosphere of this futuristic metropolis.",
+    "description_ja": "夜空に輝く巨大な都市を、そして空飛ぶ車が街の背後を駆け巡る光景を堪能。鮮やかなネオンの光で照らし出す、この未来都市の雰囲気は一体何でしょう?",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, Stable Diffusion image, cinematic lighting, synthwave aesthetic, neon glow, wet reflections, futuristic metropolis at dusk, flying cars zipping between skyscrapers in a cyberpunk style. master piece, 8k, highly detailed, cinematic, octane render., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8409289",
+    "filename": "wallpaper_1783923726.jpg",
+    "date": "2026-07-13 06:22:59",
+    "timestamp": 1783923726,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1783911065",
     "category": "abstract",
     "category_name_en": "Abstract",
