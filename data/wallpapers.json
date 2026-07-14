@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784026144",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Steampunk Airship Over Clouds",
+    "title_ja": "雲海に浮かぶスチームパンクの飛行船",
+    "description_en": "Experience a mesmerizing glimpse into the world of retro-futuristic steampunk airships with this captivating illustration of an industrial ship floating over a sea of clouds at sunset. Immerse yourself in a nostalgic mood with detailed textures and warm, cinematic lighting.",
+    "description_ja": "雲海に浮かぶインダストリアルでレトロフューチャーなスチームパンクの飛行船の世界を体験。この絵画は、夕暮れの空に浮かぶ飛行船を表現し、ノスタルジックな雰囲気を表現しています。高解像度と暖色調の照明で、映画のような美しさを感じます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic masterpiece of an industrial steampunk airship floating over a sea of clouds at sunset. Studio Ghibli inspired art style with hand-drawn anime elements. Warm, nostalgic lighting. Masterpiece, 8k, highly detailed, cinematic. Beautiful clouds and fog. Detailed textures., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 7650860",
+    "filename": "wallpaper_1784026144.jpg",
+    "date": "2026-07-14 10:50:17",
+    "timestamp": 1784026144,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784016470",
     "category": "nature",
     "category_name_en": "Nature",
