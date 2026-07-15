@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784082653",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Mountain Reflection",
+    "title_ja": "高山湖の雪景色",
+    "description_en": "Experience the breathtaking majesty of snowy mountain peaks reflecting perfectly in a serene alpine lake. The scene evokes peace and wonder with its soft lighting.",
+    "description_ja": "雄大な雪を頂いた山が、澄み切った高山湖に完璧に映り込む様子は、静寂と神秘を秘めた美しい風景。",
+    "prompt": "[Colab Stable Diffusion] Masterpiece, 8k, highly detailed, cinematic photograph of a majestic snow-capped mountain peaks reflecting perfectly in a crystal-clear alpine lake. Soft lighting, National Geographic style, award-winning photography, serene atmosphere., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1123433",
+    "filename": "wallpaper_1784082653.jpg",
+    "date": "2026-07-15 02:31:59",
+    "timestamp": 1784082653,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784066398",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
