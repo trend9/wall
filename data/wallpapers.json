@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784153047",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Cinematic Anime",
+    "title_ja": "映画のようなアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting a futuristic anime city with clean modern streets, green foliage, and high-tech monorail. Generated with state-of-the-art AI.",
+    "description_ja": "クリーンでモダンな通り、緑の木々、ハイテクなモノレールがある未来のアニメ都市を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a futuristic anime city with clean modern streets, green foliage, and high-tech monorail, studio ghibli aesthetic, hand-drawn anime style, highly detailed illustration, warm colors, nostalgic, beautiful lighting, desktop wallpaper, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 9100112",
+    "filename": "wallpaper_1784153047.jpg",
+    "date": "2026-07-15 22:05:16",
+    "timestamp": 1784153047,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784142825",
     "category": "nature",
     "category_name_en": "Nature",
