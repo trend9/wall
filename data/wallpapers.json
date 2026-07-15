@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784123193",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Stunning Abstract",
+    "title_ja": "見事な抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a mesmerizing 3D render of looping glass ribbons reflecting a colorful gradient background. Generated with state-of-the-art AI.",
+    "description_ja": "カラフルなグラデーションの背景を反射する、ループするガラスのリボンの魅惑的な3Dレンダリングを描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a mesmerizing 3D render of looping glass ribbons reflecting a colorful gradient background, modern abstract art, vibrant color palette, high fidelity textures, 3D digital render, creative wallpaper, octane render, 8k, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8869462",
+    "filename": "wallpaper_1784123193.jpg",
+    "date": "2026-07-15 13:47:43",
+    "timestamp": 1784123193,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784112749",
     "category": "space",
     "category_name_en": "Space",
