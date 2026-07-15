@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784093645",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "A Glimpse of a Futuristic City",
+    "title_ja": "未来都市の風景",
+    "description_en": "Discover a captivating glimpse into a futuristic anime city, blending clean modern streets with lush green foliage. Experience the nostalgia and beauty of this meticulously crafted illustration.",
+    "description_ja": "未来都市の風景を味わう。清潔なモダンな道路と緑豊かな木々に囲まれた、美しいアニメ都市の風景を見られる。この繊細なイラストは、懐かしさと美しさに満ちている",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece illustration of a futuristic anime city with clean modern streets, lush green foliage, and a glowing high-tech monorail. Studio Ghibli inspired art style, warm colors, nostalgic lighting, and beautiful atmosphere. Tags:  masterpiece, 8k, highly detailed, cinematic, studio ghibli, anime, masterpiece, highly detailed, atmosphere: neon reflections, seed: 4821724",
+    "filename": "wallpaper_1784093645.jpg",
+    "date": "2026-07-15 05:35:18",
+    "timestamp": 1784093645,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784082653",
     "category": "nature",
     "category_name_en": "Nature",
