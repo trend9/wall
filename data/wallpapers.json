@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784169526",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sun & Dunes: Minimalist Nordic Landscape",
+    "title_ja": "太陽と砂丘：北欧Minimal主義の風景",
+    "description_en": "Experience a serene, minimalist abstract composition featuring sunbeams dancing across dunes. Soft shadows and muted pastel tones create a calming atmosphere.",
+    "description_ja": "穏やかな、北欧Minimal主義の抽象的な風景。太陽が砂丘を照らし、柔らかな影とパステルカラーで静寂な空間を作り出す。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic image of a minimalist abstract geometric composition featuring sunbeams dancing across dunes in muted pastel tones. Soft shadows and a serene atmosphere create a calming scene. Art style: Nordic Minimalism, Lighting: natural daylight, Atmosphere: tranquil, Simplicity: key elements., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4158376",
+    "filename": "wallpaper_1784169526.jpg",
+    "date": "2026-07-16 02:39:49",
+    "timestamp": 1784169526,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784153047",
     "category": "anime",
     "category_name_en": "Anime",
