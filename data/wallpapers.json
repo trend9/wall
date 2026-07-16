@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784189784",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Fluid Gold & Ink Convergence",
+    "title_ja": "液体ゴールドと深みのある青インクが融合する",
+    "description_en": "This ethereal wallpaper depicts a mesmerizing blend of liquid gold and deep blue ink, with shimmering glitter details. Experience a captivating fluid movement in this visually stunning artwork.",
+    "description_ja": "この幻想的な壁紙には、液体ゴールドと深みのある青インクが融合する様子が描かれています。キラキラ輝くラメのディテールを加え、視覚的に豊かな表現に仕上げられています。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic, texture on canvas artwork of a fluid blend of liquid gold and deep blue ink. The paint is thick with shimmery glitter details, creating a visually stunning landscape of movement and depth. Soft lighting from above creates a mystical atmosphere., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8156412",
+    "filename": "wallpaper_1784189784.jpg",
+    "date": "2026-07-16 08:17:29",
+    "timestamp": 1784189784,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784180631",
     "category": "space",
     "category_name_en": "Space",
