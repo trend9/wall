@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784180631",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Drift",
+    "title_ja": "宇宙の漂う",
+    "description_en": "Witness an astronaut drifting peacefully in deep space, surrounded by distant galaxies and vibrant cosmic dust. This awe-inspiring image captures the serenity and grandeur of the cosmos.",
+    "description_ja": "深宇宙を漂う宇宙飛行士の姿を、遠くの銀河やカラフルな塵に囲まれ、静寂の中に表現した作品。宇宙の広大さと神秘さを実感できるでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and photorealistic image of an astronaut floating peacefully in deep space, surrounded by distant galaxies, swirling colorful dust particles, and a breathtaking nebula. Rendered in the style of Hubble telescope photographs with epic cinematic lighting and a masterfully composed composition worthy of a masterpiece. 8k resolution, highly detailed, cinematic lighting, masterpiece, 8k, highly detailed, photorealistic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 1863743",
+    "filename": "wallpaper_1784180631.jpg",
+    "date": "2026-07-16 05:44:58",
+    "timestamp": 1784180631,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784169526",
     "category": "minimalist",
     "category_name_en": "Minimalist",
