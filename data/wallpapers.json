@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784218741",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Glow on Peaceful Hills",
+    "title_ja": "静かな丘の上の魔法的な星空",
+    "description_en": "Experience a magical starry night sky over a peaceful countryside hill as a single glowing tree stands tall. The ethereal atmosphere is accented by the delicate beauty of wind-blown clouds and vibrant color grading.",
+    "description_ja": "静かな田舎の丘の上には、魔法のような星空が広がっています。一本だけ光る木が立つことで、穏やかな雰囲気に漂う静けさと幻想的な美しさが際立ちます。風に乗って舞い上がる雲と鮮やかな色彩を表現した美しい画像です。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, 8k, cinematic masterpiece image of a magical starry night sky over a peaceful countryside hill. Focus on a single glowing tree standing tall amidst windblown clouds with ethereal atmosphere and vibrant color grading. Lens flares are incorporated to add depth and drama, highlighting the serene scene's beauty.  Art style: Makoto Shinkai., masterpiece, highly detailed, atmosphere: neon reflections, seed: 8644500",
+    "filename": "wallpaper_1784218741.jpg",
+    "date": "2026-07-16 16:20:13",
+    "timestamp": 1784218741,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784209940",
     "category": "nature",
     "category_name_en": "Nature",
