@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784325400",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Dreamy Abstract",
+    "title_ja": "夢のような抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a chaotic but beautiful explosion of colorful smoke waves and geometric crystal shards. Generated with state-of-the-art AI.",
+    "description_ja": "カラフルな煙の波と幾何学的な結晶の破片のカオスでありながら美しい爆発を描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a chaotic but beautiful explosion of colorful smoke waves and geometric crystal shards, fine art aesthetics, textured canvas, organic shapes, fluid movement, premium graphic design, visual masterpiece, masterpiece, highly detailed, atmosphere: neon reflections, seed: 1910585",
+    "filename": "wallpaper_1784325400.jpg",
+    "date": "2026-07-17 21:57:46",
+    "timestamp": 1784325400,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784305088",
     "category": "space",
     "category_name_en": "Space",
