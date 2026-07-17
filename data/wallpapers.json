@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784256052",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaos of Colors: Explosion Wallpaper",
+    "title_ja": "カラフルな爆発壁紙",
+    "description_en": "Experience a mesmerizing explosion of vibrant smoke waves and geometric crystal shards, capturing both the beauty and chaos of this artwork. Perfect for adding a unique touch to your desktop.",
+    "description_ja": "目を惹きつけるカラフルな煙の波と幾何学的な結晶の破片が、その美しさも混沌とした爆発を表現しています。デスクトップに個性的なタッチを加えたい方におすすめです。",
+    "prompt": "[Colab Stable Diffusion] A vibrant, highly detailed 8k 3D digital render of an explosion of colorful smoke waves and geometric crystal shards in a modern abstract style. Focus on the chaos and beauty with dynamic lighting and a sense of motion. Use high fidelity textures and cinematic quality, with keywords like 'masterpiece,' '8k', 'highly detailed', 'cinematic', 'abstract art' to achieve a masterpiece wallpaper., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5077072",
+    "filename": "wallpaper_1784256052.jpg",
+    "date": "2026-07-17 02:42:05",
+    "timestamp": 1784256052,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784239583",
     "category": "space",
     "category_name_en": "Space",
