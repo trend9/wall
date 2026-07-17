@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784295056",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Clean Concrete Wall Shadows",
+    "title_ja": "クリーンなコンクリート壁の影",
+    "description_en": "This minimalist wallpaper features a clean concrete wall bathed in the elegant shadows of palm leaves cast by afternoon sunlight. A serene and calming feel evokes a sense of zen.",
+    "description_ja": "このミニマリストな壁紙は、午後からの太陽光で葉の影が刻まれたクリーンなコンクリート壁に。穏やかで落ち着いた雰囲気を感じさせてくれる。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece image featuring a clean concrete wall with subtle textures, bathed in warm afternoon sunlight. Shadows of elegant palm leaves cast by the sun are elegantly arranged on the surface, creating an artistic and calming scene. Art style: Clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic, zen. Lighting: Natural lighting from the setting sun, atmospheric haze, cinematic resolution. Tags: masterpiece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5073133",
+    "filename": "wallpaper_1784295056.jpg",
+    "date": "2026-07-17 13:32:07",
+    "timestamp": 1784295056,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784285346",
     "category": "anime",
     "category_name_en": "Anime",
