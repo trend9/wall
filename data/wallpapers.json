@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784440539",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf & Dewdrop Serenity",
+    "title_ja": "緑の葉と水滴の静寂",
+    "description_en": "This minimalist desktop wallpaper features a single, serene green leaf adorned with a delicate water droplet.  The soft beige background creates a calming and peaceful atmosphere.",
+    "description_ja": "このミニマリストなデスクトップ壁紙には、穏やかな緑の葉と水滴が1つ描かれています。淡いベージュの背景は、穏やかで落ち着いた雰囲気を作り出します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a single green leaf with one water droplet resting on a clean soft beige background. The lighting should be muted and soft with subtle shadows for a serene aesthetic. This image exhibits the art style of nordic minimalism with an overall peaceful feel. #stablediffusion, #minimalism, #nature, #deskwallpaper, #8k, #highlydetailed, #cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3582099",
+    "filename": "wallpaper_1784440539.jpg",
+    "date": "2026-07-19 05:56:45",
+    "timestamp": 1784440539,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784429162",
     "category": "anime",
     "category_name_en": "Anime",
