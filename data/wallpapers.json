@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784429162",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Epic Anime",
+    "title_ja": "壮大なアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting a magical starry night sky over a peaceful countryside hill with a single glowing tree. Generated with state-of-the-art AI.",
+    "description_ja": "一本の光る木が立つ静かな田舎の丘の上の、魔法のような星空の夜空を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a magical starry night sky over a peaceful countryside hill with a single glowing tree, studio ghibli aesthetic, hand-drawn anime style, highly detailed illustration, warm colors, nostalgic, beautiful lighting, desktop wallpaper, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1543805",
+    "filename": "wallpaper_1784429162.jpg",
+    "date": "2026-07-19 02:47:10",
+    "timestamp": 1784429162,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784411610",
     "category": "nature",
     "category_name_en": "Nature",
