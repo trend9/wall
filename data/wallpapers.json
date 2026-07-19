@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784457038",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Torn Textures & Gold Splatter Art",
+    "title_ja": "破れたテクスチャとゴールドの飛沫アート",
+    "description_en": "This dynamic abstract artwork features a collage of torn textures, colorful brush strokes, and metallic gold paint splatters, creating a captivating blend of chaos and creativity.",
+    "description_ja": "この抽象的な作品は、破れたテクスチャ、カラフルなブラシストローク、そして金属的なゴールドペイントの飛沫が融合し、混沌と創造性のバランスを捉えている。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic, digital render, vibrant color palette, dynamic collage of torn textures, colorful brush strokes, metallic gold paint splatters, intricate details, high fidelity textures, dramatic lighting, atmospheric perspective. octane render, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 2260500",
+    "filename": "wallpaper_1784457038.jpg",
+    "date": "2026-07-19 10:31:44",
+    "timestamp": 1784457038,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784449257",
     "category": "space",
     "category_name_en": "Space",
