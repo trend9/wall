@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784556479",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Bioluminescent Waterfall in a Magical Jungle",
+    "title_ja": "魔法の夜のジャングルの奥深い滝",
+    "description_en": "Witness the mesmerizing beauty of a bioluminescent waterfall cascading through an ethereal night jungle. This magnificent scene captures the magic and wonder of nature's hidden realm.",
+    "description_ja": "神秘的な夜ジャングルの奥深くにある、光り輝く生物発光滝を目にする。自然の魔法を体感し、この美しい風景は、隠された自然の美しさを映し出すでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic depth of field, ethereal atmosphere, magical realism style, a magnificent glowing bioluminescent waterfall deep inside a dense night jungle with lush green foliage and glowing flora.  Vibrant colors, soft lighting from moonbeams illuminating the scene, focus on the intricate details of the waterfall, create a sense of otherworldly wonder, trending art styles like ArtStation and art by Gregory Crewdson., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 4058053",
+    "filename": "wallpaper_1784556479.jpg",
+    "date": "2026-07-20 14:09:06",
+    "timestamp": 1784556479,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784548055",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
