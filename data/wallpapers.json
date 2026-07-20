@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784516382",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Astronaut Drifting Through Cosmos",
+    "title_ja": "宇宙飛行士の漂流",
+    "description_en": "This breathtaking image depicts an astronaut floating peacefully in deep space, surrounded by the vastness of distant galaxies and colorful cosmic dust. The serene atmosphere evokes a sense of awe and wonder.",
+    "description_ja": "深宇宙の中で、宇宙飛行士が静かに漂っている様子を描いた絵画。遠くの銀河やカラフルな塵に囲まれ、深い神秘さを表現した作品となっている。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k, masterpiece, cinematic render of an astronaut drifting peacefully in deep space. The scene is bathed in soft blue light and surrounded by distant galaxies, colorful dust clouds, and the vastness of space. Rendered using Unreal Engine 5, with hyper-realistic details. The art style emphasizes a sci-fi concept with futuristic aesthetic., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5667391",
+    "filename": "wallpaper_1784516382.jpg",
+    "date": "2026-07-20 03:00:49",
+    "timestamp": 1784516382,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784498173",
     "category": "minimalist",
     "category_name_en": "Minimalist",
