@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784585007",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Futuristic Station in Interstellar Expanse",
+    "title_ja": "未来的な宇宙ステーションの美しい地球のような惑星の軌跡",
+    "description_en": "Gaze upon a futuristic space station gracefully orbiting a captivating, verdant and azure world. Immerse yourself in the majesty of deep space.",
+    "description_ja": "壮大な宇宙空間の中に、美しい緑と青の地球のような惑星を回遊する未来的な宇宙ステーションを見ましょう。深い宇宙の美しさを堪能しましょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a futuristic space station orbiting a beautiful green and blue planet. Rendered in Unreal Engine 5 with deep contrast lighting and cosmic dust effects. The atmosphere is rich and ethereal. Tags: #futuristic, #sci-fi, #spacestation, #Interstellar, #deep, #realistic, #8k, #highlydetailed, #cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3205817",
+    "filename": "wallpaper_1784585007.jpg",
+    "date": "2026-07-20 22:04:37",
+    "timestamp": 1784585007,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784576838",
     "category": "minimalist",
     "category_name_en": "Minimalist",
