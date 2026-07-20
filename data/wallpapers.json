@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784528742",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaos of Color: An Explosion",
+    "title_ja": "カラフルな爆発: カオスの美しさ",
+    "description_en": "This wallpaper explodes with vibrant color and intricate crystal shards, creating a captivating chaotic scene. Dive into its mesmerizing beauty.",
+    "description_ja": "この壁紙は鮮やかな色と複雑な水晶の破片が渦巻くことで、魅惑的な混沌としたシーンを表現しています。その魅惑的な美しさに浸ってください。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece 8k highly detailed and cinematic render of a chaotic yet beautiful explosion of colorful smoke waves and geometric crystal shards, vibrant color palette, octane render, neon lights, dramatic lighting, swirling motion, depth of field blur.  focus on the crystal shards, emphasize the explosive nature of the scene, masterpiece, highly detailed, atmosphere: neon reflections, seed: 2835601",
+    "filename": "wallpaper_1784528742.jpg",
+    "date": "2026-07-20 06:26:52",
+    "timestamp": 1784528742,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784516382",
     "category": "space",
     "category_name_en": "Space",
