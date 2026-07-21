@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784671553",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Express",
+    "title_ja": "サイバーパンク特急列車",
+    "description_en": "Witness a futuristic train hurtling through a neon-drenched cyberpunk city canyon, capturing the electrifying speed and energy of this bustling metropolis. Experience the immersive beauty of this hyper-detailed artwork.",
+    "description_ja": "ネオンに照らされるサイバーパンクの都市の谷間を疾走する未来的な列車。この活気のある都市の躍動感を味わう。高精細な表現と映画のような光が、このアートワークを際立たせる。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece, cinematic rendering of a futuristic train speeding through a neon-lit cyberpunk city canyon. The scene should be rendered in the synthwave aesthetic with vibrant neon lights and wet reflections. Focus on hyperrealistic details, intricate textures, and dynamic lighting for a sense of speed and energy. Use octane render, high contrast, moody atmosphere and film noir inspiration., masterpiece, highly detailed, atmosphere: neon reflections, seed: 8457327",
+    "filename": "wallpaper_1784671553.jpg",
+    "date": "2026-07-21 22:07:02",
+    "timestamp": 1784671553,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784661889",
     "category": "abstract",
     "category_name_en": "Abstract",
