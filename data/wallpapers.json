@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784601822",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Retro Wave Digital Grid Serenity",
+    "title_ja": "デジタルグリッドのレトロウェーブ、有機的なネオンシルク波",
+    "description_en": "This intricate digital grid shimmers with organic neon silk-like waves, evoking a serene and futuristic atmosphere. The interplay of texture and light creates a visually captivating masterpiece.",
+    "description_ja": "この複雑なデジタルグリッドは、有機的なネオンシルク波が浮かび、静謐で未来的な雰囲気を作り出しています。テクスチャーと光の interplay を含む、視覚的に魅惑的な作品です。",
+    "prompt": "[Colab Stable Diffusion] A stunning, high-resolution digital art piece featuring a retro-wave digital grid with vibrant, organic neon silk-like waves floating above it. Rendered in fine art aesthetics with a textured canvas and natural organic shapes. The atmosphere is serene and dreamlike, using warm lighting and soft shadows.  High-quality artwork, 8k resolution, highly detailed, cinematic lighting, masterpiece. , masterpiece, highly detailed, atmosphere: dramatic glow, seed: 9930955",
+    "filename": "wallpaper_1784601822.jpg",
+    "date": "2026-07-21 02:44:53",
+    "timestamp": 1784601822,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784585007",
     "category": "space",
     "category_name_en": "Space",
