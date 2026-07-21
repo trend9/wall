@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784613188",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Metropolis Dusk",
+    "title_ja": "未来都市の夕暮れ",
+    "description_en": "Dive into a sprawling, futuristic metropolis bathed in dusk light as towering skyscrapers pierce the sky with flying cars zipping through the air. Experience the raw energy and mystery of cyber-noir.",
+    "description_ja": "都会の夜の闇が降り注ぐ、未来都市を駆け巡る空中車。巨大な高層ビルが空を突き抜けると、神秘的なサイバーパンクの世界に浸る",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece render of a massive cyberpunk metropolis at dusk, inspired by Blade Runner.  Realistic volumetric fog with dramatic contrast, realistic textures on the buildings and cars, neon lights illuminating the scene. Cinematic lighting, Unreal Engine 5 style, photorealistic quality, high-detail level, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5167597",
+    "filename": "wallpaper_1784613188.jpg",
+    "date": "2026-07-21 05:54:16",
+    "timestamp": 1784613188,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784601822",
     "category": "abstract",
     "category_name_en": "Abstract",
