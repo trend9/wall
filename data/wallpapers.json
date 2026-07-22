@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784699580",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Serene Anime",
+    "title_ja": "静寂なアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting a beautiful anime shrine entrance under a massive ancient sakura tree in full bloom at twilight. Generated with state-of-the-art AI.",
+    "description_ja": "黄昏時に満開の巨大な古い桜の木の下にある、美しいアニメ風の神社入り口を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a beautiful anime shrine entrance under a massive ancient sakura tree in full bloom at twilight, studio ghibli aesthetic, hand-drawn anime style, highly detailed illustration, warm colors, nostalgic, beautiful lighting, desktop wallpaper, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 6042360",
+    "filename": "wallpaper_1784699580.jpg",
+    "date": "2026-07-22 05:54:15",
+    "timestamp": 1784699580,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784688191",
     "category": "nature",
     "category_name_en": "Nature",
