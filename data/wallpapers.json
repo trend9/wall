@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784728578",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Glass Ribbons Dance in Colorful Gradient",
+    "title_ja": "カラフルなグラデーションを反射する、ループするガラスのリボンの魅惑的な3Dレンダリング",
+    "description_en": "This mesmerizing 3D render showcases looping glass ribbons reflecting a vibrant gradient background. Experience the hypnotic interplay of colors and movement.",
+    "description_ja": "この魅惑的な3Dレンダリングは、ループするガラスのリボンのグラデーションの反射を表現しています。カラフルなグラデーションと動きの interplay を体験してみてください。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic, 3D digital render of looping glass ribbons reflecting a colorful gradient background with soft volumetric lighting and vibrant color palette. Explore the mesmerizing dance of light and shadow in this scene., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3901042",
+    "filename": "wallpaper_1784728578.jpg",
+    "date": "2026-07-22 13:57:09",
+    "timestamp": 1784728578,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784718740",
     "category": "space",
     "category_name_en": "Space",
