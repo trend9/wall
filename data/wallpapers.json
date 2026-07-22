@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784718740",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Oasis",
+    "title_ja": "宇宙のオアシス",
+    "description_en": "Discover a breathtakingly beautiful futuristic space station orbiting a mesmerizing, lush planet, bathed in the ethereal glow of cosmic dust. This awe-inspiring image captures the serenity and wonder of space travel.",
+    "description_ja": "未来的な宇宙ステーションが美しい緑と青の地球のような惑星に回っています。この壮大な作品は、宇宙空間の神秘を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece render of a futuristic space station orbiting a vibrant green and blue earth-like planet with swirling cosmic dust. The scene is rendered using Unreal Engine 5, showcasing deep contrast and intricate details. Lighting is ethereal, emphasizing the station's sleek design. Atmospheric perspective emphasizes the vastness of space., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5862806",
+    "filename": "wallpaper_1784718740.jpg",
+    "date": "2026-07-22 11:13:26",
+    "timestamp": 1784718740,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784709112",
     "category": "minimalist",
     "category_name_en": "Minimalist",
