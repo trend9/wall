@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784709112",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sunlit Dunes Minimalist",
+    "title_ja": "太陽と砂丘のミニマル抽象",
+    "description_en": "This wallpaper features a minimalist composition of sunbeams dancing on sand dunes, painted in warm pastel hues for a serene and calming aesthetic. The clean lines and subtle textures evoke a feeling of tranquility.",
+    "description_ja": "暖かみのあるパステルカラーを使用した太陽と砂丘のミニマルで抽象的なデザイン。この壁紙は、穏やかな雰囲気をもたらす。シンプルな線と微妙な質感により、静寂を感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A breathtaking masterpiece, 8k resolution, highly detailed, cinematic lighting. A minimalist abstract composition of sunbeams dancing across a serene sand dune landscape painted in warm pastel hues. Focus on subtle textures and elegant composition with clean lines. Rendered with a calming zen aesthetic., masterpiece, highly detailed, atmosphere: neon reflections, seed: 9667797",
+    "filename": "wallpaper_1784709112.jpg",
+    "date": "2026-07-22 08:32:58",
+    "timestamp": 1784709112,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784699580",
     "category": "anime",
     "category_name_en": "Anime",
