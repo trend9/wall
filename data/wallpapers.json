@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784786182",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Epic Space",
+    "title_ja": "壮大な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting an astronaut floating peacefully in deep space surrounded by distant galaxies and colorful dust. Generated with state-of-the-art AI.",
+    "description_ja": "遠くの銀河やカラフルな塵に囲まれ、深宇宙を静かに漂う宇宙飛行士を描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] an astronaut floating peacefully in deep space surrounded by distant galaxies and colorful dust, sci-fi concept art, interstellar space, cosmic dust, deep contrast, unreal engine 5 render, hyper-detailed, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 4276226",
+    "filename": "wallpaper_1784786182.jpg",
+    "date": "2026-07-23 05:57:38",
+    "timestamp": 1784786182,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784774884",
     "category": "minimalist",
     "category_name_en": "Minimalist",
