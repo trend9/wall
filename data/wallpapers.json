@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784795555",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Fluid Gold & Ink Blends",
+    "title_ja": "液体ゴールドとインクの融合",
+    "description_en": "This artwork depicts a mesmerizing blend of liquid gold and deep blue ink, with dazzling glitter details. The flowing textures evoke a sense of depth and mystery.",
+    "description_ja": "この作品は、液体ゴールドと深紫色のインクが混ざり合う様子を表現しています。キラキラとした細かな輝きも加わり、奥行きのある神秘的な雰囲気を作り出しています。",
+    "prompt": "[Colab Stable Diffusion] A majestic, high-detailed masterpiece, 8k render of liquid gold and deep blue ink swirling together in a textured canvas.  Glitter particles are sprinkled throughout, casting shimmering highlights. Cinematic lighting with soft focus creates an ethereal atmosphere. Tags: #fluiddesign, #abstractart, #highdetail, #cinematic, #8k, #gold, #ink, #masterpiece, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 730265",
+    "filename": "wallpaper_1784795555.jpg",
+    "date": "2026-07-23 08:33:41",
+    "timestamp": 1784795555,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784786182",
     "category": "space",
     "category_name_en": "Space",
