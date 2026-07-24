@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784900850",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf Dewdrop on Beige",
+    "title_ja": "緑の葉の雫",
+    "description_en": "This minimalist desktop wallpaper features a single green leaf, delicately adorned with a water droplet, against a soft beige background. The serene image evokes a sense of peaceful contemplation.",
+    "description_ja": "シンプルで落ち着いたデザインのデスク壁紙は、緑の葉っぱと水滴が、ソフトなベージュの背景に浮かぶ静寂を感じさせる美しい表現となっています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion artwork depicting a single, verdant leaf with a lone water droplet resting on its surface against a clean, soft beige background. Rendered in the Nordic minimalist style with muted pastel colors and soft shadows. The atmosphere should be serene and simplistic, highlighting the beauty of nature's detail. Output: Masterpiece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: neon reflections, seed: 6875023",
+    "filename": "wallpaper_1784900850.jpg",
+    "date": "2026-07-24 13:48:39",
+    "timestamp": 1784900850,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784891128",
     "category": "anime",
     "category_name_en": "Anime",
