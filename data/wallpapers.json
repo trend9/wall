@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784860994",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Looping Glass Ribbons Abstract Wallpaper",
+    "title_ja": "ループするガラスのリボンの抽象壁紙",
+    "description_en": "This mesmerizing 3D render features looping glass ribbons reflecting a vibrant gradient background. Experience the abstract beauty and optical intrigue with this captivating wallpaper.",
+    "description_ja": "この魅惑的な3Dレンダリングは、ループするガラスのリボンのグラデーションの背景を映し出す。この抽象的壁紙で、奥深い美と視覚的な興味を堪能してください。",
+    "prompt": "[Colab Stable Diffusion] A mesmerizing 3D render of looping glass ribbons reflecting a vibrant gradient background, in the style of modern abstract art with high fidelity textures and intricate details. Rendered using OctaneRender with cinematic lighting and atmospheric depth. High-resolution masterpiece 8k wallpaper. Highly detailed., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 6858859",
+    "filename": "wallpaper_1784860994.jpg",
+    "date": "2026-07-24 02:44:01",
+    "timestamp": 1784860994,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784844359",
     "category": "space",
     "category_name_en": "Space",
