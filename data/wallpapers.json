@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784986146",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Fluid Dance of Gold and Ink",
+    "title_ja": "液体金と深青のインクが融合する流動的な動き",
+    "description_en": "Experience a mesmerizing dance of fluid gold and deep blue ink merging into captivating swirls, enhanced by the sparkle of glitter. This abstract wallpaper evokes feelings of creativity and energy.",
+    "description_ja": "黄金と深青のインクが融合する、魅惑的な踊り。キラキラと輝きを増したこの抽象的な壁紙は、創造性とエネルギーを呼び起こすでしょう。",
+    "prompt": "[Colab Stable Diffusion] A modern abstract art masterpiece, 8k, highly detailed, cinematic render. Fluid gold and deep blue ink blend into a swirling dance of creativity, adorned with glitter details. Vibrant color palette, intricate textures, light refracting on the surfaces with soft ambient lighting and warm studio-like atmosphere., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3854837",
+    "filename": "wallpaper_1784986146.jpg",
+    "date": "2026-07-25 13:30:11",
+    "timestamp": 1784986146,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784975365",
     "category": "space",
     "category_name_en": "Space",
