@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1784958301",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Neon City Dreams",
+    "title_ja": "未来都市の光と風",
+    "description_en": "Experience a futuristic anime city with clean streets, lush greenery and cutting-edge technology. This wallpaper evokes a sense of ethereal beauty and wonder.",
+    "description_ja": "未来都市を舞台に、清々しい街並みと緑豊かな自然、そして高性能なモノレールが活躍するアニメーション。この壁紙は、幻想的な美しさと神秘的な雰囲気を感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A futuristic anime city with clean modern streets, green foliage, and high-tech monorail. Rendered in Makoto Shinkai style, featuring gorgeous sky details, lens flares, vivid color grading, ethereal atmosphere, wind blowing, and high quality digital art. masterpiece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6702286",
+    "filename": "wallpaper_1784958301.jpg",
+    "date": "2026-07-25 05:46:07",
+    "timestamp": 1784958301,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1784947250",
     "category": "nature",
     "category_name_en": "Nature",
