@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785081766",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Blooming Path of Cherry Blossoms",
+    "title_ja": "桜の静かな遊歩道",
+    "description_en": "Capture the peaceful beauty of a cherry blossom path in full bloom, with petals floating gently on the spring breeze. Immerse yourself in this serene scene of vibrant colors.",
+    "description_ja": "満開の桜並木を、春風に舞い上がる花びらが優しく舞う静かな風景で、穏やかな美しさを表現。鮮やかな色彩の中で、この美しいシーンに浸る時間を過ごしましょう。",
+    "prompt": "[Colab Stable Diffusion] A magical realism painting of a peaceful cherry blossom path in full bloom, with vibrant petals floating gently on the spring breeze. The scene is rendered in an ethereal atmosphere with vivid colors and cinematic depth of field.  The image should have 8k detail, highly detailed, masterpiece, Cinematic lighting. , masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 7397379",
+    "filename": "wallpaper_1785081766.jpg",
+    "date": "2026-07-26 16:03:52",
+    "timestamp": 1785081766,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785072257",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
