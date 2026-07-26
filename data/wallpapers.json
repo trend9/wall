@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785046119",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Horizons: Ringed Exoplanet Rising",
+    "title_ja": "宇宙の境界線：輪を持つ外惑星が月の上空に昇る",
+    "description_en": "Explore the vastness of space with this awe-inspiring image. A distant ringed exoplanet rises above the barren landscape of an alien moon, casting a mesmerizing glow over the cosmic expanse.",
+    "description_ja": "宇宙の広大さを表現したこの画像で、遠くの輪を持つ系外惑星が不毛なエイリアンの月の地平線上に昇る様子を眺めてみましょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, photorealistic 8k masterpiece of an epic space exploration art. Rendered in the style of Hubble telescope with cinematic lighting. Focus on a distant ringed exoplanet rising over the horizon of a barren alien moon landscape. Atmospheric and moody, with intricate details and vibrant colors. Masterpiece 8k, highly detailed, cinematic lighting, photorealistic,  epic space exploration art, Hubble telescope style., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 2859176",
+    "filename": "wallpaper_1785046119.jpg",
+    "date": "2026-07-26 06:09:49",
+    "timestamp": 1785046119,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785034175",
     "category": "minimalist",
     "category_name_en": "Minimalist",
