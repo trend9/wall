@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785062830",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Looping Glass Ribbons",
+    "title_ja": "ループするガラスリボン",
+    "description_en": "This mesmerizing 3D render features looping glass ribbons reflecting a vibrant gradient background, evoking a sense of ethereal beauty and fluid movement.",
+    "description_ja": "この魅惑的な3Dレンダリングは、ループするガラスリボンが鮮やかなグラデーションの背景を反射することで、エtherealな美しさと流动的動きを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A mesmerizing 3D render of looping glass ribbons reflecting a colorful gradient background, with high-contrast lighting and a sense of fluid motion. Masterpiece, 8k, highly detailed, cinematic, texture art, organic shapes, vibrant colors, flowing movement. Render in premium graphic design style on a textured canvas, masterpiece, highly detailed, atmosphere: neon reflections, seed: 3439569",
+    "filename": "wallpaper_1785062830.jpg",
+    "date": "2026-07-26 10:48:14",
+    "timestamp": 1785062830,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785046119",
     "category": "space",
     "category_name_en": "Space",
