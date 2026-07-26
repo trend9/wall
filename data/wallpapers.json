@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785093145",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Idyll",
+    "title_ja": "星空の静かな田舎",
+    "description_en": "Embark on a peaceful journey to a magical countryside hill bathed in the glow of a starry night. This enchanting scene captures the wonder and serenity of nature's beauty.",
+    "description_ja": "静かな田舎丘に、魔法のような星空が映る。この幻想的な風景は、自然の美しさの神秘と安らぎを感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, hand-drawn anime style illustration of a magical starry night sky over a peaceful countryside hill. The scene features a single glowing tree, illuminated with warm, nostalgic lighting and intricate details reminiscent of Studio Ghibli's aesthetic. The image evokes a sense of wonder and tranquility, in the style of a cinematic masterpiece.  8k resolution, highly detailed, masterful artwork, cinematic lighting, atmospheric, warm colors, beautiful lighting, desktop wallpaper, masterpiece, highly detailed, atmosphere: neon reflections, seed: 1751379",
+    "filename": "wallpaper_1785093145.jpg",
+    "date": "2026-07-26 19:13:32",
+    "timestamp": 1785093145,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785081766",
     "category": "nature",
     "category_name_en": "Nature",
