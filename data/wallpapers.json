@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785134114",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Golden Liquid Flow",
+    "title_ja": "液体ゴールドの流動",
+    "description_en": "This ethereal artwork showcases a captivating blend of liquid gold and deep blue ink, flowing seamlessly together with intricate glitter details. The piece evokes a sense of smooth movement and mesmerizing beauty.",
+    "description_ja": "この幻想的な作品は、液体ゴールドと深青のインクがなめらかに融合する様子を表現しています。さらに、細かいラメが加わって、魅惑的な輝きを与えています。この作品は、滑らかな動きと魅惑的な美しさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k image of a fluid dynamic flow of liquid gold and deep blue ink blending together with glitter details. The artwork features fine art aesthetics, textured canvas, organic shapes, and fluid movement. Lush lighting creates a warm ambiance. Cinematic quality with soft shadows and depth., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3912301",
+    "filename": "wallpaper_1785134114.jpg",
+    "date": "2026-07-27 06:36:21",
+    "timestamp": 1785134114,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785121078",
     "category": "space",
     "category_name_en": "Space",
