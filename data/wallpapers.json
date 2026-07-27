@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785190188",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Pastel Mountain Range Silhouette",
+    "title_ja": "淡い山脈のシルエット",
+    "description_en": "A serene silhouette of a simple pastel mountain range under a pale sun, showcasing clean lines and a peaceful atmosphere. Inspired by minimalist Nordic aesthetics.",
+    "description_ja": "静かな太陽の下に広がる、シンプルなパステルカラーの山脈のシルエット。クリーンなラインと穏やかな雰囲気で、北欧ミニマリストの美しさを感じられる風景です。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic photography of a simple pastel mountain range silhouette under a pale sun. The mountains have soft shadows and clean lines with a serene, simplistic beauty in the style of Nordic minimalism. Lighting should be soft and diffused with subtle light and shadow effects.  Atmosphere: tranquil and meditative., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 52154",
+    "filename": "wallpaper_1785190188.jpg",
+    "date": "2026-07-27 22:10:57",
+    "timestamp": 1785190188,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785180570",
     "category": "anime",
     "category_name_en": "Anime",
