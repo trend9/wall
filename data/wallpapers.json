@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785121078",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Astronaut adrift in cosmic wonder",
+    "title_ja": "宇宙飛行士の静寂な漂流",
+    "description_en": "This awe-inspiring wallpaper depicts an astronaut floating peacefully amidst the vastness of deep space, surrounded by vibrant nebulae and glittering dust. Experience a sense of peaceful serenity within the grandeur of cosmic wonder.",
+    "description_ja": "宇宙の広大さに満ちた静寂な漂流を表現した、壮大な壁紙は、広範な銀河や煌めく塵で囲まれた宇宙飛行士の姿が描かれています。宇宙の神秘と、その静けさを体感してください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece Stable Diffusion image of an astronaut floating peacefully in deep space. Rendered with a Hubble-inspired aesthetic, cinematic lighting illuminates the scene. The composition features vibrant nebulae and glowing dust particles. Focus on epic scale and serenity. Tags: #masterpiece, #8k, #highlydetailed, #cinematic, #spaceexplorationart, #hubbletelescope, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5986473",
+    "filename": "wallpaper_1785121078.jpg",
+    "date": "2026-07-27 02:59:07",
+    "timestamp": 1785121078,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785103297",
     "category": "minimalist",
     "category_name_en": "Minimalist",
