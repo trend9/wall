@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785276402",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Retro Wave Digital Grid",
+    "title_ja": "レトロウェーブデジタルグリッド",
+    "description_en": "Experience a mesmerizing blend of retro-wave digital grid and organic neon silk waves, floating above the intricate pattern. This abstract artwork evokes a sense of dynamic movement and captivating visual wonder.",
+    "description_ja": "レトロなデジタルグリッドと有機的なネオンシルクのような波が浮かび上がる、魅惑的な抽象画。この作品は、躍動感溢れる動きと魅力的な視覚的驚きを表現しています。",
+    "prompt": "[Colab Stable Diffusion] An abstract art masterpiece, 8k, highly detailed, cinematic lighting, textured canvas, organic shapes, fluid movement, a retro-wave digital grid with neon silk waves floating above it. The composition should feature intricate textures and dynamic motion. Masterpiece quality, high resolution image., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3415480",
+    "filename": "wallpaper_1785276402.jpg",
+    "date": "2026-07-28 22:07:48",
+    "timestamp": 1785276402,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785266809",
     "category": "space",
     "category_name_en": "Space",
