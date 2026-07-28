@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785206109",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Peaceful Astronaut in Cosmic Expanse",
+    "title_ja": "宇宙飛行士の静寂な漂う姿",
+    "description_en": "Experience a sense of awe and serenity as an astronaut drifts peacefully through the deep cosmos, surrounded by distant galaxies and colorful cosmic dust. This epic portrait captures the grandeur of space exploration with a stunning combination of detail and cinematic lighting.",
+    "description_ja": "宇宙の広大さと静けさを表現した、壮大な宇宙飛行士の姿を堪能してください。遠くの銀河やカラフルな塵に囲まれ、宇宙飛行士は深宇宙を漂う静寂の中にいる様子が描かれています。この作品は、高度な技術と映画的な照明を用いて、宇宙の壮大な風景を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic portrait of an astronaut floating peacefully in deep space, surrounded by distant galaxies and colorful cosmic dust. Rendered in the style of Hubble telescope imagery with epic scale and masterful lighting. Masterpiece 8k, highly detailed, cinematic lighting, photorealistic, interstellar feel., masterpiece, highly detailed, atmosphere: neon reflections, seed: 7393114",
+    "filename": "wallpaper_1785206109.jpg",
+    "date": "2026-07-28 02:36:02",
+    "timestamp": 1785206109,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785190188",
     "category": "minimalist",
     "category_name_en": "Minimalist",
