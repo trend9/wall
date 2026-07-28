@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785247740",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Anime Shrine Entrance Twilight",
+    "title_ja": "アニメ神社入り口の夕暮れ時",
+    "description_en": "Explore a beautiful anime shrine entrance illuminated by twilight's gentle glow, framed by the majestic bloom of ancient sakura trees. The tranquil atmosphere and ethereal details will transport you to another world.",
+    "description_ja": "アニメ風の神社入り口の夕暮れの光を浴び、巨大な古い桜の木が満開になった様子が美しく描かれています。静かで幻想的な雰囲気は、あなたを別の世界へと連れて行ってくれます。",
+    "prompt": "[Colab Stable Diffusion] A detailed, cinematic masterpiece in 8k, inspired by Makoto Shinkai.  Golden hour lighting casts a warm glow over an anime shrine entrance, with a massive ancient sakura tree providing its backdrop. The scene is rendered with ethereal details and breathtaking sky effects like lens flare. High quality digital art, highly realistic rendering., masterpiece, highly detailed, atmosphere: neon reflections, seed: 2186181",
+    "filename": "wallpaper_1785247740.jpg",
+    "date": "2026-07-28 14:09:54",
+    "timestamp": 1785247740,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785237627",
     "category": "nature",
     "category_name_en": "Nature",
