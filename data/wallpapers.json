@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785227866",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Hacker Den",
+    "title_ja": "サイバーパンクハッカーの隠れ家",
+    "description_en": "Immerse yourself in a neon-lit cyberpunk hacker den, where holographic screens flicker with coded messages. This vibrant, gritty atmosphere evokes the thrill of illicit ventures and the dark underbelly of urban society.",
+    "description_ja": "ネオンに照らされたサイバーパンクのハッカーの隠れ家は、ホログラフィックスクリーンがコードメッセージを暗号化しています。活気のある、荒々しい雰囲気は違法な活動と都会社会の下級階級の闇を探る興奮を与えます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece of a cyberpunk hacker den in the style of Blade Runner, featuring volumetric fog and dramatic contrast. The scene should be filled with glowing holographic screens displaying complex code and intricate data visualizations. The atmosphere should be dark, gritty, and realistic. Use unreal engine 5 render for enhanced quality. Tags: cyberpunk 2077, blade runner aesthetic, realistic textures, volumetric fog, dramatic contrast, cinematic lighting, masterpiece, 8k, highly detailed, masterpiece, highly detailed, atmosphere: neon reflections, seed: 9632520",
+    "filename": "wallpaper_1785227866.jpg",
+    "date": "2026-07-28 08:38:56",
+    "timestamp": 1785227866,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785217736",
     "category": "abstract",
     "category_name_en": "Abstract",
