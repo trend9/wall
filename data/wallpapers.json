@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785266809",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Peaceful Astronaut in Cosmic Expanse",
+    "title_ja": "宇宙飛行士の静寂な漂う空",
+    "description_en": "An astronaut floats peacefully amidst swirling galaxies and colorful dust, captured with the epic scale and cinematic lighting of Hubble's observations. Experience the vastness of space as you gaze at this breathtaking image.",
+    "description_ja": "宇宙飛行士が、銀河とカラフルな塵に囲まれ、静かに漂う様子を捉えた、壮大なスケールの作品と、Hubble telescopeの撮影のように、洗練された光が描かれた美しい画像です。広大な宇宙の美しさを感じてください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion masterpiece, 8k, cinematic lighting, epic space exploration art style inspired by Hubble Telescope, featuring a peaceful astronaut floating amidst swirling galaxies and colorful dust. Emphasize the vastness of space and the majestic depth with a breathtaking color palette, showcasing cosmic splendor. Use tags: #masterpiece #8k #highlydetailed #cinematic #space #galaxy #astronaut #cosmic #Hubble, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3015456",
+    "filename": "wallpaper_1785266809.jpg",
+    "date": "2026-07-28 19:28:01",
+    "timestamp": 1785266809,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785256984",
     "category": "minimalist",
     "category_name_en": "Minimalist",
