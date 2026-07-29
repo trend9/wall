@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785334341",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Celestial Station in Interstellar Space",
+    "title_ja": "宇宙ステーションの星間空間",
+    "description_en": "A glimpse into a futuristic space station orbiting a captivating green and blue planet, showcasing the wonders of interstellar travel and boundless possibilities. A masterpiece of sci-fi concept art with a moody, cosmic atmosphere.",
+    "description_ja": "未来的な宇宙ステーションが美しい緑と青の地球のような惑星の周りを回る様子を映し出す。宇宙の広大さと可能性、そして壮大な未来を描く。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece of sci-fi concept art, highly detailed and cinematic in the style of unreal engine 5 render. Render a futuristic space station orbiting a beautiful green and blue planet with deep contrast and cosmic dust effects. Lighting should be neon-lit, creating an ethereal glow. Emphasize intricate details and realistic textures for a captivating interstellar experience. #8k #highlydetailed #cinematic #sciencefiction #space #future #interstellar #cosmic #deepspace  , masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 6919525",
+    "filename": "wallpaper_1785334341.jpg",
+    "date": "2026-07-29 14:13:35",
+    "timestamp": 1785334341,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785324488",
     "category": "minimalist",
     "category_name_en": "Minimalist",
