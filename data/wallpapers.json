@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785352721",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Night Market",
+    "title_ja": "光る夜市の街",
+    "description_en": "Experience a vibrant cyberpunk street market with glowing food stalls and robotic vendors, bathed in neon light.",
+    "description_ja": "最新のサイバーパンクの世界を、光る屋台とロボットの売り手によって彩られた夜市で体験しましょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a cyberpunk street market with glowing neon lights on futuristic food stalls and robotic vendors. Rendered in an octane render, 8k resolution, cinematic lighting style, with wet reflections. Masterpiece, 8k, highly detailed, cinematic, artstation quality., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 7703192",
+    "filename": "wallpaper_1785352721.jpg",
+    "date": "2026-07-29 19:19:43",
+    "timestamp": 1785352721,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785342234",
     "category": "abstract",
     "category_name_en": "Abstract",
