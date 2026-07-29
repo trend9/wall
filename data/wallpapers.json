@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785304473",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Majestic Mountain Peaks Reflected in Lake",
+    "title_ja": "雪を頂いた山岳の峰、澄み切った湖に映る",
+    "description_en": "This mesmerizing image captures the ethereal beauty of majestic snow-capped mountain peaks reflecting perfectly in a crystal-clear alpine lake. The artwork evokes a sense of serenity and wonder.",
+    "description_ja": "この幻想的な画像では、雪をかぶった山岳の峰が、澄み切った湖に完璧に映り込む様子を表現しています。作品は穏やかで神秘的な雰囲気を醸し出しています。",
+    "prompt": "[Colab Stable Diffusion] An 8k masterpiece, highly detailed image of a majestic snow-capped mountain peak reflecting perfectly in a crystal-clear alpine lake. Cinematic depth of field, ethereal atmosphere, magical realism style lighting, soft natural hues. Subject: Mountain peaks reflection, art style: Magical realism, atmospheric lighting.  #mountainreflection #natureart #magicalrealism #8k #highlydetailed #cinematographic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3018552",
+    "filename": "wallpaper_1785304473.jpg",
+    "date": "2026-07-29 05:55:45",
+    "timestamp": 1785304473,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785292797",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
