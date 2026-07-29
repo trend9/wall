@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785324488",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Cinematic Minimalist",
+    "title_ja": "映画のようなミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a minimal abstract geometric composition of sun and dunes using warm pastel tones. Generated with state-of-the-art AI.",
+    "description_ja": "暖かみのあるパステルカラーを使用した、太陽と砂丘のミニマルで抽象的な幾何学的構図を描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a minimal abstract geometric composition of sun and dunes using warm pastel tones, clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic, zen, 8k resolution, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 113125",
+    "filename": "wallpaper_1785324488.jpg",
+    "date": "2026-07-29 11:29:20",
+    "timestamp": 1785324488,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785314585",
     "category": "anime",
     "category_name_en": "Anime",
