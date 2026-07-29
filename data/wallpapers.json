@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785292797",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Dreamy Cyberpunk",
+    "title_ja": "夢のようなサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a futuristic train speeding through a neon-lit cyberpunk city canyon. Generated with state-of-the-art AI.",
+    "description_ja": "ネオンに照らされたサイバーパンクの都市の谷間を疾走する未来的な列車を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a futuristic train speeding through a neon-lit cyberpunk city canyon, futuristic, synthwave aesthetic, neon glow, wet reflections, highly detailed, octane render, 8k resolution, cinematic lighting, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5924805",
+    "filename": "wallpaper_1785292797.jpg",
+    "date": "2026-07-29 02:41:01",
+    "timestamp": 1785292797,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785276402",
     "category": "abstract",
     "category_name_en": "Abstract",
