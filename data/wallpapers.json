@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785428921",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Bioluminescent Waterfall in a Magical Jungle",
+    "title_ja": "魔法の夜のジャングルの奥深い滝",
+    "description_en": "Witness the breathtaking beauty of a luminous waterfall cascading through a magical night jungle. Immerse yourself in the mystical atmosphere and vibrant colors.",
+    "description_ja": "神秘的な夜ジャングルの中に、輝く生物光る滝を目に焼きつけましょう。その魔法のような雰囲気と鮮やかな色彩で、あなたを魅了します。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed image of a luminous bioluminescent waterfall cascading deep within a magical night jungle. Cinematic depth of field with ethereal atmosphere and vivid colors. Dreamlike lighting and soft bokeh. Focus on the water flowing down into the darkness. Use style keywords: magical realism, ethereal, vibrant, cinematic,  and trending art styles like Art Deco, Surrealism, or Fantasy Art. , masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 9392260",
+    "filename": "wallpaper_1785428921.jpg",
+    "date": "2026-07-30 16:29:28",
+    "timestamp": 1785428921,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785420302",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
