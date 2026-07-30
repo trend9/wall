@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785390226",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Leaf Dew Drop Minimalist",
+    "title_ja": "緑の葉と水滴のミニマリスト",
+    "description_en": "This minimalist wallpaper showcases a single green leaf with a water droplet, creating a serene and simplistic beauty. The soft beige background enhances the natural elements.",
+    "description_ja": "このミニマリストの壁紙には、単一緑の葉と水滴が描かれている。穏やかでシンプルながらも美しい自然を表現しています。柔らかく、優しいベージュの背景が自然な要素を引き立たせます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece image of a single, green leaf with a water droplet resting on a clean, soft beige background. Use nordic style minimalism with muted pastel colors, soft shadows and serene atmosphere. Focus on details and realism, cinematic lighting. Tags: #minimalism, #nature, #leaf, #waterdroplet, #masterpiece, #8k, #highlydetailed, #cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 7358418",
+    "filename": "wallpaper_1785390226.jpg",
+    "date": "2026-07-30 05:44:54",
+    "timestamp": 1785390226,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785378429",
     "category": "anime",
     "category_name_en": "Anime",
