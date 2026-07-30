@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785439715",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Neon City Dreams",
+    "title_ja": "未来都市の夢",
+    "description_en": "Step into a futuristic anime city, where sleek streets are adorned with lush greenery and cutting-edge monorails. Experience the ethereal beauty of this captivating artwork.",
+    "description_ja": " futuristically clean cityscape with green foliage. A high-tech cityscape, complete with glowing monorail, offers stunning visuals in a vibrant environment.",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic art masterpiece, inspired by Makoto Shinkai's style. Featuring a futuristic anime city bathed in warm sunlight. Lush green foliage, clean modern streets, and shimmering monorail create a sense of awe-inspiring beauty. Lens flare adds depth and drama to the scene, while ethereal sky details and wind blowing across the foreground enhance the magical atmosphere. High quality digital art, 8k resolution, masterwork, cinematic lighting, dreamlike and ethereal., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 7819921",
+    "filename": "wallpaper_1785439715.jpg",
+    "date": "2026-07-30 19:29:46",
+    "timestamp": 1785439715,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785428921",
     "category": "nature",
     "category_name_en": "Nature",
