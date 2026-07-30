@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785409814",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Golden Flow Intertwined",
+    "title_ja": "液体ゴールドと深ブルーのインクが融合する流れ",
+    "description_en": "Experience a mesmerizing blend of shimmering liquid gold and deep blue ink, flowing with an ethereal grace. This abstract piece captures the beauty of fluid motion and organic shapes in a premium graphic design masterpiece.",
+    "description_ja": "光沢のある液体ゴールドと深い青色のインクが融合する、魅惑的な流れを体感。この抽象的な作品は、有機形状の美しさに、上品なデザインで完璧な映画的雰囲気を作り出す。",
+    "prompt": "[Colab Stable Diffusion] A fine art masterpiece, 8k, highly detailed, cinematic. Liquid gold flows into a deep blue ink, creating an intricate swirling pattern. Rendered on a textured canvas with organic shapes and glitter details. Soft lighting casts dramatic shadows, evoking a mystical atmosphere of beauty and depth. Keywords: abstract, fluid, artistic, golden, blue, dynamic, movement, texture, premium, masterpiece, 8k, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 9658676",
+    "filename": "wallpaper_1785409814.jpg",
+    "date": "2026-07-30 11:11:22",
+    "timestamp": 1785409814,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785400157",
     "category": "space",
     "category_name_en": "Space",
