@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785378429",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Futuristic Anime Metropolis",
+    "title_ja": "未来のアニメ都市",
+    "description_en": "Witness a breathtaking glimpse into a futuristic anime city, where clean modern streets meet lush greenery and innovative technology elevates daily life. Immerse yourself in the nostalgic beauty of this vibrant metropolis.",
+    "description_ja": "未来のアニメ都市を、清々しいモダンな道路と緑豊かな木々、そしてハイテクなモノレールが融合する幻想的な風景に見 into ことができます。この活気溢れる都市に浸ることで、懐かしい美しさを体験してください。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, hand-drawn anime style illustration of a futuristic anime city with clean modern streets, lush green foliage, and towering monorails. Inspired by the studio ghibli aesthetic, featuring warm colors, beautiful lighting, nostalgic atmosphere, and cinematic quality. Masterpiece, 8k, highly detailed, cinematic., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4342314",
+    "filename": "wallpaper_1785378429.jpg",
+    "date": "2026-07-30 02:28:03",
+    "timestamp": 1785378429,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785362622",
     "category": "nature",
     "category_name_en": "Nature",
