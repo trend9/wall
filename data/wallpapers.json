@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785497492",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Stunning Cyberpunk",
+    "title_ja": "見事なサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a high-tech cyberpunk hacker den with multiple glowing holographic screens. Generated with state-of-the-art AI.",
+    "description_ja": "複数の光るホログラフィック画面があるハイテクなサイバーパンクのハッカーの隠れ家を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a high-tech cyberpunk hacker den with multiple glowing holographic screens, futuristic, synthwave aesthetic, neon glow, wet reflections, highly detailed, octane render, 8k resolution, cinematic lighting, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1209894",
+    "filename": "wallpaper_1785497492.jpg",
+    "date": "2026-07-31 11:33:07",
+    "timestamp": 1785497492,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785478595",
     "category": "abstract",
     "category_name_en": "Abstract",
