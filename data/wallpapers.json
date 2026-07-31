@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785466293",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Station Orbiting Earth-like Planet",
+    "title_ja": "未来的な宇宙ステーションが地球のような惑星を回る",
+    "description_en": "This captivating artwork showcases a futuristic space station orbiting a breathtakingly beautiful planet, reminiscent of Earth. Immerse yourself in the awe-inspiring vastness of space with this stunning illustration.",
+    "description_ja": "壮大な宇宙の風景を描いた、未来的な宇宙ステーションが地球のような惑星を回っている作品です。この作品は、地球に似た惑星を周回するステーションの様子を、鮮やかな描写で表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, masterpiece 8k Stable Diffusion image of a futuristic space station orbiting an idyllic earth-like planet with vibrant green and blue hues, reminiscent of the Earth. The scene features a cinematic lighting style with awe-inspiring depth, rich textures, and incredible detail, capturing the epic scale of space exploration. Use Hubble telescope style, hyperrealistic rendering., masterpiece, highly detailed, atmosphere: neon reflections, seed: 5436955",
+    "filename": "wallpaper_1785466293.jpg",
+    "date": "2026-07-31 02:52:15",
+    "timestamp": 1785466293,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785449273",
     "category": "minimalist",
     "category_name_en": "Minimalist",
