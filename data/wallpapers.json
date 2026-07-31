@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785516504",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Hilltop Dream",
+    "title_ja": "星空の静かな丘",
+    "description_en": "A peaceful countryside hill bathed in a magical starry night sky, with a single glowing tree illuminating the scene. This anime-inspired illustration evokes nostalgia and wonder.",
+    "description_ja": "静かな田舎の丘に、魔法のように輝く星空が広がっています。一本の光る木が、その風景を神秘的な雰囲気で表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k, cinematic, masterpiece Stable Diffusion image of a peaceful countryside hill under a magical starry night sky.  The focus is on a single glowing tree, with vibrant warm lighting and soft shadows. Studio Ghibli style hand-drawn anime aesthetic. Rendered in natural tones with details and subtle textures., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4905907",
+    "filename": "wallpaper_1785516504.jpg",
+    "date": "2026-07-31 16:49:30",
+    "timestamp": 1785516504,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785506978",
     "category": "nature",
     "category_name_en": "Nature",
