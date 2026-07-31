@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785535667",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Tranquility",
+    "title_ja": "宇宙の静寂",
+    "description_en": "This artwork depicts an astronaut floating peacefully in deep space, surrounded by mesmerizing galaxies and vibrant dust particles. The image exudes a sense of awe-inspiring peacefulness.",
+    "description_ja": "深宇宙に漂う宇宙飛行士の姿を、壮大な銀河と彩り豊かな塵で囲まれた静寂な空間で表現しています。この作品は、宇宙の神秘的な美しさを感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic lighting, epic space exploration art in the style of Hubble telescope, an astronaut floating peacefully in deep space surrounded by distant galaxies and colorful dust particles, photorealistic. Focus on cosmic tranquility, atmospheric depth., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 116288",
+    "filename": "wallpaper_1785535667.jpg",
+    "date": "2026-07-31 22:08:43",
+    "timestamp": 1785535667,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785526023",
     "category": "minimalist",
     "category_name_en": "Minimalist",
