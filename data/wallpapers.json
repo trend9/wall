@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785621511",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Hacker Haven",
+    "title_ja": "サイバーパンクハッカーの隠れ家",
+    "description_en": "Witness the cutting-edge world of cyberpunk hacking as detailed holographic screens illuminate a high-tech hacker den. Immerse yourself in neon glow and a mesmerizing atmosphere.",
+    "description_ja": "最新のサイバーパンクのハッキング空間を、光るホログラフィックスクリーンが煌めくハイテクな隠れ家で見ましょう。ネオンの光と魅惑的な雰囲気に浸ってください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece Stable Diffusion image of a cyberpunk hacker den with multiple glowing holographic screens. Featuring futuristic synthwave aesthetics, neon glow, wet reflections, cinematic lighting. The atmosphere should be dark and mysterious, with vibrant details and subtle textures. Tags: Cyberpunk, Hacker Den, Holographic Screens, Futuristic, Synthwave, Neon, Wet Reflections, Masterpiece, 8k, Highly Detailed, Cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 7615950",
+    "filename": "wallpaper_1785621511.jpg",
+    "date": "2026-08-01 21:59:42",
+    "timestamp": 1785621511,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785611410",
     "category": "abstract",
     "category_name_en": "Abstract",
