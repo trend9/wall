@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785552601",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Ethereal Abstract",
+    "title_ja": "幻想的な抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a fluid dynamic flow of liquid gold and deep blue ink blending together with glitter details. Generated with state-of-the-art AI.",
+    "description_ja": "ラメのディテールとブレンドし合う、液体ゴールドとディープブルーのインクの流体的な流れを描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a fluid dynamic flow of liquid gold and deep blue ink blending together with glitter details, fine art aesthetics, textured canvas, organic shapes, fluid movement, premium graphic design, visual masterpiece, masterpiece, highly detailed, atmosphere: neon reflections, seed: 9835980",
+    "filename": "wallpaper_1785552601.jpg",
+    "date": "2026-08-01 02:50:52",
+    "timestamp": 1785552601,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785535667",
     "category": "space",
     "category_name_en": "Space",
