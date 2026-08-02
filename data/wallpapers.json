@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785659718",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sun & Dunes: Minimalist Abstract",
+    "title_ja": "太陽と砂丘：ミニマルな抽象表現",
+    "description_en": "A calming and serene composition of sunbeams on sandy dunes, utilizing minimal lines and muted pastel colors for a minimalist aesthetic. This abstract artwork evokes a sense of peace and tranquility.",
+    "description_ja": "穏やかな空間で、太陽の光が砂丘を照らし出す、ミニマルな抽象的な表現。淡いパステルカラーで構成され、リラックスと安らぎをもたらします。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic image of a minimalist abstract geometric composition featuring sunbeams on sand dunes. Utilize warm pastel colors with clean lines and subtle textures. Render in a calming and serene atmosphere with soft lighting. Tags: minimal, abstract, geometry, sun, sand, calm, zen, peaceful, modern, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 8622962",
+    "filename": "wallpaper_1785659718.jpg",
+    "date": "2026-08-02 08:36:24",
+    "timestamp": 1785659718,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785650413",
     "category": "anime",
     "category_name_en": "Anime",
