@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785667380",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Dance of Stellar Giants",
+    "title_ja": "銀河のダンス",
+    "description_en": "Witness the breathtaking brilliance of a massive spiral galaxy pulsing with millions of stars against the inky depths of space. This image captures the awe and majesty of the cosmos.",
+    "description_ja": "宇宙の深い闇の中に、何百万もの星が輝く巨大な渦巻銀河を見よ。この画像には、宇宙の神秘と美しさが満ち溢れている。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece, Stable Diffusion generated image of a massive spiral galaxy glowing brightly in deep black space. The galaxy is filled with millions of stars that create a dynamic and vibrant dance across the canvas. Rendered in Unreal Engine 5 with dramatic lighting and swirling cosmic dust particles, showcasing the vastness and beauty of interstellar space. High contrast, hyper-realistic detail, cinematic atmosphere., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1315701",
+    "filename": "wallpaper_1785667380.jpg",
+    "date": "2026-08-02 10:44:07",
+    "timestamp": 1785667380,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785659718",
     "category": "minimalist",
     "category_name_en": "Minimalist",
