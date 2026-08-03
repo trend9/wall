@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785785962",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Sunset Symphony on a Tranquil Ocean",
+    "title_ja": "穏やかな海に沈む壮大な夕日",
+    "description_en": "Witness the breathtaking beauty of an epic sunset over a calm ocean, with vibrant pink, purple, and orange clouds dominating the sky. Immerse yourself in this ethereal atmosphere and marvel at its magical realism.",
+    "description_ja": "静かな海に沈む壮大な夕日は、鮮やかなピンク、紫、オレンジ色の雲が空を彩ります。魔法の現実主義的な雰囲気で、この壮大な風景を堪能しましょう。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed Stable Diffusion image, cinematic depth of field, vibrant pink, purple and orange clouds dominating a calm ocean sunset. Soft golden light with ethereal fog, magical realism style, atmospheric lighting, beautiful bokeh blur., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 7569922",
+    "filename": "wallpaper_1785785962.jpg",
+    "date": "2026-08-03 19:40:32",
+    "timestamp": 1785785962,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785777062",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
