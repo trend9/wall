@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785795054",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Summer Breeze Study",
+    "title_ja": "夏の空の書斎",
+    "description_en": "Escape to a cozy anime-style study room bathed in warm sunlight, overlooking a summer sky filled with fluffy white clouds. This desktop wallpaper captures the nostalgic atmosphere of beloved anime shows.",
+    "description_ja": "夏の空とふわふわした白い雲を見渡す窓がある、居心地の良いアニメ風の書斎で、温かい光が差し込む。このデスクトップ壁紙は、愛されているアニメの雰囲気を表現しています。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed Stable Diffusion image, studio Ghibli aesthetic, hand-drawn anime style, 8k, highly detailed illustration, warm colors, cinematic lighting, nostalgic atmosphere, beautiful clouds, fluffy white clouds, summer sky, cozy study room with a window, desk, bookshelves, traditional Japanese furniture, masterpiece, stunning details, high resolution, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 7546145",
+    "filename": "wallpaper_1785795054.jpg",
+    "date": "2026-08-03 22:11:42",
+    "timestamp": 1785795054,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785785962",
     "category": "nature",
     "category_name_en": "Nature",
