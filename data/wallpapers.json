@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785872465",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Serene Wooden Pier by a Misty Lake",
+    "title_ja": "霧深い白い湖に続く一連の木製の桟橋",
+    "description_en": "A solitary wooden pier stretches out over a vast, calm, misty white lake. Experience the serene beauty and tranquil atmosphere of this minimalist art.",
+    "description_ja": "広大で穏やかな霧深い白い湖へと続く、一連の木製の桟橋。静寂と美しさを感じさせる、ミニマルなアート",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic image of a solitary wooden pier extending into a vast, calm, misty white lake. The scene is rendered in a muted pastel color palette with soft shadows and ambient lighting.  Art style: Nordic minimalist, serene, simplistic beauty., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1119070",
+    "filename": "wallpaper_1785872465.jpg",
+    "date": "2026-08-04 19:42:09",
+    "timestamp": 1785872465,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785862400",
     "category": "anime",
     "category_name_en": "Anime",
