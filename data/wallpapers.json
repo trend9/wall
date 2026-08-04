@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785842728",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Hacker Hideout",
+    "title_ja": "サイバーパンクハッカーの隠れ家",
+    "description_en": "Immerse yourself in a futuristic cyberpunk hacker den, showcasing intricate holographic screens illuminating the space. Experience the dynamic mood of this high-tech haven with vibrant neon glow and wet reflections.",
+    "description_ja": "最新のサイバーパンクの世界観で、複雑なホログラフィックディスプレイが煌めく隠れ家。鮮やかなネオンと水滴のような反射で、このテクノロジーの溢れる空間を体感してください。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, a futuristic cyberpunk hacker den with multiple glowing holographic screens. Rendered in an octane render style, featuring neon-lit wet reflections, synthwave aesthetic, dark and gritty atmosphere. Light sources include dramatic neon signs, studio lighting, and warm ambient light., masterpiece, highly detailed, atmosphere: neon reflections, seed: 7484983",
+    "filename": "wallpaper_1785842728.jpg",
+    "date": "2026-08-04 11:26:35",
+    "timestamp": 1785842728,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785832699",
     "category": "abstract",
     "category_name_en": "Abstract",
