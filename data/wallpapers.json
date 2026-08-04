@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785822547",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Symphony",
+    "title_ja": "宇宙星雲の音楽",
+    "description_en": "Gaze upon a mesmerizing cosmic nebula awash in vibrant violet, blue, and gold dust clouds that form stars. This captivating piece evokes the vastness and wonder of space.",
+    "description_ja": "壮大な宇宙星雲に、鮮やかなバイオレット、ブルー、ゴールドの宇宙塵が星を形成する様子を眺めましょう。この作品は、宇宙の広さと神秘さを表現します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic 8k Stable Diffusion image, in the style of sci-fi concept art with unreal engine 5 rendering. Depict a stunning cosmic nebula filled with vibrant violet, blue, and gold dust clouds that form stars. The nebula should be bathed in deep contrast lighting, showcasing its ethereal glow. Emphasize realism through intricate details, hyper-realistic textures and stellar formations. Tags: masterpiece, 8k, highly detailed, cinematic, realistic, unreal engine 5 render, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3558869",
+    "filename": "wallpaper_1785822547.jpg",
+    "date": "2026-08-04 05:50:15",
+    "timestamp": 1785822547,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785810865",
     "category": "minimalist",
     "category_name_en": "Minimalist",
