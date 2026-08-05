@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1785908919",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Metropolis Dusk",
+    "title_ja": "夜の都市、未来の街",
+    "description_en": "Experience the vibrant energy of a futuristic metropolis where flying cars navigate towering skyscrapers at dusk. This evocative image captures the sleek and stylish cyberpunk aesthetic.",
+    "description_ja": "未来都市の夜景。空飛ぶ車と高層ビルが夜空を彩る。スタイリッシュなサイバーパンクな雰囲気で、この静寂に漂う世界はあなたを魅了するでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece of a cyberpunk city scene at dusk. Ultra-detailed cityscape with flying cars and neon signs reflecting on wet pavement. Synthwave aesthetic, cinematic lighting, octane render. Tags: cyberpunk, futuristic, neon, rainy night, highly detailed, 8k, cinematic, masterpeice, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 6983431",
+    "filename": "wallpaper_1785908919.jpg",
+    "date": "2026-08-05 05:49:49",
+    "timestamp": 1785908919,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1785897180",
     "category": "abstract",
     "category_name_en": "Abstract",
