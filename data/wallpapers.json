@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786015514",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Dawn on an Alien World",
+    "title_ja": "宇宙の黎明、異世界での絶景",
+    "description_en": "Witness a distant ringed exoplanet rise above the barren lunar landscape, casting long shadows and hinting at the mysteries of the cosmos. This image captures a sense of awe and wonder as we gaze upon the vastness of space.",
+    "description_ja": "異世界における荒涼とした月面。遠くの輪を持つ系外惑星が地平線に昇り、影を落とす。宇宙の広大さと神秘性を表現した作品です。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic render of a distant ringed exoplanet rising over the barren horizon of an alien moon landscape. The image is rendered in Unreal Engine 5 with deep contrast and cosmic dust, emphasizing a sci-fi concept art style. Focus on the dramatic light cast by the exoplanet and the desolate lunar landscape. Use vibrant colors to convey a sense of mystery and intrigue., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 260221",
+    "filename": "wallpaper_1786015514.jpg",
+    "date": "2026-08-06 11:26:09",
+    "timestamp": 1786015514,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786005500",
     "category": "minimalist",
     "category_name_en": "Minimalist",
