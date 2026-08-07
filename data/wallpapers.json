@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786072441",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Cherry Blossom Path in Spring",
+    "title_ja": "春の桜並木",
+    "description_en": "Experience a tranquil path adorned with blossoming cherry trees, their petals gently drifting on the spring breeze, creating an ethereal atmosphere of peaceful beauty.",
+    "description_ja": "静かな桜並木に満開の花が舞い降りる様子を、春風に揺れる桜の美しさで表現した、穏やかな風景を堪能しましょう。",
+    "prompt": "[Colab Stable Diffusion] A breathtakingly detailed, National Geographic style photograph of a peaceful cherry blossom path in full bloom. Soft lighting emphasizes the delicate petals floating on the spring breeze. Rendered in an 8k cinematic quality with mastery and realism. High detail and intricate elements. Subject: Cherry blossoms, Path. Art Style: National Geographic, soft lighting, award-winning, highly detailed, realistic, masterpiece. 8k, cinematic, high-resolution., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 2568038",
+    "filename": "wallpaper_1786072441.jpg",
+    "date": "2026-08-07 03:15:07",
+    "timestamp": 1786072441,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786060896",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
