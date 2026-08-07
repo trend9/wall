@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786060896",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Hacker Den",
+    "title_ja": "サイバーパンクハッカーの隠れ家",
+    "description_en": "Immerse yourself in a sleek, high-tech cyberpunk hacker den with multiple holographic screens. Experience the electrifying atmosphere and thrill of technological marvels.",
+    "description_ja": "鮮やかなサイバーパンクのハッカーの隠れ家は、複数の光るホログラフィック画面で構成されています。この作品はテクノロジーの興奮を体験できます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece render of a cyberpunk hacker den with multiple glowing holographic screens. Realistic textures and volumetric fog, cinematic lighting with dramatic contrast. Rendered in Unreal Engine 5 style for a visually stunning effect. Include tags: cyberpunk, blade runner, realistic, volumetric fog, cinematic, masterpiece, masterpiece, highly detailed, atmosphere: neon reflections, seed: 2905381",
+    "filename": "wallpaper_1786060896.jpg",
+    "date": "2026-08-07 00:02:42",
+    "timestamp": 1786060896,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786025467",
     "category": "abstract",
     "category_name_en": "Abstract",
