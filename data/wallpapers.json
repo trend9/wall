@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786138879",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Ethereal Cherry Blossom Path",
+    "title_ja": "春の風と満開桜の静寂",
+    "description_en": "Capture the beauty of a peaceful cherry blossom path blooming in full glory, with petals gently swaying in the spring breeze. This stunning piece evokes serenity and tranquility.",
+    "description_ja": "春の風が優しく花びらを舞い、満開の桜並木が静寂を漂わせる様子を表現した美しい画像。この作品は、穏やかさと落ち着きを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic image of a peaceful cherry blossom path in full bloom. The scene features ethereal colors, soft lighting, and an atmospheric depth of field. Focus on the gentle swaying petals blown by a spring breeze. Include details like blossoms, leaves, tree trunks, and blooming branches for realistic imagery., masterpiece, highly detailed, atmosphere: neon reflections, seed: 5828211",
+    "filename": "wallpaper_1786138879.jpg",
+    "date": "2026-08-07 21:42:27",
+    "timestamp": 1786138879,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786129179",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
