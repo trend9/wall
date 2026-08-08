@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786162377",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf Drops",
+    "title_ja": "緑の葉の雫",
+    "description_en": "Find serenity in this simple image of a single green leaf adorned with a delicate water droplet on a soft beige background. The tranquil mood evokes a sense of peace and tranquility.",
+    "description_ja": "静寂を演出する、ベージュの背景に緑の葉の一滴の水滴が付いたシンプルなイメージ。穏やかな雰囲気は心安らぎを与えるでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed masterpiece 8k image in the style of nordic minimalism. Soft, muted pastel colors dominate the scene with shadows cast against a clean beige background. The central focus is on a single green leaf adorned with a single water droplet. Lighting should be soft and diffused with an ethereal atmosphere. High-quality photorealistic rendering for cinematic effect., masterpiece, highly detailed, atmosphere: neon reflections, seed: 3115056",
+    "filename": "wallpaper_1786162377.jpg",
+    "date": "2026-08-08 04:14:04",
+    "timestamp": 1786162377,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786153285",
     "category": "anime",
     "category_name_en": "Anime",
