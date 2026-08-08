@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786172113",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Galaxy Glow",
+    "title_ja": "銀河の光",
+    "description_en": "Witness millions of stars illuminating a massive spiral galaxy against the depths of space in this breathtaking cosmic scene. Explore the vastness of the cosmos with awe and wonder.",
+    "description_ja": "深宇宙に広がる巨大な渦巻銀河の輝きを、数百万個の星が輝く壮大な宇宙風景の中に観察しましょう。この壮大な宇宙の広大さを驚嘆と感動と共に堪能してください。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic lighting, photorealistic rendering of a massive spiral galaxy glowing brightly in deep black space. Subject is centered against the vastness of space, showcasing millions of stars illuminating the galaxy's intricate spiral arms. Inspired by Hubble telescope style, capturing the ethereal beauty and cosmic scale., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 468874",
+    "filename": "wallpaper_1786172113.jpg",
+    "date": "2026-08-08 06:56:06",
+    "timestamp": 1786172113,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786162377",
     "category": "minimalist",
     "category_name_en": "Minimalist",
