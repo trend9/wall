@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786388376",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Fluid Flow of Gold and Ink",
+    "title_ja": "液体ゴールドと深緑のインクが融合する流体的な流れ",
+    "description_en": "Experience a captivating blend of liquid gold and deep blue ink, flowing with vibrant energy and intricate glitter details. Dive into a mesmerizing masterpiece that elevates any desktop.",
+    "description_ja": "金色と深緑のインクが融合した、活気に満ちた流体的な流れを見よ。輝くラメが加わり、特別な空間を創出する魅惑的な傑作で、デスクトップを華麗に彩るでしょう。",
+    "prompt": "[Colab Stable Diffusion] A 8k masterpiece, highly detailed, cinematic render of a fluid dynamic flow of liquid gold and deep blue ink blending together with intricate glitter details. Focus on the blend, use vibrant color palette, high-key lighting, and create an ethereal atmosphere. Rendered in Octane using realistic textures., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4750189",
+    "filename": "wallpaper_1786388376.jpg",
+    "date": "2026-08-10 19:00:33",
+    "timestamp": 1786388376,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786377736",
     "category": "space",
     "category_name_en": "Space",
