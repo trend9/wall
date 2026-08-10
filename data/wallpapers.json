@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786347812",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Cherry Blossom Path in Spring Breeze",
+    "title_ja": "春の風で桜が優しく舞い",
+    "description_en": "Immerse yourself in a peaceful cherry blossom path bathed in soft spring sunlight. Witness the delicate blossoms dance gently with the breeze, evoking feelings of serenity and tranquility.",
+    "description_ja": "春の風に舞う桜並木を、柔らかな光が照らして静かに眺める。桜の花びらが優しく舞い、穏やかな気持ちと安らぎを与えてくれるでしょう。",
+    "prompt": "[Colab Stable Diffusion] A breathtaking nature photography, award-winning masterpiece, 8k, highly detailed, realistic, cinematic. A peaceful cherry blossom path in full bloom with petals gently floating in the spring breeze. Soft lighting illuminates the scene with a subtle blue hour effect. Focus on delicate textures and blooming flowers. The atmosphere is tranquil and serene, conveying a sense of peace and tranquility., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 9997358",
+    "filename": "wallpaper_1786347812.jpg",
+    "date": "2026-08-10 07:44:20",
+    "timestamp": 1786347812,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786336820",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
