@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786398202",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Dreamy Cyberpunk",
+    "title_ja": "夢のようなサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a massive futuristic metropolis with flying cars zooming between skyscrapers at dusk. Generated with state-of-the-art AI.",
+    "description_ja": "夕暮れ時に超高層ビルの間を飛び交う空飛ぶ車と巨大な未来都市を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a massive futuristic metropolis with flying cars zooming between skyscrapers at dusk, futuristic, synthwave aesthetic, neon glow, wet reflections, highly detailed, octane render, 8k resolution, cinematic lighting, masterpiece, highly detailed, atmosphere: neon reflections, seed: 5943993",
+    "filename": "wallpaper_1786398202.jpg",
+    "date": "2026-08-10 21:44:22",
+    "timestamp": 1786398202,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786388376",
     "category": "abstract",
     "category_name_en": "Abstract",
