@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786357120",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Summer Study Bliss",
+    "title_ja": "夏の書斎の安らぎ",
+    "description_en": "Escape to a cozy anime-style study room bathed in summer sunlight. Witness stunning detail and dreamy atmosphere, perfect for relaxation.",
+    "description_ja": "夏を感じさせるアニメ風の書斎で、リラックスできる空間を味わおう。美しい風景と幻想的な雰囲気は、心を落ち着かせるでしょう。",
+    "prompt": "[Colab Stable Diffusion] A makoto shinkai style anime-style study room with a window overlooking a summer sky filled with fluffy white clouds. Gorgeous, intricate detail and vibrant color grading with lens flare. Highly detailed 8k masterpiece, cinematic lighting, ethereal atmosphere, wind blowing. #anime #study #cozy #makotosinkai #summer #wallpaper #highquality #portrait #desktopart #detailed #studio, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8270180",
+    "filename": "wallpaper_1786357120.jpg",
+    "date": "2026-08-10 10:19:48",
+    "timestamp": 1786357120,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786347812",
     "category": "nature",
     "category_name_en": "Nature",
