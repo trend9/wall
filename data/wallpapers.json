@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786336820",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Night Market",
+    "title_ja": "サイバーパンクの夜市",
+    "description_en": "Step into a vibrant cyberpunk night market, where glowing street food stalls tempt you with neon delights and robotic vendors trade in advanced technology. This bustling scene captures the energy and excitement of this futuristic setting.",
+    "description_ja": "光るストリートフードの屋台が夜の街を彩るサイバーパンクの夜市に足を踏み入れましょう。テクノロジーと食の融合は、この活気あふれる街の物語を語るでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece of a cyberpunk night market scene, rendered in the synthwave aesthetic with bright neon glows and wet reflections. The atmosphere is cinematic with vibrant colors and dynamic lighting, showcasing bustling street stalls selling futuristic food, and robotic vendors. Tags: cityscape, neon lights, wet reflections,  cyberpunk art, futuristic, 8k resolution, masterpiece, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8306024",
+    "filename": "wallpaper_1786336820.jpg",
+    "date": "2026-08-10 04:41:09",
+    "timestamp": 1786336820,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786326613",
     "category": "abstract",
     "category_name_en": "Abstract",
