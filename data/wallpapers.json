@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786432185",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sunbeams on Dunes",
+    "title_ja": "太陽と砂丘のミニマルな抽象表現",
+    "description_en": "Experience a serene minimalist abstract composition of sun and dunes in warm pastel tones, bathed in soft shadows. A peaceful yet dynamic scene awaits.",
+    "description_ja": "穏やかなミニマリスト抽象表現で、太陽と砂丘が暖かみのあるパステルカラーで描かれています。柔らかな陰影の中で、静かで力強い空間を体験できます。",
+    "prompt": "[Colab Stable Diffusion] A minimalist abstract composition of sun and dunes in warm pastel tones, using a muted color palette. Soft shadows are cast across the scene, creating a serene and simplistic beauty. Artistic style: Nordic style minimalism, 8k, highly detailed, cinematic masterpiece, masterwork, photograph-realistic., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 59743",
+    "filename": "wallpaper_1786432185.jpg",
+    "date": "2026-08-11 07:10:53",
+    "timestamp": 1786432185,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786422190",
     "category": "anime",
     "category_name_en": "Anime",
