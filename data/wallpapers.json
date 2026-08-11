@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786442570",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Dreamscape",
+    "title_ja": "宇宙星雲の夢",
+    "description_en": "Experience a breathtaking cosmic nebula, filled with vibrant violet, blue, and gold dust clouds that birth stars. Immerse yourself in the awe-inspiring beauty of interstellar space.",
+    "description_ja": "壮大な宇宙星雲の幻想的な風景を体験。鮮やかなバイオレット、ブルー、ゴールドの宇宙塵雲が星の誕生を促しています。宇宙空間の神秘的な美しさを体感してください。",
+    "prompt": "[Colab Stable Diffusion] A hyper-detailed, 8k masterpiece render of a stunning cosmic nebula in an unreal engine 5 style. The scene features vibrant violet, blue, and gold dust clouds forming stars. Deep contrast lighting creates dramatic depth. Atmosphere: ethereal and dreamlike. High quality, cinematic look. #masterpiece #8k #highlydetailed #cinematic, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1104264",
+    "filename": "wallpaper_1786442570.jpg",
+    "date": "2026-08-11 10:04:01",
+    "timestamp": 1786442570,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786432185",
     "category": "minimalist",
     "category_name_en": "Minimalist",
