@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786484974",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Neon Dreamscapes of the Future",
+    "title_ja": "未来都市のネオン夢",
+    "description_en": "This vibrant anime wallpaper captures a futuristic cityscape bathed in neon lights, featuring clean streets lined with modern buildings and lush greenery. The ethereal atmosphere evokes a sense of wonder and escape.",
+    "description_ja": "このアニメ壁紙は、ネオンが輝く未来都市を表現しています。洗練された街並みと緑豊かな植物に囲まれた、モダンな建物が鮮やかに描かれています。幻想的な雰囲気は、夢のような空間を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A stunning, highly detailed 8k artwork in the Makoto Shinkai style, inspired by anime. The image depicts a futuristic city with clean modern streets, lush green foliage, and glowing neon lights, showcasing vibrant colors with a cinematic light palette. Lens flare illuminates the scene with ethereal details and moving clouds. This masterpiece will create an awe-inspiring desktop wallpaper., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 9924691",
+    "filename": "wallpaper_1786484974.jpg",
+    "date": "2026-08-11 21:50:43",
+    "timestamp": 1786484974,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786475077",
     "category": "nature",
     "category_name_en": "Nature",
