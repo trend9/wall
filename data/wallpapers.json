@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786412793",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Bioluminescent Waterfall in a Magical Jungle",
+    "title_ja": "魔法の夜のジャングルの奥深くにある、見事な発光する滝",
+    "description_en": "This breathtaking image captures the magic of a glowing bioluminescent waterfall deep within a lush jungle. The scene is illuminated by soft, ethereal light.",
+    "description_ja": "この素晴らしい画像では、幻想的な夜ジャングルの奥深くにある、見事な発光する滝が描写されています。優しいエtherealな光で illuminationされている様子を捉えています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and realistic 8k photorealistic image of a magnificent bioluminescent waterfall cascading through the depths of a magical night jungle. The scene is illuminated by soft, glowing light from above, with deep shadows and vibrant colors. Award-winning nature photography style, National Geographic quality, masterpiece, cinematic lighting, high resolution (8k) highly detailed., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 18207",
+    "filename": "wallpaper_1786412793.jpg",
+    "date": "2026-08-11 01:47:41",
+    "timestamp": 1786412793,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786398202",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
