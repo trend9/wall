@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786475077",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Majestic Mountain Reflections",
+    "title_ja": "雄大な雪の頂に映る高山湖",
+    "description_en": "Immerse yourself in the breathtaking beauty of a snow-capped mountain range reflecting perfectly on a crystal-clear alpine lake. The serene scene captures a feeling of pure tranquility and wonder.",
+    "description_ja": "澄み切った高山湖に、雄大な雪を頂いた山の頂が完璧に映り込む。静寂で穏やかな風景は、心と眼の両方を満たす美しい美しさを見せる。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed image of a breathtaking snow-capped mountain range reflecting perfectly on a crystal-clear alpine lake. Soft lighting creates ethereal shadows, with warm tones and a cinematic atmosphere. National Geographic style photography, award-winning realism., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 2234787",
+    "filename": "wallpaper_1786475077.jpg",
+    "date": "2026-08-11 19:05:44",
+    "timestamp": 1786475077,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786464187",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
