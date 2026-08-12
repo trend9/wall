@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786499929",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Tranquil Green Leaf",
+    "title_ja": "静寂の緑の葉",
+    "description_en": "Capture a moment of serene tranquility with this single green leaf and a gentle water droplet on a soft beige background. The minimalist design evokes a sense of peace and focus.",
+    "description_ja": "静けさと穏やかさを表現した、緑の葉と水滴がついたシンプルな背景に。ミニマリストデザインは心を落ち着かせる力を持っている。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k, cinematic photograph of a single green leaf with a single water droplet on a clean, soft beige background. The scene is rendered in a minimalist style with subtle textures and flat colors, emphasizing elegant composition and modern aesthetic. The lighting should be soft and natural, highlighting the leaf's delicate form. Tags: masterpiece, 8k, highly detailed, cinematic, minimal, soft focus, clean, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4221718",
+    "filename": "wallpaper_1786499929.jpg",
+    "date": "2026-08-12 01:59:45",
+    "timestamp": 1786499929,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786484974",
     "category": "anime",
     "category_name_en": "Anime",
