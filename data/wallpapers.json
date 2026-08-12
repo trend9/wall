@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786561480",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf Dewdrop Serenity",
+    "title_ja": "緑の葉の雫の静寂",
+    "description_en": "This minimalist wallpaper features a single green leaf with a water droplet, evoking a serene and peaceful mood. The simple subject rendered in soft pastel tones and minimal shadows provides a calming visual experience.",
+    "description_ja": "このミニマリストの壁紙は、緑の葉と雫が描かれたシンプルなイメージで、静寂な雰囲気を表現しています。ソフトなパステルカラーと簡潔な影で描写されたシンプルな美しさが、心を落ち着かせる視覚体験を提供します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a single green leaf with a water droplet resting on a clean, soft beige background. Minimal shadows and muted pastel colors in an aesthetic reminiscent of Nordic minimalism.  Soft lighting emphasizes the subject's subtle beauty, with a serene atmosphere., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3997613",
+    "filename": "wallpaper_1786561480.jpg",
+    "date": "2026-08-12 19:05:38",
+    "timestamp": 1786561480,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786550464",
     "category": "anime",
     "category_name_en": "Anime",
