@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786657594",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Dreamy Cyberpunk",
+    "title_ja": "夢のようなサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a futuristic rainy alleyway illuminated by pink and cyan neon signs. Generated with state-of-the-art AI.",
+    "description_ja": "ピンクとシアンのネオン看板に照らされた未来の雨の路地裏を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a futuristic rainy alleyway illuminated by pink and cyan neon signs, futuristic, synthwave aesthetic, neon glow, wet reflections, highly detailed, octane render, 8k resolution, cinematic lighting, masterpiece, highly detailed, atmosphere: neon reflections, seed: 6267451",
+    "filename": "wallpaper_1786657594.jpg",
+    "date": "2026-08-13 21:47:39",
+    "timestamp": 1786657594,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786647905",
     "category": "abstract",
     "category_name_en": "Abstract",
