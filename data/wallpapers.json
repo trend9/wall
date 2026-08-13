@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786596740",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Alleyway of Cyber City",
+    "title_ja": "サイバー都市のネオン路地裏",
+    "description_en": "Explore a shadowy, rain-soaked alleyway in a futuristic city, illuminated by vibrant pink and cyan neon signs. The atmospheric mood is set with volumetric fog and dramatic lighting.",
+    "description_ja": "未来都市の雨の路地裏に、ピンクとシアンのネオン看板が灯る。空気は重く、ネオンの光と影によって独特な雰囲気を演出しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece rendered in Unreal Engine 5, featuring a realistic and cinematic scene of a futuristic cyberpunk alleyway. The alley is shrouded in volumetric fog with pink and cyan neon signs illuminating the rain-soaked cityscape.  Focus on sharp contrast between light and shadow, with a Blade Runner aesthetic and a gritty realism. Tags: cyberpunk, sci-fi, neon, rain, fog, 8k, highly detailed, cinematic, masterpiece, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 7546298",
+    "filename": "wallpaper_1786596740.jpg",
+    "date": "2026-08-13 04:53:31",
+    "timestamp": 1786596740,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786586499",
     "category": "abstract",
     "category_name_en": "Abstract",
