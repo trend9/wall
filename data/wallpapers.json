@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786586499",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Cinematic Abstract",
+    "title_ja": "映画のような抽象画",
+    "description_en": "A high-quality, breathtaking abstract wallpaper depicting a retro-wave digital grid with organic neon silk-like waves floating above it. Generated with state-of-the-art AI.",
+    "description_ja": "有機的なネオンシルクのような波が浮かぶ、レトロウェーブ調のデジタルグリッドを描いた、高品質で息をのむような抽象画の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a retro-wave digital grid with organic neon silk-like waves floating above it, modern abstract art, vibrant color palette, high fidelity textures, 3D digital render, creative wallpaper, octane render, 8k, masterpiece, highly detailed, atmosphere: neon reflections, seed: 4911932",
+    "filename": "wallpaper_1786586499.jpg",
+    "date": "2026-08-13 02:02:42",
+    "timestamp": 1786586499,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786571265",
     "category": "space",
     "category_name_en": "Space",
