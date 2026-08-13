@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786636848",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Serenity: An Astronaut's Journey",
+    "title_ja": "宇宙の静寂：宇宙飛行士の旅",
+    "description_en": "Experience the awe-inspiring beauty of deep space, as an astronaut floats peacefully amidst a sea of swirling galaxies and colorful dust. This majestic artwork captures the peaceful serenity of cosmic exploration.",
+    "description_ja": "宇宙の静けさを体感してください。深い宇宙に漂う宇宙飛行士は、銀河や色鮮やかな塵に囲まれ、静寂を漂っています。この壮大な作品は宇宙探索の静かな美しさを感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic, photorealistic image of an astronaut floating peacefully in deep space surrounded by distant galaxies and colorful dust. The image should be in the style of Hubble telescope imagery with epic proportions and a sense of vastness. Use vibrant hues of nebulae and cosmic dust to create a captivating spectacle. Employ dramatic lighting and atmospheric depth to enhance the overall mood., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1841650",
+    "filename": "wallpaper_1786636848.jpg",
+    "date": "2026-08-13 16:01:42",
+    "timestamp": 1786636848,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786626726",
     "category": "minimalist",
     "category_name_en": "Minimalist",
