@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786647905",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaos of Color: Smoke Waves & Crystal Shards",
+    "title_ja": "カラフルな煙の波と結晶の破片のカオスでありながら美しい爆発",
+    "description_en": "Experience a mesmerizing explosion of colorful smoke waves and geometric crystal shards. This chaotic yet beautiful artwork evokes an aura of energy and wonder.",
+    "description_ja": "鮮やかな煙の波と幾何学的な結晶の破片が、混沌ながらも美しい爆発を生み出す。この作品は、エネルギーと神秘を感じさせる魅力的なアートです。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece 8k highly detailed and cinematic image of a chaotic explosion of colorful smoke waves and geometric crystal shards, textured canvas art on organic shapes with fluid movement.  Sublimely bright lighting and atmospheric effects with high contrast, capturing the essence of beauty in chaos; focus on vibrant colors and intricate details. \"high detail, masterpiece, 8k, highly detailed, cinematic, vibrant\"  , masterpiece, highly detailed, atmosphere: dramatic glow, seed: 311963",
+    "filename": "wallpaper_1786647905.jpg",
+    "date": "2026-08-13 19:06:01",
+    "timestamp": 1786647905,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786636848",
     "category": "space",
     "category_name_en": "Space",
