@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786733803",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Serene Nature",
+    "title_ja": "静寂な自然",
+    "description_en": "A high-quality, breathtaking nature wallpaper depicting a peaceful cherry blossom path in full bloom with petals gently floating in the spring breeze. Generated with state-of-the-art AI.",
+    "description_ja": "春のそよ風に花びらが優しく舞う、満開の静かな桜並木を描いた、高品質で息をのむような自然の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a peaceful cherry blossom path in full bloom with petals gently floating in the spring breeze, magical realism, ethereal atmosphere, vivid colors, cinematic depth of field, masterpiece, masterpiece, highly detailed, atmosphere: neon reflections, seed: 2276040",
+    "filename": "wallpaper_1786733803.jpg",
+    "date": "2026-08-14 18:57:49",
+    "timestamp": 1786733803,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786722827",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
