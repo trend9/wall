@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786722827",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Alleyway Cyberpunk",
+    "title_ja": "ネオン Alleyway サイバーパンク",
+    "description_en": "Experience the gritty charm of a futuristic rain-soaked alleyway, illuminated by vibrant neon signs and rendered in a cinematic style.",
+    "description_ja": "未来の雨の路地裏に、鮮やかなネオン看板が灯る。その光景は、映画の様な雰囲気で表現されている。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k, cinematic 3D render of a futuristic cyberpunk alleyway illuminated by pink and cyan neon signs. Rain patters down on wet asphalt, volumetric fog hangs in the air. The scene is rendered in the style of Cyberpunk 2077 with a dark, gritty aesthetic. Emphasize realistic textures and dramatic lighting.  #masterpiece #8k #highlydetailed #cinematic #cyberpunk #rain #neon #futuristic #atmosphere #vivid #realism #cyberpunk2077 #bladesrunner, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 9017476",
+    "filename": "wallpaper_1786722827.jpg",
+    "date": "2026-08-14 15:54:59",
+    "timestamp": 1786722827,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786712842",
     "category": "abstract",
     "category_name_en": "Abstract",
