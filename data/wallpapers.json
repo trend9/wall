@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786756549",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Pier to the Mist",
+    "title_ja": "桟橋と霧深い湖",
+    "description_en": "A solitary wooden pier gracefully leads into a tranquil, misty white lake, evoking a sense of calm and peaceful reflection. This minimalist wallpaper captures the essence of serenity and offers a serene escape.",
+    "description_ja": "一連の木製の桟橋が穏やかな霧深い白い湖へと続く様子を捉えた、シンプルながらも洗練されたデザイン。この壁紙は、静けさの象徴となり、心を落ち着かせる空間を創出します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k Stable Diffusion artwork of a solitary wooden pier extending into a vast, misty white lake. Clean and minimalist design with flat colors, subtle textures, and elegant composition. Atmospheric lighting with soft focus and a touch of golden hour hues. The mood should be serene and meditative, conveying a sense of tranquility and escape. Keywords: masterpiece, 8k, highly detailed, cinematic, clean minimalist, flat colors, subtle textures, elegant composition, zen, golden hour lighting, atmospheric mood, white lake, wooden pier, peaceful reflection, serene escape., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8837634",
+    "filename": "wallpaper_1786756549.jpg",
+    "date": "2026-08-15 01:16:44",
+    "timestamp": 1786756549,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786742849",
     "category": "anime",
     "category_name_en": "Anime",
