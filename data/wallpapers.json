@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786828971",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Splendor",
+    "title_ja": "宇宙星雲の輝き",
+    "description_en": "Witness the breathtaking beauty of a vibrant cosmic nebula, with swirling violet, blue, and gold dust clouds forming stars. This breathtaking scene evokes a sense of wonder and awe.",
+    "description_ja": "鮮やかなバイオレット、ブルー、ゴールドの宇宙塵の雲を持つ壮大な宇宙星雲が、星の誕生を演出。この壮大な風景は、神秘と畏怖を呼び起こす。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece, rendered in Unreal Engine 5, of a stunning cosmic nebula with vibrant violet, blue and gold dust clouds forming stars. Deep contrast lighting, interstellar space setting, hyper-realistic, intricate details, cosmic dust, unreal engine 5 render. High-quality, masterfully crafted art., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3405130",
+    "filename": "wallpaper_1786828971.jpg",
+    "date": "2026-08-15 21:23:45",
+    "timestamp": 1786828971,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786818654",
     "category": "minimalist",
     "category_name_en": "Minimalist",
