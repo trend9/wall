@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786807326",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Neon City Dreamscape",
+    "title_ja": "未来都市の光と緑",
+    "description_en": "Immerse yourself in a vibrant futuristic city with clean modern streets, lush greenery, and awe-inspiring technology. Experience the ethereal beauty of anime-inspired architecture bathed in captivating lens flare.",
+    "description_ja": "未来都市の光と緑が混在する、洗練された街並みと美しい自然が融合した、アニメーション風の美しい風景です。壮大なレンズファイヤーで輝く、独特な雰囲気を堪能してください。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, anime style, future city, neon lights, clean modern streets, lush green foliage, high-tech monorail, ethereal atmosphere, wind blowing, lens flare, vivid color grading, stunning sky details, glowing buildings, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6291592",
+    "filename": "wallpaper_1786807326.jpg",
+    "date": "2026-08-15 15:23:16",
+    "timestamp": 1786807326,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786797555",
     "category": "nature",
     "category_name_en": "Nature",
