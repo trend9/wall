@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786797555",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Sunset over the Ocean's Vast Beauty",
+    "title_ja": "穏やかな海に沈む壮大な夕日",
+    "description_en": "Witness the breathtaking beauty of a sunset over a calm ocean as vibrant pink, purple, and orange clouds paint the sky. This awe-inspiring scene captures the majesty of nature.",
+    "description_ja": "穏やかな海に沈む壮大な夕日は、鮮やかなピンク、紫、オレンジ色の雲が空を彩ります。この雄大な風景は、自然の力強さを示します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and realistic photograph of a breathtaking sunset over a calm ocean, with vibrant pink, purple, and orange clouds, in the style of National Geographic, cinematic lighting, 8k, masterpiece, highly detailed, cinematic, breathtaking, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 6807223",
+    "filename": "wallpaper_1786797555.jpg",
+    "date": "2026-08-15 12:40:20",
+    "timestamp": 1786797555,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786786084",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
