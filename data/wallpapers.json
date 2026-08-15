@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786765237",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Symphony",
+    "title_ja": "宇宙星雲の詩",
+    "description_en": "This breathtaking wallpaper features a vibrant nebula swirling with cosmic dust, creating a tapestry of stars. The deep contrast and unreal engine 5 render create a sense of wonder and awe.",
+    "description_ja": "この壮大な壁紙には、宇宙塵が踊る鮮やかな星雲があります。深いコントラストとUnreal Engine 5レンダリングにより、神秘的で驚嘆の雰囲気に満ちています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a vibrant cosmic nebula, swirling with violet, blue and gold dust clouds, forming stars. Rendered in the style of sci-fi concept art, using unreal engine 5, with deep contrast, cinematic lighting, and a hyper-detailed aesthetic.  Use tags like 'masterpiece, 8k, highly detailed, cinematic'.  Focus on intricate nebula features, realistic star formations, and ethereal atmosphere., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3546151",
+    "filename": "wallpaper_1786765237.jpg",
+    "date": "2026-08-15 03:41:49",
+    "timestamp": 1786765237,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786756549",
     "category": "minimalist",
     "category_name_en": "Minimalist",
