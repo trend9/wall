@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786872543",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Magical Starry Night in Peaceful Countryside",
+    "title_ja": "静かな田舎の丘の上の魔法的な星空",
+    "description_en": "This ethereal wallpaper features a magical starry night sky above a peaceful countryside hill. A single glowing tree adds a touch of wonder. Experience a serene and captivating scene.",
+    "description_ja": "静かな田舎の丘の上の、魔法的な星空が、穏やかな景色を背景に浮かび上がっています。光る木は、幻想的な雰囲気をさらに増幅させます。この壁紙は、静寂さと美しさの完璧な融合を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A Makoto Shinkai style art piece, showcasing a breathtaking starry night sky above a peaceful countryside hill, with a single glowing tree illuminating the scene.  Masterpiece, 8k, highly detailed, cinematic lighting, ethereal atmosphere, wind blowing, lens flare, vivid color grading, high quality digital art., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4974116",
+    "filename": "wallpaper_1786872543.jpg",
+    "date": "2026-08-16 09:29:47",
+    "timestamp": 1786872543,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786862462",
     "category": "nature",
     "category_name_en": "Nature",
