@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786852237",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Epic Cyberpunk",
+    "title_ja": "壮大なサイバーパンク",
+    "description_en": "A high-quality, breathtaking cyberpunk wallpaper depicting a high-tech cyberpunk hacker den with multiple glowing holographic screens. Generated with state-of-the-art AI.",
+    "description_ja": "複数の光るホログラフィック画面があるハイテクなサイバーパンクのハッカーの隠れ家を描いた、高品質で息をのむようなサイバーパンクの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a high-tech cyberpunk hacker den with multiple glowing holographic screens, cyberpunk 2077 style, blade runner aesthetic, realistic textures, volumetric fog, dramatic contrast, unreal engine 5 render, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6652177",
+    "filename": "wallpaper_1786852237.jpg",
+    "date": "2026-08-16 03:51:51",
+    "timestamp": 1786852237,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786843199",
     "category": "abstract",
     "category_name_en": "Abstract",
