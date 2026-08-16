@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786905056",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Smoke and Crystal Explosion",
+    "title_ja": "煙と結晶の爆発",
+    "description_en": "A vibrant and chaotic explosion of colorful smoke waves and geometric crystal shards creates a mesmerizing and beautiful display. Experience the energy of this abstract artwork.",
+    "description_ja": "鮮やかな煙と幾何学的な結晶の破片が、魅惑的な爆発を見せてくれます。抽象的なアート作品で、エネルギーを感じてください。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic 3D digital render of a chaotic yet beautiful explosion of colorful smoke waves and geometric crystal shards, vibrant colors, dramatic lighting, abstract art, modern art, high fidelity textures, octane render, intricate details, 8k resolution, vibrant, energetic., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 865718",
+    "filename": "wallpaper_1786905056.jpg",
+    "date": "2026-08-16 18:32:02",
+    "timestamp": 1786905056,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786893756",
     "category": "space",
     "category_name_en": "Space",
