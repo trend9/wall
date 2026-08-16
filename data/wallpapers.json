@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786893756",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Starbirth Nebula Symphony",
+    "title_ja": "星雲の音楽",
+    "description_en": "Witness the awe-inspiring beauty of a vibrant cosmic nebula teeming with stars in the making. This mesmerizing image captures the essence of space's grandeur and wonder.",
+    "description_ja": "壮大な宇宙の美しさを表現した、星雲が輝く壮大な宇宙の風景を堪能しましょう。この画像では、宇宙の広大さと神秘さを実感することができます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a vibrant cosmic nebula with stunning violet, blue and gold dust clouds forming stars, in the style of an epic space exploration art with a Hubble telescope aesthetic, cinematic lighting, photorealistic, 8k, masterpiece, highly detailed, cinematic, stunning, galaxy, nebula, cosmic, space, stars forming, awe-inspiring, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 271325",
+    "filename": "wallpaper_1786893756.jpg",
+    "date": "2026-08-16 15:23:45",
+    "timestamp": 1786893756,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786884061",
     "category": "minimalist",
     "category_name_en": "Minimalist",
