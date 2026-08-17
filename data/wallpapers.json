@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786959808",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Ringed Exoplanet Rising on Alien Moon",
+    "title_ja": "不毛なエイリアンの月の景色の地平線に、遠くの輪を持つ系外惑星が昇る",
+    "description_en": "A distant ringed exoplanet rises over the barren landscape of an alien moon, creating a sense of awe and mystery in this sci-fi concept art. The stark beauty of the scene evokes a sense of isolation and the vastness of the cosmos.",
+    "description_ja": "遠い輪を持つ系外惑星が、不毛なエイリアンの月を舞台に地平線に昇る様子を描いた、SFコンセプトアート。静寂な風景は宇宙の広大さを表現し、孤立感と宇宙の神秘を漂わせる",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic render of a distant ringed exoplanet rising over the horizon of a barren alien moon landscape in an unreal engine 5 style. Deep contrast, cosmic dust, interstellar space, and hyper-realistic details, with a strong emphasis on atmosphere and mood.  , masterpiece, highly detailed, atmosphere: neon reflections, seed: 6064367",
+    "filename": "wallpaper_1786959808.jpg",
+    "date": "2026-08-17 09:44:24",
+    "timestamp": 1786959808,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786949934",
     "category": "minimalist",
     "category_name_en": "Minimalist",
