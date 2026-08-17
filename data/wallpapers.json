@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786992073",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Sunrise Mist Forest",
+    "title_ja": "霧深い松林",
+    "description_en": "A serene misty pine forest bathed in soft golden light at sunrise, evoking a magical and ethereal atmosphere. This captivating image captures the beauty of nature's tranquility.",
+    "description_ja": "静かな霧深い松林は、朝日を浴びて、柔らかな金色の光で満たされ、魔法の雰囲気を醸し出しています。この描写は、自然の静けさの美しさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A detailed, highly-detailed, 8k artistic render of a serene, misty pine forest bathed in soft golden light at sunrise, with cinematic depth of field, ethereal atmosphere, and a magical realism style. Focus on the intricate details of the trees, foliage, and light, capturing a masterpiece level quality., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3603188",
+    "filename": "wallpaper_1786992073.jpg",
+    "date": "2026-08-17 18:42:23",
+    "timestamp": 1786992073,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786980414",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
