@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1786980414",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Alley in the Rain",
+    "title_ja": "雨の路地裏にピンクとシアンのネオン看板",
+    "description_en": "Step into a gritty, neon-lit alleyway shrouded in rain, the cyberpunk skyline reflecting in the puddles. Experience the thrilling atmosphere of a 2077 urban jungle.",
+    "description_ja": "雨の路地裏に、ピンクとシアンのネオン看板が灯る。2077の街の風景は、水溜りの中で反射しています。その緊張感のある雰囲気を、体験してみてください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic 8k render of a futuristic rain alleyway, bathed in pink and cyan neon light. The scene should be rendered in the cyberpunk 2077 style, with detailed volumetric fog and dramatic contrast. The artwork should be inspired by Blade Runner and feature realistic textures, sharp details, and a sense of awe. Tags: masterpiece, 8k, highly detailed, cinematic, volumetric fog, neon lights, rain, cyberpunk, street photography, realistic textures, dynamic lighting, dark, moody, 2077, neon., masterpiece, highly detailed, atmosphere: neon reflections, seed: 5579244",
+    "filename": "wallpaper_1786980414.jpg",
+    "date": "2026-08-17 15:27:42",
+    "timestamp": 1786980414,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1786970809",
     "category": "abstract",
     "category_name_en": "Abstract",
