@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787078404",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sunlit Dunes Minimalism",
+    "title_ja": "太陽と砂丘のミニマル抽象画",
+    "description_en": "This minimalist wallpaper features a sun and dunes composition, rendered in warm pastel tones, creating a serene and peaceful atmosphere. Perfect for minimalist decor.",
+    "description_ja": "このミニマリストな壁紙は、暖かなパステルカラーで太陽と砂丘の抽象的な構成を表現しており、穏やかな雰囲気を作り出す。シンプルで美しい空間を演出するのに最適です。",
+    "prompt": "[Colab Stable Diffusion] A minimalist abstract geometric composition of a sun and dunes, rendered in warm pastel colors, using a nordic style minimalism. Soft shadows with a cinematic lighting, and a serene atmosphere. Masterpiece, 8k, highly detailed, cinematic. Studio quality., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 6688812",
+    "filename": "wallpaper_1787078404.jpg",
+    "date": "2026-08-18 18:41:10",
+    "timestamp": 1787078404,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787067242",
     "category": "anime",
     "category_name_en": "Anime",
