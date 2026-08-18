@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787067242",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Sunset Airship Dreamscape",
+    "title_ja": "夕暮れ時の雲海に浮かぶ飛行船",
+    "description_en": "Experience the nostalgic beauty of a steampunk airship soaring above a sea of clouds at sunset. This stunningly detailed illustration captures the magic and wonder of a bygone era.",
+    "description_ja": "夕暮れの雲海に漂う、インダストリアルなスチームパンクの飛行船は、まるで夢の世界を旅しているかのようだ。この素晴らしいイラストは、かつて存在した時代の魔法を表現している。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k masterpiece Stable Diffusion image of a studio ghibli-style, hand-drawn, steampunk airship, floating gracefully above a swirling, majestic cloud sea at sunset, with warm, nostalgic lighting, detailed textures, and vibrant colors. Art style: studio ghibli, hand-drawn anime, highly detailed illustration, 8k resolution, masterpiece, cinematic lighting., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 4821761",
+    "filename": "wallpaper_1787067242.jpg",
+    "date": "2026-08-18 15:34:57",
+    "timestamp": 1787067242,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787057257",
     "category": "nature",
     "category_name_en": "Nature",
