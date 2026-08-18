@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787024793",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Futuristic Space Station Glimpse",
+    "title_ja": "未来的な宇宙ステーションの地球の風景",
+    "description_en": "Explore a breathtakingly beautiful futuristic space station, orbiting a verdant, blue-green planet, in this captivating artwork. The artwork's deep contrast and intricate details will transport you to the heart of the cosmos.",
+    "description_ja": "壮大な未来的な宇宙ステーションが、緑と青の地球のような惑星を周回している様子が描かれています。この作品は、鮮明な表現と細部まで緻密な表現で、宇宙の神秘を表現します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k artwork in the style of unreal engine 5, of a futuristic space station orbiting a beautiful green and blue planet. Deep contrast, cosmic dust, ethereal lighting, and a sense of awe and wonder. Masterpiece, 8k, highly detailed, cinematic., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 6218009",
+    "filename": "wallpaper_1787024793.jpg",
+    "date": "2026-08-18 03:47:42",
+    "timestamp": 1787024793,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787015683",
     "category": "minimalist",
     "category_name_en": "Minimalist",
