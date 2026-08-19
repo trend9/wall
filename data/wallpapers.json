@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787153678",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Future Station, Earth's Embrace",
+    "title_ja": "未来的な宇宙ステーションの地球の擁抱",
+    "description_en": "Explore a breathtaking future station orbiting a vibrant, Earth-like planet.  Captivating scenes of space travel and discovery.",
+    "description_ja": "未来的な宇宙ステーションが、緑と青の美しい地球の周りを回る様子を表現した、興味深いシーン。宇宙旅行と探検の美しさを堪能できます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a futuristic space station orbiting a beautiful green and blue earth-like planet. Rendered with Unreal Engine 5, in the style of sci-fi concept art, with deep contrast, cosmic dust, and an ethereal atmosphere. Tags:  masterpiece, 8k, highly detailed, cinematic, unreal engine 5, sci-fi, concept art, space, interstellar, cosmic dust, ethereal, glowing, blue, green, Earth-like, orbit, future, technology, wonder, space travel, exploration., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1616511",
+    "filename": "wallpaper_1787153678.jpg",
+    "date": "2026-08-19 15:35:50",
+    "timestamp": 1787153678,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787143749",
     "category": "minimalist",
     "category_name_en": "Minimalist",
