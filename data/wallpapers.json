@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787102169",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Digital Grids of Organic Neon Glow",
+    "title_ja": "有機的なネオンシルクのような波が浮かぶ、レトロウェーブ調のデジタルグリッド",
+    "description_en": "This AI-generated art depicts a retro-wave digital grid bathed in vibrant neon light, with organic, flowing waves of color suspended above. The ethereal beauty of the artwork evokes a sense of wonder and serenity.",
+    "description_ja": "このAI生成アートでは、レトロウェーブ調のデジタルグリッドに、有機的なネオンシルクのような波が浮かび、鮮やかなネオンの光が差し込む。まるで夢の世界のような幻想的な美しさが漂う。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic masterpiece, 8k, stable diffusion, 4k, 8k, highly detailed, 3D rendered, texture painting, organic shapes, fluid movement, neon, digital grid, retro-wave aesthetic, vibrant colors, ethereal glow, floating waves, dreamlike, serene, premium graphic design, textured canvas, golden hour lighting, soft shadows, vibrant background, masterpiece, art by [art style name], masterpiece, highly detailed, atmosphere: dramatic glow, seed: 416239",
+    "filename": "wallpaper_1787102169.jpg",
+    "date": "2026-08-19 01:17:19",
+    "timestamp": 1787102169,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787088376",
     "category": "space",
     "category_name_en": "Space",
