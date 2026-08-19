@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787174896",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Metropolis Dusk",
+    "title_ja": "未来都市の夕暮れ",
+    "description_en": "Witness the bustling energy of a futuristic metropolis with flying cars soaring above towering skyscrapers as the sun sets. Immerse yourself in the captivating visual of cyberpunk, 2077 style.",
+    "description_ja": "未来都市の夕暮れに、飛車と超高層ビルが浮かび上がる。この作品はサイバーパンクの雰囲気を体現した、高度な現実描写と躍動感のある映像表現で、あなたを魅了するでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a futuristic metropolis, rendered in Unreal Engine 5. The scene depicts bustling flying cars zooming between towering skyscrapers at dusk, with dramatic volumetric fog casting a mysterious glow. Capture the cyberpunk 2077 aesthetic and the Blade Runner feel, with realistic textures and strong contrasts. Keywords: cyberpunk, futuristic, neon, flying car, cityscape, volumetric fog, unreal engine 5, 8k, highly detailed, cinematic, masterpiece, dramatic lighting, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1075304",
+    "filename": "wallpaper_1787174896.jpg",
+    "date": "2026-08-19 21:29:16",
+    "timestamp": 1787174896,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787164638",
     "category": "abstract",
     "category_name_en": "Abstract",
