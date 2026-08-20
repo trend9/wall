@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787197709",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starlight Village Fantasy",
+    "title_ja": "星空の田舎風景",
+    "description_en": "Discover a peaceful countryside hill bathed in the magic of a starry night sky.  A lone glowing tree illuminates the scene with warmth and wonder. ",
+    "description_ja": "静かな田舎の丘の上には、星が煌めく夜空が広がっています。一本だけ光る木が幻想的な風景を演出しています。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed 8k digital artwork, Studio Ghibli style, a peaceful countryside hill with a magical starry night sky, one glowing tree illuminating the scene, warm and nostalgic colors, cinematic lighting, masterpiece, highly detailed, intricate, beautiful, 8k, wallpaper, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 157030",
+    "filename": "wallpaper_1787197709.jpg",
+    "date": "2026-08-20 03:49:33",
+    "timestamp": 1787197709,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787188507",
     "category": "nature",
     "category_name_en": "Nature",
