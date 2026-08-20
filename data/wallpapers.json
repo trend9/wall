@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787188507",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Peaceful Sakura Path in Spring",
+    "title_ja": "春の桜並木",
+    "description_en": "Experience the tranquility of a peaceful cherry blossom path bathed in the soft glow of the spring sun. The gentle dance of falling petals evokes a sense of ethereal beauty and calm.",
+    "description_ja": "春の桜並木の中で、春の光が優しく降り注ぎ、穏やかな静けさが漂う。舞い落ちる花びらが幻想的な美しさと落ち着きを与えてくれます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic 8k masterpiece of a magical realism scene featuring a peaceful cherry blossom path in full bloom. The path flows gently through a forest of cherry trees, each blossom a vibrant explosion of color. The scene captures the essence of spring, with the soft golden light of the spring sun bathing the scene. Soft, ethereal lighting, dreamy atmosphere, and a shallow depth of field to create a sense of magical realism and dreamy serenity.  #masterpiece #8k #highlydetailed #cinematic #cherryblossom #spring #magicalrealism #fantasy #nature #beautiful #peace #calm #tranquility #dreamy #softlighting #goldenlight #shallowdepthoffield # ethereal, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5060113",
+    "filename": "wallpaper_1787188507.jpg",
+    "date": "2026-08-20 01:16:04",
+    "timestamp": 1787188507,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787174896",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
