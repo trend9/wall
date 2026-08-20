@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787230283",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Dynamic Collage of Textures and Paint",
+    "title_ja": "抽象的なコラージュ",
+    "description_en": "This abstract wallpaper features a dynamic collage of torn textures, colorful brush strokes, and metallic gold paint splatters, creating a visually captivating and expressive piece.  Its bold colors and fluid movement evoke a sense of dynamic energy and creative vibrancy.",
+    "description_ja": "抽象的なコラージュは、破れたテクスチャ、カラフルなブラシストローク、金属的なゴールドペイントの飛沫で構成されています。この作品は、大胆な色使いと流动的動きによって、力強いエネルギーと創造的な活力を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A dynamic collage of torn textures, colorful brush strokes, and metallic gold paint splatters, in a fine art aesthetic. The composition features organic shapes, a textured canvas, and a cinematic lighting. Masterpiece, 8k, highly detailed, cinematic, vibrant, colorful, abstract, 3d art, digital art, wallpaper, masterpiece, highly detailed, atmosphere: neon reflections, seed: 1331692",
+    "filename": "wallpaper_1787230283.jpg",
+    "date": "2026-08-20 12:52:23",
+    "timestamp": 1787230283,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787218579",
     "category": "space",
     "category_name_en": "Space",
