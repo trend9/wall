@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787284401",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "A Distant Ringed Exoplanet Rises",
+    "title_ja": "遠くの輪を持つ系外惑星が月に見る",
+    "description_en": "Witness the breathtaking rise of a distant ringed exoplanet as it illuminates the barren landscape of an alien moon. This cosmic artwork evokes a sense of wonder and the vastness of the unknown.",
+    "description_ja": "異星月の荒れ果てた風景の地平線に、遠くの輪を持つ系外惑星が昇っていく。この宇宙的な絵は、未知の世界の広大さを表現し、神秘的な美しさをもたらす。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, masterpiece, 8k, cinematic, 8k, Stable Diffusion image of a distant ringed exoplanet rising over the horizon of a barren alien moon landscape. Rendered in Unreal Engine 5, with deep contrast, interstellar space aesthetics, cosmic dust and nebulae, a somber yet awe-inspiring atmosphere.  Focus on the exoplanet's ring system, the barren landscape, and the interplay of light and shadow. , masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1651065",
+    "filename": "wallpaper_1787284401.jpg",
+    "date": "2026-08-21 03:54:16",
+    "timestamp": 1787284401,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787275138",
     "category": "minimalist",
     "category_name_en": "Minimalist",
