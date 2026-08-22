@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787423559",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Golden Flow",
+    "title_ja": "ゴールドの流れる様",
+    "description_en": "Immerse yourself in the mesmerizing flow of liquid gold and deep blue ink, enhanced by delicate glitter details. This abstract wallpaper evokes a sense of fluidity and wonder.",
+    "description_ja": "この抽象的な壁紙に、金色と深みのある青のインクが融合しながら流れる様子を堪能してください。繊細なキラキラ装飾を加えて、まるで魔法の世界を見ているかのような感覚を演出します。",
+    "prompt": "[Colab Stable Diffusion] A modern abstract art piece, vibrant color palette, high-fidelity textures, 3D digital render, cinematic lighting, masterpiece, 8k, highly detailed, octane render, flowing liquid gold, deep blue ink, glitter, swirling motion, ethereal atmosphere, dreamy, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4962865",
+    "filename": "wallpaper_1787423559.jpg",
+    "date": "2026-08-22 18:33:43",
+    "timestamp": 1787423559,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787412207",
     "category": "space",
     "category_name_en": "Space",
