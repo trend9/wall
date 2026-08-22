@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787402470",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Pastel Mountains Under a Pale Sun",
+    "title_ja": "淡い太陽の下に広がる、シンプルな山脈のシルエット",
+    "description_en": "A serene silhouette of a mountain range painted in soft pastel colors under a gentle, pale sun, evoking feelings of tranquility and contemplation.  This minimalist design captures the essence of nature's beauty.",
+    "description_ja": "淡い太陽の下に広がる、シンプルな山脈のシルエットは、静寂と調和を表現した美しい作品。このミニマリストなデザインは、自然の美しさを簡潔に表現しています。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, digital art, a subtle sunset, pale sun, pastel colors, mountain silhouette, clean lines, elegant composition, zen, minimal design, abstract, soft light, atmospheric, 4K resolution, cinematic lighting, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8406045",
+    "filename": "wallpaper_1787402470.jpg",
+    "date": "2026-08-22 12:42:22",
+    "timestamp": 1787402470,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787390886",
     "category": "anime",
     "category_name_en": "Anime",
