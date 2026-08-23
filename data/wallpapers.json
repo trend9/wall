@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787509855",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Cherry Blossom Path in Spring Breeze",
+    "title_ja": "春の風と満開の桜並木",
+    "description_en": "Witness the beauty of a peaceful cherry blossom path, brimming with delicate blossoms, gently swaying in the spring breeze. Capture the tranquility and awe-inspiring beauty of this blooming season.",
+    "description_ja": "春の風に舞う満開の桜並木を、静かで美しい風景を堪能。春ならではの穏やかで美しい風景を、この美しい桜の風景の瞬間を捉えましょう。",
+    "prompt": "[Colab Stable Diffusion] A breathtaking photorealistic image of a peaceful cherry blossom path, in full bloom, with petals softly floating in the spring breeze, captured with soft lighting.  Masterpiece, 8k, highly detailed, cinematic, award-winning, National Geographic style, photorealistic, vibrant colors, bokeh effect, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8188455",
+    "filename": "wallpaper_1787509855.jpg",
+    "date": "2026-08-23 18:32:00",
+    "timestamp": 1787509855,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787498659",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
