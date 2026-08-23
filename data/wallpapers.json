@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787457147",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Celestial Embrace on Peaceful Hills",
+    "title_ja": "星空の下、静かな田舎の丘",
+    "description_en": "A magical starry night sky over a peaceful countryside hill with a single glowing tree, evoking a sense of wonder and nostalgia.  This illustration captures the beauty and serenity of the night sky.",
+    "description_ja": "静かな田舎の丘の上、魔法のような星空が輝く。一本の光る木が、幻想的な夜空に映し出される。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and masterful 8k Stable Diffusion artwork of a magical starry night sky with a single glowing tree standing on a peaceful countryside hill. The illustration should capture a Studio Ghibli aesthetic, using warm colors and soft lighting. The scene should be highly detailed and cinematic, with a focus on the beauty and serenity of the night sky. Tags: masterpiece, 8k, highly detailed, cinematic, Studio Ghibli, hand-drawn anime style, warm colors, nostalgic, beautiful lighting, desktop wallpaper., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 3275546",
+    "filename": "wallpaper_1787457147.jpg",
+    "date": "2026-08-23 03:53:35",
+    "timestamp": 1787457147,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787448061",
     "category": "nature",
     "category_name_en": "Nature",
