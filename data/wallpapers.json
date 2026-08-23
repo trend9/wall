@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787477345",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Ethereal Space",
+    "title_ja": "幻想的な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a distant ringed exoplanet rising over the horizon of a barren alien moon landscape. Generated with state-of-the-art AI.",
+    "description_ja": "不毛なエイリアンの月の景色の地平線上に昇る、遠くの輪を持つ系外惑星を描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a distant ringed exoplanet rising over the horizon of a barren alien moon landscape, epic space exploration art, Hubble telescope style, highly detailed cosmic rendering, cinematic lighting, photorealistic, 8k, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3823452",
+    "filename": "wallpaper_1787477345.jpg",
+    "date": "2026-08-23 09:30:16",
+    "timestamp": 1787477345,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787467310",
     "category": "minimalist",
     "category_name_en": "Minimalist",
