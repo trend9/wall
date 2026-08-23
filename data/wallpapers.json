@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787520209",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Anime Shrine Entrance at Twilight",
+    "title_ja": "アニメ神社の入口、夕暮れ時",
+    "description_en": "Witness the beauty of an anime shrine entrance bathed in the soft light of twilight, surrounded by the majestic grandeur of blooming cherry trees.",
+    "description_ja": "アニメ風の神社の入り口が夕暮れの光に浮かび、満開の桜が美しく映し出されている風景を堪能する",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k art piece, inspired by Makoto Shinkai's style, of an anime shrine entrance bathed in twilight light, surrounded by a massive, ancient cherry blossom tree with glowing petals. The scene is awash in vibrant colors and ethereal details. Lens flare effects highlight the beauty of the scene. The atmosphere is serene and tranquil, with a soft, flowing wind blowing across the scene.  The artwork should be a masterpiece, highly detailed, with intricate textures, and cinematic lighting.  Use keywords like 'Anime', 'Sci-Fi', 'Fantasy', 'Ghibli', 'Masterpiece', '8k', 'highly detailed', 'cinematic' and 'beautiful'.  , masterpiece, highly detailed, atmosphere: neon reflections, seed: 294513",
+    "filename": "wallpaper_1787520209.jpg",
+    "date": "2026-08-23 21:24:08",
+    "timestamp": 1787520209,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787509855",
     "category": "nature",
     "category_name_en": "Nature",
