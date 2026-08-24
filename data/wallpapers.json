@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787534308",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf & Water Droplet",
+    "title_ja": "緑の葉と水滴",
+    "description_en": "This minimalist wallpaper showcases a single green leaf with a single water droplet resting on a clean, soft beige background. The delicate scene evokes a sense of tranquility and serenity.",
+    "description_ja": "シンプルで洗練されたデザインのこのデスク壁紙には、淡い緑の葉と水滴が、優しいベージュの背景に静かに配置されています。この繊細なシーンは、落ち着きと清らかさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic lighting, clean and minimalist design, flat colors, subtle textures, elegant composition, single green leaf with a single water droplet on a clean, soft beige background. Focus on details, soft focus, high dynamic range, ethereal atmosphere. #minimalism #8k #stabilitydiffusion #art, masterpiece, highly detailed, atmosphere: neon reflections, seed: 5981337",
+    "filename": "wallpaper_1787534308.jpg",
+    "date": "2026-08-24 01:19:38",
+    "timestamp": 1787534308,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787520209",
     "category": "anime",
     "category_name_en": "Anime",
