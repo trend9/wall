@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787607082",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Futuristic Station on Earth's Orbit",
+    "title_ja": "未来的な宇宙ステーションが地球の軌道を描く",
+    "description_en": "This stunning wallpaper depicts a futuristic space station orbiting a vibrant, green and blue Earth-like planet, showcasing the boundless beauty of space travel and the future of exploration. ",
+    "description_ja": "この壁紙は、未来的な宇宙ステーションが美しい緑と青の地球のような惑星を周回する様子を表現しています。宇宙旅行の壮大な美しさ、そして未来の探検の風景を映し出しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k masterpiece, Stable Diffusion generated image of a futuristic space station orbiting a beautiful Earth-like planet with vibrant green and blue skies.  Rendered in the style of Hubble telescope imagery, with a focus on epic scale and cosmic detail. Detailed lighting and soft atmospheric effects, showcasing the vastness of space and the wonder of exploration. Tags: epic, masterpiece, 8k, highly detailed, cinematic, Hubble, space, earth-like, vibrant, detailed, atmospheric, soft lighting, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 7777787",
+    "filename": "wallpaper_1787607082.jpg",
+    "date": "2026-08-24 21:32:32",
+    "timestamp": 1787607082,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787596882",
     "category": "minimalist",
     "category_name_en": "Minimalist",
