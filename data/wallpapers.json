@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787586038",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Anime Shrine at Twilight",
+    "title_ja": "アニメ風の神社入り口の夕暮れ",
+    "description_en": "This stunning anime wallpaper features a beautiful shrine entrance bathed in the warm glow of twilight.  A massive ancient cherry blossom tree stands tall with petals swirling in the wind.",
+    "description_ja": "この美しいアニメ壁紙には、夕暮れの光に照らされた、素晴らしい神社入り口が描かれています。巨大な古い桜の木は、花びらで舞う風に、満開の美しい風景を見せてくれます。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, cinematic 8k masterpiece of an anime shrine entrance under a massive ancient cherry blossom tree in full bloom at twilight. Stunning lens flare, gorgeous sky details, ethereal atmosphere with swirling wind and vivid color grading. Rendered with makoto shinkai style., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 7709127",
+    "filename": "wallpaper_1787586038.jpg",
+    "date": "2026-08-24 15:41:45",
+    "timestamp": 1787586038,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787575923",
     "category": "nature",
     "category_name_en": "Nature",
