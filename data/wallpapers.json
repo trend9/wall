@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787543787",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Galactic Spiral Nebula",
+    "title_ja": "宇宙の巨大渦巻銀河",
+    "description_en": "Journey into the depths of space and marvel at a massive spiral galaxy teeming with millions of stars. This breathtaking artwork captures the vastness and beauty of the cosmos in a cinematic style.",
+    "description_ja": "宇宙の深淵に旅立ち、何百万もの星が輝く巨大な渦巻銀河を鑑賞しましょう。この壮大な宇宙の絵画は、宇宙の広大さと美しさを、映画のようなスタイルで表現しています。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, Unreal Engine 5 render, deep contrast, swirling galaxies, millions of stars, cosmic dust, unreal black space, vibrant nebulas, volumetric lighting, epic atmosphere, detailed, intricate, realistic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8117318",
+    "filename": "wallpaper_1787543787.jpg",
+    "date": "2026-08-24 03:57:32",
+    "timestamp": 1787543787,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787534308",
     "category": "minimalist",
     "category_name_en": "Minimalist",
