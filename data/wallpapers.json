@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787683352",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Glass Ribbon Reflection",
+    "title_ja": "ガラスリボンの反射",
+    "description_en": "This mesmerizing wallpaper captures the intricate beauty of looping glass ribbons reflecting a vibrant, gradient background. Experience a captivating dance of color and light.",
+    "description_ja": "この魅惑的な壁紙は、ループするガラスリボンが鮮やかなグラデーションの背景を反射する様子を捉えています。色彩と光が織りなす魅惑的なダンスをお楽しみください。",
+    "prompt": "[Colab Stable Diffusion] A mesmerizing 3D render of looping glass ribbons reflecting a colorful gradient background, fine art aesthetics, textured canvas, organic shapes, fluid movement, premium graphic design, visual masterpiece, 8k, highly detailed, cinematic, masterpiece, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 7861943",
+    "filename": "wallpaper_1787683352.jpg",
+    "date": "2026-08-25 18:43:38",
+    "timestamp": 1787683352,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787672634",
     "category": "space",
     "category_name_en": "Space",
