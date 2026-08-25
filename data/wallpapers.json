@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787650713",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Sunset Airship Over Clouds",
+    "title_ja": "夕暮れ時の雲海に浮かぶ飛行船",
+    "description_en": "Discover a mesmerizing blend of industrial steampunk and anime art in this beautiful desktop wallpaper. A soaring airship drifts above a sea of clouds at sunset, bathed in warm lighting and nostalgic vibes.",
+    "description_ja": "アニメーション風のインダストリアル・レトロフューチャーなスチームパンクの飛行船が夕暮れ時の雲海に浮かび、温かい光とノスタルジックな雰囲気で、美しいデスクトップWallpaperとなります。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k, cinematic masterpiece, art by Studio Ghibli style, of an industrial retro-futuristic steampunk airship floating above a sea of clouds at sunset, with warm, golden lighting. Soft, dreamy colors, nostalgic atmosphere, detailed, highly textured, beautiful bokeh., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 2186157",
+    "filename": "wallpaper_1787650713.jpg",
+    "date": "2026-08-25 09:39:24",
+    "timestamp": 1787650713,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787640532",
     "category": "nature",
     "category_name_en": "Nature",
