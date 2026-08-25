@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787693437",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Alleyway in the Rain",
+    "title_ja": "雨の路地裏にピンクとシアンのネオン看板",
+    "description_en": "Experience the electric glow of a futuristic rainy alleyway, illuminated by vibrant neon signs.  Dive into a world of neon-soaked dreamscapes.",
+    "description_ja": "未来の雨の路地裏に、ピンクとシアンのネオン看板が光る。まるでネオンの街を駆け巡る夢を見ているかのようだ。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, highly detailed, 8k, cinematic, octane render, a futuristic rainy alleyway with pink and cyan neon signs, wet reflections on the wet pavement, highly detailed, synthwave aesthetic, vibrant neon glow, cinematic lighting, low-key shadows, moody, atmospheric, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 9230590",
+    "filename": "wallpaper_1787693437.jpg",
+    "date": "2026-08-25 21:31:44",
+    "timestamp": 1787693437,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787683352",
     "category": "abstract",
     "category_name_en": "Abstract",
