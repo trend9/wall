@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787672634",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Symphony",
+    "title_ja": "宇宙星雲のシンフォニー",
+    "description_en": "Witness the breathtaking beauty of a cosmic nebula, bursting with vibrant violet, blue, and gold dust clouds that form nascent stars. This awe-inspiring artwork evokes a sense of wonder and cosmic mystery.",
+    "description_ja": "壮大な宇宙星雲を目にしてください。鮮やかなバイオレット、ブルー、ゴールドの宇宙塵の雲は、新しい星を生み出しています。この素晴らしい作品は、神秘的で宇宙的な美しさを表現します。",
+    "prompt": "[Colab Stable Diffusion] A masterfully detailed, 8k, highly detailed, cinematic image of a vibrant cosmic nebula with stunning violet, blue, and gold dust clouds forming nascent stars. Unreal Engine 5 render, deep contrast, interstellar space, sci-fi concept art.  Hyperrealistic, photorealistic, masterpiece, cinematic lighting, ethereal atmosphere, swirling dust, nebulae, space, cosmic beauty, 8k, unreal engine 5, render, artistic, hyper-detailed, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 5858704",
+    "filename": "wallpaper_1787672634.jpg",
+    "date": "2026-08-25 15:45:04",
+    "timestamp": 1787672634,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787662178",
     "category": "minimalist",
     "category_name_en": "Minimalist",
