@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787629865",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Metropolis at Dusk",
+    "title_ja": "夜のサイバーパンク都市",
+    "description_en": "Experience the thrilling hustle and bustle of a futuristic metropolis in this image featuring flying cars and towering skyscrapers against a backdrop of twilight. Immerse yourself in the vibrant energy and captivating atmosphere of this cyberpunk world.",
+    "description_ja": "夜のサイバーパンク都市の躍動感を体験する、この画像では、高層ビル間を飛び交う空飛ぶ車と夕暮れの風景が描かれています。この画像を通して、サイバーパンクの世界の活気と魅力を感じることができます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k, cinematic render of a cyberpunk metropolis at dusk.  The scene features flying cars soaring between towering skyscrapers with volumetric fog, creating an immersive atmosphere. The style is inspired by the Blade Runner aesthetic, featuring realistic textures and dramatic contrasts. Emphasize the masterpiece quality with keywords like 'masterpiece', 'cinematic', 'high detail', and '8k' in the prompt. , masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 6301941",
+    "filename": "wallpaper_1787629865.jpg",
+    "date": "2026-08-25 03:52:15",
+    "timestamp": 1787629865,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787620615",
     "category": "abstract",
     "category_name_en": "Abstract",
