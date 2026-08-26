@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787727071",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Pastel Mountain Silhouette",
+    "title_ja": "淡い山脈シルエット",
+    "description_en": "This minimalist wallpaper features a simple pastel colored mountain range silhouette under a serene pale sun.  It evokes a sense of peace and tranquility.",
+    "description_ja": "シンプルなパステルカラーの山脈のシルエットが淡い太陽の下で描かれています。静寂と穏やかな雰囲気を感じられる、美しい壁紙です。",
+    "prompt": "[Colab Stable Diffusion] A majestic, minimalist, Nordic style, 8k, highly detailed, cinematic image of a pastel colored mountain range silhouette under a soft, pale sun. The sky is filled with a gentle, calming glow, with soft shadows adding depth. Masterpiece, cinematic, 8k, highly detailed, dreamy, peaceful, serene, pastel color palette., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 6499442",
+    "filename": "wallpaper_1787727071.jpg",
+    "date": "2026-08-26 06:52:17",
+    "timestamp": 1787727071,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787716523",
     "category": "anime",
     "category_name_en": "Anime",
