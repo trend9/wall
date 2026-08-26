@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787748877",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Golden Ink Flow",
+    "title_ja": "液体ゴールドと深 blue のインクの流体的な流れ",
+    "description_en": "Explore the captivating dance of liquid gold and deep blue ink as they merge with shimmering glitter. This abstract masterpiece evokes a sense of wonder and dynamism.",
+    "description_ja": "液体ゴールドと深 blue のインクの流体的な流れを眺めて、キラキラとした輝きが織りなす魅惑的な踊りを楽しんでください。この抽象的な傑作は、神秘と躍動感を感じさせる作品となっています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k digital art render of a vibrant abstract, modern, and stylized artwork. The canvas is filled with a fluid dynamic blend of liquid gold and deep blue ink, sparkling with intricate glitter details. The composition is rendered in a 3D environment with a dramatic lighting effect, and evokes a sense of cinematic realism. Tag this masterpiece as '8k, highly detailed, cinematic, masterpiece, vibrant color palette, abstract art, octane render' to ensure optimal display., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1981032",
+    "filename": "wallpaper_1787748877.jpg",
+    "date": "2026-08-26 12:55:47",
+    "timestamp": 1787748877,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787737395",
     "category": "space",
     "category_name_en": "Space",
