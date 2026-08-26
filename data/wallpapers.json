@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787737395",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Galaxy Glow",
+    "title_ja": "宇宙の銀河輝き",
+    "description_en": "Gaze upon a massive spiral galaxy pulsating with millions of stars against the backdrop of a deep black expanse. This awe-inspiring artwork captures the grandeur and mystery of the cosmos. ",
+    "description_ja": "広大な渦巻銀河が、深闇の宇宙に数百万の星を浮かびながら輝きを見せる。この壮大な作品は宇宙の神秘と美しさに迫る。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, intricate, realistic, Stable Diffusion, sci-fi concept art, interstellar space, cosmic dust, glowing galaxy, massive spiral galaxy, millions of stars, deep black space, Unreal Engine 5 render, dynamic lighting, vibrant nebulae, ethereal atmosphere, unreal engine 5, cinematic lighting, epic, awe-inspiring, masterpiece, highly detailed, atmosphere: neon reflections, seed: 6276153",
+    "filename": "wallpaper_1787737395.jpg",
+    "date": "2026-08-26 09:44:26",
+    "timestamp": 1787737395,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787727071",
     "category": "minimalist",
     "category_name_en": "Minimalist",
