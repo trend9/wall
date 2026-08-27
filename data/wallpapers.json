@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787838812",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Pastel Mountains, Sunlit Serenity",
+    "title_ja": "淡い太陽の下に広がる、シンプルなパステルカラーの山脈のシルエット",
+    "description_en": "Capture the essence of peaceful serenity with this minimalist wallpaper, featuring a simple mountain silhouette bathed in the gentle glow of a pale sun. The clean lines and muted pastel palette evoke a sense of calm and tranquility.",
+    "description_ja": "このシンプルな山脈のシルエットは、淡い太陽の下で、穏やかな静けさを表現しています。 cleanな線と mutedの pastel 色調は、穏やかで落ち着きのある空間を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic 8k artwork of a minimalist mountain silhouette, rendered in a muted pastel color palette. The silhouette is bathed in the warm glow of a pale sun, casting soft shadows across the scene. The artwork exhibits a serene and simplistic beauty, embodying the essence of nordic style minimalism. Tags: masterpiece, 8k, highly detailed, cinematic, soft shadows, clean lines, pastel color palette, serene, minimal, calming, nature, wallpaper., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1203298",
+    "filename": "wallpaper_1787838812.jpg",
+    "date": "2026-08-27 13:54:44",
+    "timestamp": 1787838812,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787790726",
     "category": "anime",
     "category_name_en": "Anime",
