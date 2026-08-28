@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1787876259",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Floating Astronaut in Deep Space",
+    "title_ja": "宇宙飛行士の静寂な漂流",
+    "description_en": "Witness a peaceful astronaut adrift in the deep darkness of space, surrounded by swirling galaxies and glittering cosmic dust. Experience a sense of wonder and tranquility.",
+    "description_ja": "宇宙の深い闇の中で、漂う宇宙飛行士の静寂な姿に目を奪われる。広大な銀河と輝く塵が、宇宙飛行士を包み込む。宇宙の神秘と静寂を感じさせる。",
+    "prompt": "[Colab Stable Diffusion] Masterpiece, 8k, highly detailed, cinematic, An astronaut floating peacefully in deep space, surrounded by distant galaxies and colorful dust. Unreal Engine 5 render, dark and vibrant cosmic dust, glowing nebulae, dramatic lighting, ethereal atmosphere.  Realistic texture, high contrast., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1593618",
+    "filename": "wallpaper_1787876259.jpg",
+    "date": "2026-08-28 00:18:31",
+    "timestamp": 1787876259,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787838812",
     "category": "minimalist",
     "category_name_en": "Minimalist",
