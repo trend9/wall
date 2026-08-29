@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788007124",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Future City Dreams",
+    "title_ja": "未来都市の夢",
+    "description_en": "This wallpaper depicts a vibrant, futuristic anime city with clean modern streets, lush green foliage, and a high-tech monorail. Experience the nostalgia of a bygone era with this artwork.",
+    "description_ja": "この壁紙は、モダンな街並み、緑豊かな森、そしてハイテクなモノレールが特徴の未来的なアニメ都市を表現しています。懐かしさを感じさせるこの作品は、あなたのデスクを特別な場所にするでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece illustration of a clean and modern futuristic anime city. The city features lush green foliage interspersed with skyscrapers, and a sleek monorail travels through the urban landscape. Use a warm color palette and soft lighting to create a nostalgic and beautiful feel. Include Studio Ghibli-esque hand-drawn aesthetic and a sense of wonder. Tags: highly detailed, masterpiece, 8k, cinematic, anime, studio ghibli, nostalgic, beautiful lighting, dreamlike, desktop wallpaper, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 8790827",
+    "filename": "wallpaper_1788007124.jpg",
+    "date": "2026-08-29 12:39:56",
+    "timestamp": 1788007124,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1787983238",
     "category": "nature",
     "category_name_en": "Nature",
