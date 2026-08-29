@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788044532",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Peace: An Astronaut's Journey",
+    "title_ja": "宇宙の静寂: 宇宙飛行士の旅",
+    "description_en": "Experience the tranquility of deep space as an astronaut floats peacefully amidst vibrant galaxies and cosmic dust. Witness the awe-inspiring beauty of the universe.",
+    "description_ja": "深宇宙の静寂の中で、宇宙飛行士は、輝く銀河やカラフルな塵に囲まれ、漂う。宇宙の美しさを体感しよう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of an astronaut floating peacefully in deep space, surrounded by vibrant galaxies and colorful dust. Rendered in the style of sci-fi concept art using Unreal Engine 5, featuring a deep contrast and an unrealistically luminous atmosphere. Use a cinematic lighting style with a highly saturated color palette.  Masterpiece, 8k, highly detailed, cinematic., masterpiece, highly detailed, atmosphere: neon reflections, seed: 6618015",
+    "filename": "wallpaper_1788044532.jpg",
+    "date": "2026-08-29 23:03:17",
+    "timestamp": 1788044532,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788027276",
     "category": "minimalist",
     "category_name_en": "Minimalist",
