@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788208973",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Alleyway in the Rain",
+    "title_ja": "雨の中未来の路地裏",
+    "description_en": "Get lost in a futuristic rain-soaked alleyway, bathed in pink and cyan neon signs. The mood is dark and mysterious, yet vibrant with life.",
+    "description_ja": "未来の雨の路地裏に、ピンクとシアンのネオン看板が照らし出す幻想的な空間を探索。暗い雰囲気の中に、鮮やかな光は生き生きと光り、神秘的で魅力的な場所となっています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece Stable Diffusion image of a futuristic cyberpunk alleyway in a heavy rain downpour, illuminated by vibrant pink and cyan neon signs. The scene should be gritty and detailed, with wet reflections and dynamic lighting. Use octane render for a cinematic effect. The atmosphere should be dark and mysterious, yet vibrant with life. Tags: masterpiece, 8k, highly detailed, cinematic, octane render, neon glow, rain, wet reflections, cyberpunk alleyway, street art, vibrant colors, dark mood, mysterious vibe, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4894273",
+    "filename": "wallpaper_1788208973.jpg",
+    "date": "2026-08-31 20:43:41",
+    "timestamp": 1788208973,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788180928",
     "category": "abstract",
     "category_name_en": "Abstract",
