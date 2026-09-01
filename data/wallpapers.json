@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788250990",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Cozy Study Room: Summer Sky",
+    "title_ja": "夏の空と部屋の窓",
+    "description_en": "This cozy anime-style study room captures the essence of a summer evening, filled with the warm colors of nostalgia.  Enjoy the tranquil beauty of a dreamy, cloud-filled sky.",
+    "description_ja": "この、アニメ風な書斎は、夏の夜をイメージした、温かな色調の温かさの中に、穏やかな空の美しさを感じさせてくれる。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, 8k Stable Diffusion illustration of a cozy anime-style study room with a window overlooking a summer sky full of fluffy white clouds. Studio Ghibli aesthetic, hand-drawn anime style, warm lighting and atmosphere, soft focus, masterpiece, cinematic, highly detailed, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6175808",
+    "filename": "wallpaper_1788250990.jpg",
+    "date": "2026-09-01 08:24:22",
+    "timestamp": 1788250990,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788222408",
     "category": "nature",
     "category_name_en": "Nature",
