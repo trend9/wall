@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788304058",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Liquid Gold and Ink Flow",
+    "title_ja": "液体ゴールドとインクの流体",
+    "description_en": "Experience the captivating dance of liquid gold and deep blue ink as they blend and shimmer with glittering detail, evoking a sense of dynamic energy and creative flow. ",
+    "description_ja": "鮮やかな液体ゴールドと深みのあるブルーインクが融合し、輝くディテールで表現。創造的な流れを感じさせる、魅力的な映像を表現します。",
+    "prompt": "[Colab Stable Diffusion] A modern abstract art piece, 8k, highly detailed, cinematic render, vibrant color palette, liquid gold and deep blue ink blending together with glitter details, subtle lighting, ethereal atmosphere, masterpiece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 1304859",
+    "filename": "wallpaper_1788304058.jpg",
+    "date": "2026-09-01 23:08:35",
+    "timestamp": 1788304058,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788286401",
     "category": "space",
     "category_name_en": "Space",
