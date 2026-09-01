@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788271167",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Serene Minimalist",
+    "title_ja": "静寂なミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a clean concrete wall with elegant shadows of palm leaves cast by the afternoon sun. Generated with state-of-the-art AI.",
+    "description_ja": "午後の太陽によって投げかけられたヤシの葉のエレガントな影があるクリーンなコンクリート壁を描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a clean concrete wall with elegant shadows of palm leaves cast by the afternoon sun, clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic, zen, 8k resolution, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 7243340",
+    "filename": "wallpaper_1788271167.jpg",
+    "date": "2026-09-01 14:00:41",
+    "timestamp": 1788271167,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788250990",
     "category": "anime",
     "category_name_en": "Anime",
