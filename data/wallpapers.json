@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788318820",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Alley in the Rain",
+    "title_ja": "雨の路地裏にピンクとシアンのネオン看板",
+    "description_en": "Get lost in a dark, rainy cyberpunk alleyway illuminated by vibrant neon signs. This high-contrast masterpiece captures the gritty beauty of the city.",
+    "description_ja": "ネオン看板に照らされた雨の路地裏を、あなたを魅了する。この作品は、街の不条理な美しさを表現した、高コントラストの傑作だ。",
+    "prompt": "[Colab Stable Diffusion] A detailed, cinematic 8k image of a futuristic rain-soaked cyberpunk alleyway, illuminated by pink and cyan neon signs, with volumetric fog and dramatic contrast.  Art style: cyberpunk 2077, Blade Runner, Unreal Engine 5.  Masterpiece, highly detailed, realistic textures, cinematic, 8k, 4k, HDR., masterpiece, highly detailed, atmosphere: neon reflections, seed: 3108389",
+    "filename": "wallpaper_1788318820.jpg",
+    "date": "2026-09-02 03:14:47",
+    "timestamp": 1788318820,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788304058",
     "category": "abstract",
     "category_name_en": "Abstract",
