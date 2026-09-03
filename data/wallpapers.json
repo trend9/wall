@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788405352",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Explosion of Color and Geometry",
+    "title_ja": "色と幾何学の爆発",
+    "description_en": "Witness the chaotic beauty of a colorful smoke explosion with geometric crystal shards, a stunning visual feast that captures the essence of creative abstract art. This wallpaper is sure to bring vibrance and dynamism to your workspace.",
+    "description_ja": "抽象的な芸術の混沌とした美しさを見よ。カラフルな煙の波と幾何学的な結晶の破片が爆発する様子は、視覚的な盛宴であり、創造的な抽象絵画の真髄を表現しています。この壁紙は、仕事場を活気と躍動感に満ちさせます。",
+    "prompt": "[Colab Stable Diffusion] A modern abstract art piece featuring a chaotic explosion of colorful smoke waves and geometric crystal shards. Masterpiece, 8k, highly detailed, cinematic, vibrant color palette, dynamic lighting, atmosphere of wonder and awe, octane render., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3533348",
+    "filename": "wallpaper_1788405352.jpg",
+    "date": "2026-09-03 03:17:03",
+    "timestamp": 1788405352,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788390202",
     "category": "space",
     "category_name_en": "Space",
