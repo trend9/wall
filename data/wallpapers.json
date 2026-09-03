@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788476544",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sun and Dunes: Minimalist Abstract Composition",
+    "title_ja": "太陽と砂丘：ミニマル抽象表現",
+    "description_en": "Enjoy a serene and simplistic beauty with this minimalist abstract composition featuring sun and dunes rendered in warm pastel tones. The soft shadows and muted color palette offer a calming and evocative experience.",
+    "description_ja": "穏やかな空間で、太陽と砂丘のミニマル抽象表現を楽しんでください。暖色系のパステルカラーで表現された、柔らかな影と muted 色調は、心を落ち着かせる、印象的な雰囲気です。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic 8k artwork of a minimalist abstract composition featuring sun and dunes, rendered in warm pastel tones. The artwork features soft shadows, muted color palette, and Nordic style minimalism. Lighting is soft and serene with a natural, calming atmosphere. Tags: masterpiece, 8k, highly detailed, cinematic, artstation, trending, wallpaper, digital art, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4306330",
+    "filename": "wallpaper_1788476544.jpg",
+    "date": "2026-09-03 23:03:17",
+    "timestamp": 1788476544,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788467883",
     "category": "anime",
     "category_name_en": "Anime",
