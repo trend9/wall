@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788491739",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula: Stars Bloom",
+    "title_ja": "宇宙星雲: 星が誕生する",
+    "description_en": "Witness the beauty of a vibrant cosmic nebula filled with interstellar dust, revealing glowing stars emerging from the dense clouds. Experience the captivating awe-inspiring spectacle of space.",
+    "description_ja": "宇宙の星雲に、鮮やかな宇宙塵が輝く。星が生まれる様子を眺めてください。宇宙の壮大な神秘を体感してください。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, photorealistic image of a stunning cosmic nebula with vibrant violet, blue, and gold dust clouds forming stars, unreal engine 5 render, deep contrast, intricate dust trails, cosmic dust, interstellar space, glowing stars, ethereal atmosphere, breathtaking detail., masterpiece, highly detailed, atmosphere: neon reflections, seed: 5802433",
+    "filename": "wallpaper_1788491739.jpg",
+    "date": "2026-09-04 03:16:24",
+    "timestamp": 1788491739,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788476544",
     "category": "minimalist",
     "category_name_en": "Minimalist",
