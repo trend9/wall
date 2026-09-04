@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788562219",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Summer Sky Study",
+    "title_ja": "夏の空と静かな書斎",
+    "description_en": "This cozy anime-style study room offers a serene escape with breathtaking summer sky views and ethereal vibes. Perfect for a digital art-lover's workspace.",
+    "description_ja": "この居心地の良いアニメ風書斎は、夏の空を望む窓から生み出された静かな空間。儚い雰囲気で、デジタルアート愛好家のための最高のデスクの壁紙となっています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic, anime style, Makoto Shinkai, summer sky, fluffy white clouds, ethereal, lens flare, warm golden hour lighting, soft focus, bokeh, peaceful atmosphere, desk, book, traditional stationery, study room, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 1245177",
+    "filename": "wallpaper_1788562219.jpg",
+    "date": "2026-09-04 22:51:22",
+    "timestamp": 1788562219,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788553440",
     "category": "nature",
     "category_name_en": "Nature",
