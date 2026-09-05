@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788619427",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Liquid Gold and Ink Symphony",
+    "title_ja": "液体ゴールドとインクのシンフォニー",
+    "description_en": "This abstract wallpaper blends shimmering liquid gold and deep blue ink into a mesmerizing flow of swirling patterns.  The interplay of light and color evokes a feeling of depth and wonder.",
+    "description_ja": "この抽象的な壁紙は、煌めく液体ゴールドと深色インクを融合させた、渦巻くパターンで構成された幻想的な流れを表現しています。光と色の組み合わせは、奥行きと魅惑的な感覚を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A high-resolution 8k, 3D digital render of a modern abstract art piece. Capture a fluid dynamic flow of shimmering liquid gold and deep blue ink merging into a vibrant symphony.  The swirling patterns should be emphasized with glitter details, using a high-contrast lighting effect with a cinematic atmosphere.  Include high fidelity textures and a masterpiece quality. Tags: #masterpiece, #8k, #highlydetailed, #cinematic, #abstract, #liquidgold, #ink, #symphony, #glow, #flowing, #darkblue, masterpiece, highly detailed, atmosphere: neon reflections, seed: 7234290",
+    "filename": "wallpaper_1788619427.jpg",
+    "date": "2026-09-05 14:44:56",
+    "timestamp": 1788619427,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788602696",
     "category": "space",
     "category_name_en": "Space",
