@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788602696",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Station Orbiting Earth",
+    "title_ja": "未来的な宇宙ステーションの地球周回",
+    "description_en": "Discover the majesty of a futuristic space station orbiting a breathtakingly beautiful Earth-like planet. Witness the captivating blend of awe and wonder.",
+    "description_ja": "未来的な宇宙ステーションが美しい緑と青の地球のような惑星の軌道を回る様子を見ることができます。壮大な宇宙の美しさを堪能しましょう。",
+    "prompt": "[Colab Stable Diffusion] Masterpiece, 8k, highly detailed, cinematic, Stable Diffusion prompt. A futuristic space station orbiting a beautiful green and blue earth-like planet, in the style of Hubble telescope, with epic space exploration art, highly detailed cosmic rendering, cinematic lighting, photorealistic, realistic stars and nebulae., masterpiece, highly detailed, atmosphere: neon reflections, seed: 705827",
+    "filename": "wallpaper_1788602696.jpg",
+    "date": "2026-09-05 10:06:02",
+    "timestamp": 1788602696,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788578245",
     "category": "minimalist",
     "category_name_en": "Minimalist",
