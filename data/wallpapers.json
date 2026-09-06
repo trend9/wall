@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788734769",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Stunning Nature",
+    "title_ja": "見事な自然",
+    "description_en": "A high-quality, breathtaking nature wallpaper depicting a magnificent glowing bioluminescent waterfall deep inside a magical night jungle. Generated with state-of-the-art AI.",
+    "description_ja": "魔法の夜のジャングルの奥深くにある、見事な発光するバイオルミネッセンスの滝を描いた、高品質で息をのむような自然の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a magnificent glowing bioluminescent waterfall deep inside a magical night jungle, breathtaking nature photography, soft lighting, award-winning, highly detailed, realistic, National Geographic style, 8k, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4143954",
+    "filename": "wallpaper_1788734769.jpg",
+    "date": "2026-09-06 22:47:10",
+    "timestamp": 1788734769,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788725169",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
