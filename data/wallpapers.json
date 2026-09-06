@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788690293",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Star Formation",
+    "title_ja": "宇宙星雲の星形成",
+    "description_en": "This stunning cosmic nebula captures the vibrant violet, blue, and gold dust clouds forming stars, offering a breathtaking glimpse into the universe's cosmic grandeur.  ",
+    "description_ja": "この壮大な宇宙星雲は、鮮やかなバイオレット、ブルー、ゴールドの宇宙塵の雲が星を形成している様子を捉え、宇宙の神秘的な美しさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k artwork of a stunning cosmic nebula in the style of Hubble telescope, showcasing vibrant violet, blue and gold dust clouds forming stars.  Use epic space exploration art, with photorealistic detail and cinematic lighting, capturing the vastness of the universe. Include master, masterpiece, 8k, highly detailed, cinematic, 4k, hyperrealistic, realistic, and epic in the prompt description to ensure a truly stunning wallpaper., masterpiece, highly detailed, atmosphere: neon reflections, seed: 5361130",
+    "filename": "wallpaper_1788690293.jpg",
+    "date": "2026-09-06 10:26:02",
+    "timestamp": 1788690293,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788664626",
     "category": "minimalist",
     "category_name_en": "Minimalist",
