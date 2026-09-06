@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788725169",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon City Train Through the Canyon",
+    "title_ja": "ネオン都市の谷間を走る未来列車",
+    "description_en": "Witness the electrifying speed of a futuristic train as it navigates the bustling neon-lit cyberpunk city canyon, capturing the essence of the dystopian future. This breathtaking image evokes a thrilling, yet melancholic mood.",
+    "description_ja": "未来都市の谷間を走る、ネオン輝く列車の姿を、その躍動感と憂鬱さを同時に感じさせる。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece, art style of Cyberpunk 2077 and Blade Runner, volumetric fog, neon lights illuminating the city, dramatic contrast between light and shadow, unreal engine 5 render, realistic textures, masterpiece, 8k, highly detailed, cinematic, vibrant., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 2830729",
+    "filename": "wallpaper_1788725169.jpg",
+    "date": "2026-09-06 20:07:16",
+    "timestamp": 1788725169,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788707049",
     "category": "abstract",
     "category_name_en": "Abstract",
