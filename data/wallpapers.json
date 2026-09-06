@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788664626",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Solitary Pier Over a Mist-Shrouded Lake",
+    "title_ja": "一連の桟橋が霧に包まれた湖を映す",
+    "description_en": "Experience the tranquil beauty of a solitary wooden pier stretching into a vast, misty white lake. This minimalist art captures the peaceful essence of nature's serenity.",
+    "description_ja": "広大で穏やかな霧深い白い湖へと続く、一連の木製の桟橋。このシンプルなアートは、自然の静けさの美しさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece, cinematic, 4k, art by  Adobe Sensei,  of a solitary wooden pier leading into a vast, misty white lake, with subtle textures and clean lines, flat colors, elegant composition, modern aesthetic, zen, with soft, ethereal lighting. High quality, 8k resolution., masterpiece, highly detailed, atmosphere: neon reflections, seed: 7638980",
+    "filename": "wallpaper_1788664626.jpg",
+    "date": "2026-09-06 03:18:12",
+    "timestamp": 1788664626,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788648202",
     "category": "anime",
     "category_name_en": "Anime",
