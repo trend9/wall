@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788801853",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Alien Moon Horizon",
+    "title_ja": "不毛な月の地平線",
+    "description_en": "Explore a desolate alien moon with a ringed exoplanet rising from the horizon, bathed in the glow of cosmic dust.",
+    "description_ja": "荒れたエイリアンの月で、不毛な地平線上に、遠くの輪を持つ系外惑星が昇る様子を捉えましょう。宇宙の塵が輝きを放っています。",
+    "prompt": "[Colab Stable Diffusion] A hyper-detailed 8k masterpiece, cinematic render of an alien moon with a barren landscape, a distant ringed exoplanet rising from the horizon, cosmic dust illuminating the scene. Unreal Engine 5 style, deep contrast, dramatic lighting. Highly detailed, cinematic quality,  masterpiece, 8k, highly detailed, realistic, 8k, unreal engine 5, cinematic, masterpiece, highly detailed, atmosphere: neon reflections, seed: 9784219",
+    "filename": "wallpaper_1788801853.jpg",
+    "date": "2026-09-07 17:25:20",
+    "timestamp": 1788801853,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788781614",
     "category": "minimalist",
     "category_name_en": "Minimalist",
