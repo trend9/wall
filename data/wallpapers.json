@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788909372",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Horizon: Ringed Exoplanet",
+    "title_ja": "宇宙の境界線: 輪を持つ系外惑星",
+    "description_en": "Witness a distant, ringed exoplanet rising over the barren, alien landscape of a moon, shrouded in the cosmic dust and deep contrast of interstellar space.  A captivating scene of mystery and wonder.",
+    "description_ja": "遠くの輪を持つ系外惑星が、荒れ果てたエイリアンの月の上空に昇る様子を捉えます。宇宙の塵が輝き、深い対比で広がる、神秘的な景色を堪能しましょう。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic render of a distant ringed exoplanet rising over the barren, alien landscape of a moon, shrouded in cosmic dust, with deep contrast and unreal engine 5 lighting.  Focus on the exoplanet's majestic glow and the desolate, alien landscape. Use soft ambient lighting with a dark, starry sky.  , masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3892827",
+    "filename": "wallpaper_1788909372.jpg",
+    "date": "2026-09-08 23:17:21",
+    "timestamp": 1788909372,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788900572",
     "category": "minimalist",
     "category_name_en": "Minimalist",
