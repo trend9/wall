@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1788986071",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Idyll",
+    "title_ja": "魔法の星空の静かな田舎",
+    "description_en": "Find peace in this ethereal starry night scene, featuring a magical glowing tree atop a peaceful countryside hill.  The atmosphere is calm and serene.",
+    "description_ja": "静かな田舎の丘の上で、魔法のような星空が美しい光景。光る木が心を落ち着かせる。穏やかで優しい雰囲気の風景を堪能",
+    "prompt": "[Colab Stable Diffusion] A Makoto Shinkai-style artwork, featuring a magical starry night sky above a peaceful countryside hill with a single glowing tree. The sky is full of intricate detail, with lens flare and vibrant color grading. The atmosphere is ethereal and peaceful. High quality, 8k masterpiece, highly detailed, cinematic, vibrant colors, soft lighting, wind blowing., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4239379",
+    "filename": "wallpaper_1788986071.jpg",
+    "date": "2026-09-09 20:35:14",
+    "timestamp": 1788986071,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788969821",
     "category": "nature",
     "category_name_en": "Nature",
