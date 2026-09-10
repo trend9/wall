@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789037276",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaos and Beauty: Smoke Waves Explode",
+    "title_ja": "爆発的な美しさ: 煙の波",
+    "description_en": "Experience the mesmerizing beauty of a chaotic explosion of colorful smoke waves and geometric crystal shards.  This abstract masterpiece blends vibrant color and fluid movement for an awe-inspiring visual journey.",
+    "description_ja": "鮮やかな煙の波と幾何学的な結晶の破片のカオスでありながら美しい爆発。この抽象的な傑作は、鮮やかな色と流動的な動きで、圧倒的な視覚的体験を演出します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic lighting, textured canvas, vibrant colors, smoke waves exploding into geometric crystal shards, abstract art, organic shapes, fluid movement, premium graphic design, visual masterpiece, #masterpiece #8k #highlydetailed #cinematic #abstract, masterpiece, highly detailed, atmosphere: neon reflections, seed: 6720046",
+    "filename": "wallpaper_1789037276.jpg",
+    "date": "2026-09-10 10:49:04",
+    "timestamp": 1789037276,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789010684",
     "category": "space",
     "category_name_en": "Space",
