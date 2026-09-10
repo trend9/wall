@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789010684",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Epic Space",
+    "title_ja": "壮大な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a futuristic space station orbiting a beautiful green and blue earth-like planet. Generated with state-of-the-art AI.",
+    "description_ja": "美しい緑と青の地球のような惑星の軌道を回る、未来的な宇宙ステーションを描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a futuristic space station orbiting a beautiful green and blue earth-like planet, sci-fi concept art, interstellar space, cosmic dust, deep contrast, unreal engine 5 render, hyper-detailed, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4636169",
+    "filename": "wallpaper_1789010684.jpg",
+    "date": "2026-09-10 03:25:50",
+    "timestamp": 1789010684,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1788994820",
     "category": "minimalist",
     "category_name_en": "Minimalist",
