@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789072284",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Sunset Glory Over Calm Waters",
+    "title_ja": "穏やかな海に沈む壮大な夕日",
+    "description_en": "Witness the breathtaking beauty of an epic sunset over a calm ocean, captured with vibrant pink, purple, and orange clouds. This stunning image evokes a sense of serenity and wonder.",
+    "description_ja": "穏やかな海に沈む壮大な夕日。鮮やかなピンク、紫、オレンジ色の雲が、静寂な海を彩ります。この美しい画像には、静寂と感動が漂っています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k, cinematic masterpiece of an epic sunset over a calm ocean. Vibrant pink, purple, and orange clouds are dominating the sky, with soft, ethereal lighting and a focus on the beauty of nature. Award-winning photorealistic detail, National Geographic style., masterpiece, highly detailed, atmosphere: neon reflections, seed: 4657061",
+    "filename": "wallpaper_1789072284.jpg",
+    "date": "2026-09-10 20:32:33",
+    "timestamp": 1789072284,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789055946",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
