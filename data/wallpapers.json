@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789123544",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Serene Space",
+    "title_ja": "静寂な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a futuristic space station orbiting a beautiful green and blue earth-like planet. Generated with state-of-the-art AI.",
+    "description_ja": "美しい緑と青の地球のような惑星の軌道を回る、未来的な宇宙ステーションを描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a futuristic space station orbiting a beautiful green and blue earth-like planet, sci-fi concept art, interstellar space, cosmic dust, deep contrast, unreal engine 5 render, hyper-detailed, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 9564161",
+    "filename": "wallpaper_1789123544.jpg",
+    "date": "2026-09-11 10:46:38",
+    "timestamp": 1789123544,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789096912",
     "category": "minimalist",
     "category_name_en": "Minimalist",
