@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789183645",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Futuristic Anime Metropolis",
+    "title_ja": "未来のアニメ都市",
+    "description_en": "Explore a breathtaking anime city with futuristic architecture and lush green foliage, rendered in a gorgeous, ethereal style. The vibrant neon lights and dynamic atmosphere create a captivating and immersive experience.",
+    "description_ja": "未来都市のアニメーションで、モダンな建物と緑豊かな街並みを、Makoto Shinkaiの美しいスタイルで表現。鮮やかなネオンと活気のある雰囲気は、没入感あふれる体験を提供します。",
+    "prompt": "[Colab Stable Diffusion] A detailed, cinematic, 8k, high quality digital art, masterpiece, scene of a futuristic anime city with clean modern streets, vibrant neon lights, lush green foliage, and high-tech monorail. Rendered in the Makoto Shinkai style with gorgeous sky details, lens flare, vivid color grading, ethereal atmosphere, and wind blowing. Focus on the city's vibrant energy and dynamic movement with soft lighting and ethereal details., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 2021130",
+    "filename": "wallpaper_1789183645.jpg",
+    "date": "2026-09-12 03:28:33",
+    "timestamp": 1789183645,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789167761",
     "category": "nature",
     "category_name_en": "Nature",
