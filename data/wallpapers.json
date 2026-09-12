@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789208099",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Stunning Minimalist",
+    "title_ja": "見事なミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a single green leaf with a single water droplet on a clean, soft beige background. Generated with state-of-the-art AI.",
+    "description_ja": "クリーンで柔らかなベージュ of 背景に、一滴の水滴がついた一枚の緑の葉を描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a single green leaf with a single water droplet on a clean, soft beige background, clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic, zen, 8k resolution, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 7676448",
+    "filename": "wallpaper_1789208099.jpg",
+    "date": "2026-09-12 10:16:13",
+    "timestamp": 1789208099,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789183645",
     "category": "anime",
     "category_name_en": "Anime",
