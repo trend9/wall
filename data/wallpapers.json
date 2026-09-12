@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789253662",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Metropolis Dazzle",
+    "title_ja": "サイバーパンク都市の煌めき",
+    "description_en": "Explore a towering cyberpunk metropolis as flying cars streak through the twilight sky, illuminating the shimmering skyscrapers in a neon glow. Immerse yourself in the electrifying atmosphere of this highly detailed masterpiece.",
+    "description_ja": "夜遅く、超高層ビルが夜空に浮かぶサイバーパンク都市の煌めきは、空中で飛び交う車が街の灯りを明るくする。この高度なデジタルアートは、鮮やかな色と高解像度で、あなたを魅了するでしょう。",
+    "prompt": "[Colab Stable Diffusion] An 8k, highly detailed, cinematic, masterpiece, Stable Diffusion prompt of a futuristic cyberpunk metropolis at dusk.  The cityscape is awash with neon reflections, with flying cars zipping through the air between towering skyscrapers. The scene should have a synthwave aesthetic and use realistic lighting effects. Incorporate elements of wet reflections, smoke, and dynamic shadows, capturing the electrifying mood of a cyberpunk world.  Use tags: #cyberpunk, #synthwave, #nightcity, #neon, #realistic, #masterpiece, #8k, #highlydetailed, #cinematic, masterpiece, highly detailed, atmosphere: neon reflections, seed: 8097850",
+    "filename": "wallpaper_1789253662.jpg",
+    "date": "2026-09-12 22:55:32",
+    "timestamp": 1789253662,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789244342",
     "category": "abstract",
     "category_name_en": "Abstract",
