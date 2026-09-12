@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789225733",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Serenity: Astronaut in Deep Space",
+    "title_ja": "深宇宙の静けさ: 宇宙飛行士の静寂",
+    "description_en": "An astronaut floats peacefully amidst a swirl of deep space, surrounded by the vastness of distant galaxies and colorful dust. Capture the serene beauty of a cosmic journey.",
+    "description_ja": "深宇宙の中で、宇宙飛行士は静かに銀河とカラフルな塵に囲まれ、静寂な空間に漂う。宇宙の広大さを表現する静寂な風景を表現する",
+    "prompt": "[Colab Stable Diffusion] A hyper-detailed, 8k masterpiece, 3d render in Unreal Engine 5, of an astronaut floating in deep space, surrounded by swirling dust and colorful galaxies. Use dramatic lighting to create a cinematic effect, and high contrast for a sense of depth and realism.  #cosmic, #astronauts, #space, #deep_space, #realistic, #hyper_realistic, #cinematic, #8k, #detailed, #masterpiece, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8590630",
+    "filename": "wallpaper_1789225733.jpg",
+    "date": "2026-09-12 15:10:03",
+    "timestamp": 1789225733,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789208099",
     "category": "minimalist",
     "category_name_en": "Minimalist",
