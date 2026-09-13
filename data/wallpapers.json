@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789298017",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Glow in the Countryside",
+    "title_ja": "田舎の丘の上の魔法の星空",
+    "description_en": "This captivating artwork depicts a peaceful countryside hill bathed in the glow of a magical starry night sky.  The serene scene is accented by a single glowing tree, promising a sense of wonder and tranquility.",
+    "description_ja": "静かな田舎の丘の上の魔法の星空で、穏やかな夜が描かれています。光る木の姿は、神秘的な雰囲気を漂わせています。",
+    "prompt": "[Colab Stable Diffusion] A Makoto Shinkai-style artwork depicting a single glowing tree standing on a peaceful countryside hill under a magical starry night sky.  The sky is filled with vivid colors, with dazzling lens flare and ethereal details.  The scene is rendered in high-quality digital art with a masterpiece-level aesthetic, 8k resolution, highly detailed, cinematic lighting, and a soft wind blowing across the landscape.  #makotosinkai #animewallpaper #highqualityart #stars #peaceful #digitalart #masterpiece #8k #highlydetailed #cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8823959",
+    "filename": "wallpaper_1789298017.jpg",
+    "date": "2026-09-13 11:14:44",
+    "timestamp": 1789298017,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789270367",
     "category": "nature",
     "category_name_en": "Nature",
