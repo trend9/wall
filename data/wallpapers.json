@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789331201",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Symphony",
+    "title_ja": "宇宙の星雲楽章",
+    "description_en": "Discover the breathtaking beauty of a vibrant cosmic nebula where violet, blue, and gold dust clouds form glittering stars. This epic space wallpaper offers a stunning visual journey to the depths of space.",
+    "description_ja": "宇宙の星雲が美しく輝き、鮮やかなバイオレット、ブルー、ゴールドの塵が光る星を形成しています。この壮大な宇宙壁紙は、宇宙の深淵に広がる壮大な旅を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k masterpiece of a cosmic nebula with vibrant violet, blue, and gold dust clouds forming glittering stars.  Render in the style of the Hubble telescope, capturing the intricate details and rich textures of the nebula. Employ epic lighting and a dramatic atmosphere to evoke awe and wonder. Use tags: #space, #nebula, #cosmic, #sciencefiction, #8k, #highlydetailed, #cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4803822",
+    "filename": "wallpaper_1789331201.jpg",
+    "date": "2026-09-13 20:27:48",
+    "timestamp": 1789331201,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789314362",
     "category": "minimalist",
     "category_name_en": "Minimalist",
