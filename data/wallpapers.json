@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789314362",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sun and Dunes Minimalism",
+    "title_ja": "太陽と砂丘のミニマリスト",
+    "description_en": "Capture the serene essence of sun and dunes with this minimalist abstract composition. Soft pastel tones and geometric shapes create a calming atmosphere.",
+    "description_ja": "太陽と砂丘のミニマリストな抽象的な構成で、穏やかな空気を表現した静寂な画像。暖かみのあるパステルカラーと幾何学模様が、穏やかな雰囲気を作り出します。",
+    "prompt": "[Colab Stable Diffusion] A minimalist abstract composition of a sun and dunes using warm pastel colors. The sun should be a dominant element, with its rays illuminating a sandy landscape. Rendered in the Nordic style with muted pastel colors and soft shadows, creating a serene, simplistic beauty. High-resolution masterpiece, 8k, highly detailed, cinematic, sharp focus, vibrant colors, dreamy atmosphere, ambient lighting, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 6051823",
+    "filename": "wallpaper_1789314362.jpg",
+    "date": "2026-09-13 15:47:08",
+    "timestamp": 1789314362,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789298017",
     "category": "anime",
     "category_name_en": "Anime",
