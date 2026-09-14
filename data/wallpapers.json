@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789387230",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Sunset Symphony Over Calm Ocean",
+    "title_ja": "穏やかな海に沈む壮大な夕日",
+    "description_en": "Witness the breathtaking beauty of a sunset over a calm ocean, filled with vibrant pink, purple, and orange clouds. This epic scene captures the awe-inspiring power of nature's artistry, perfect for any space.",
+    "description_ja": "穏やかな海に沈む壮大な夕日。鮮やかなピンク、紫、オレンジ色の雲が広がる。この絵は、自然の芸術的な力を感じさせ、広大な空間で最高のインテリアになります。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece, cinematic image of an epic sunset over a calm ocean, featuring vibrant pink, purple, and orange clouds. Soft, award-winning lighting, soft focus, breathtaking nature photography style, National Geographic style. Tags: masterpiece, 8k, highly detailed, cinematic, 8k, photorealistic, epic sunset, calm ocean, vibrant clouds, soft lighting, award-winning, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1684385",
+    "filename": "wallpaper_1789387230.jpg",
+    "date": "2026-09-14 12:01:38",
+    "timestamp": 1789387230,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789357401",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
