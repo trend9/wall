@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789514907",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Neon City Dreams",
+    "title_ja": "未来都市の光",
+    "description_en": "Step into a futuristic anime city with gleaming modern streets, vibrant green foliage, and a soaring monorail.  Experience the nostalgic beauty of this highly detailed illustration. ",
+    "description_ja": "未来都市の光に、モダンな街並み、緑の広がる風景、そしてハイテクなモノレールが描かれた美しいイラストを堪能してください。懐かしさを感じる美しいイラストです。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a futuristic anime city with clean modern streets, vibrant green foliage, and a soaring monorail. Studio Ghibli aesthetic, hand-drawn anime style, warm colors, nostalgic, beautiful lighting, 8k, highly detailed, cinematic, masterpiece, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 7874761",
+    "filename": "wallpaper_1789514907.jpg",
+    "date": "2026-09-15 23:29:19",
+    "timestamp": 1789514907,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789505938",
     "category": "nature",
     "category_name_en": "Nature",
