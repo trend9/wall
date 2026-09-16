@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789556345",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Starscape",
+    "title_ja": "宇宙星雲の星空",
+    "description_en": "Witness the breathtaking beauty of vibrant cosmic nebulae forming stars, a mesmerizing spectacle of swirling dust clouds in the depths of space. Immerse yourself in the awe-inspiring wonder of the cosmos.",
+    "description_ja": "宇宙の塵雲が輝く星を形成する壮大な宇宙星雲を目の当たりに。深邃な宇宙の広がりの中で、幻想的な星空を堪能しよう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, sci-fi concept art piece of a cosmic nebula with vibrant violet, blue, and gold dust clouds forming stars. Rendered in the Unreal Engine 5 style, featuring deep contrast, realistic lighting, and a hyper-realistic aesthetic.  Masterpiece, 8k, highly detailed, cinematic., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 9518851",
+    "filename": "wallpaper_1789556345.jpg",
+    "date": "2026-09-16 11:00:11",
+    "timestamp": 1789556345,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789530069",
     "category": "minimalist",
     "category_name_en": "Minimalist",

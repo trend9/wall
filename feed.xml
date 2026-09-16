@@ -5,7 +5,15 @@
     <link>https://wall-eosin.vercel.app</link>
     <description>Daily updated premium AI-generated wallpapers.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:00:11 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Cosmic Nebula Starscape]]></title>
+      <link>https://wall-eosin.vercel.app/w/wp_1789556345.html</link>
+      <description><![CDATA[Witness the breathtaking beauty of vibrant cosmic nebulae forming stars, a mesmerizing spectacle of swirling dust clouds in the depths of space. Immerse yourself in the awe-inspiring wonder of the cosmos.]]></description>
+      <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1789556345.jpg" type="image/jpeg" />
+      <guid isPermaLink="false">wp_1789556345</guid>
+      <pubDate>Wed, 16 Sep 2026 11:00:11 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Sun and Dunes: Pastel Minimalism]]></title>
       <link>https://wall-eosin.vercel.app/w/wp_1789530069.html</link>
@@ -237,14 +245,6 @@
       <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1789037276.jpg" type="image/jpeg" />
       <guid isPermaLink="false">wp_1789037276</guid>
       <pubDate>Thu, 10 Sep 2026 10:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Epic Space]]></title>
-      <link>https://wall-eosin.vercel.app/w/wp_1789010684.html</link>
-      <description><![CDATA[A high-quality, breathtaking space wallpaper depicting a futuristic space station orbiting a beautiful green and blue earth-like planet. Generated with state-of-the-art AI.]]></description>
-      <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1789010684.jpg" type="image/jpeg" />
-      <guid isPermaLink="false">wp_1789010684</guid>
-      <pubDate>Thu, 10 Sep 2026 03:25:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
