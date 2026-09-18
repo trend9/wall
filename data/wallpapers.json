@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789763585",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Astronaut in Deep Space Serenity",
+    "title_ja": "宇宙飛行士の静寂",
+    "description_en": "This image showcases an astronaut peacefully floating in deep space, surrounded by a breathtaking nebula and vibrant dust particles. The mood is one of serene contemplation and awe-inspiring vastness.",
+    "description_ja": "深宇宙の静寂の中で、宇宙飛行士は壮大な銀河とカラフルな塵に囲まれ、穏やかに漂う様子が描かれています。この画像には、広大で神秘的な宇宙の美しさを表現した静寂な雰囲気があります。",
+    "prompt": "[Colab Stable Diffusion] Masterpiece, 8k, highly detailed, cinematic, photorealistic rendering of an astronaut floating in deep space. Detailed nebulae, vibrant interstellar dust, Unreal Engine 5 render, deep contrast, hyperrealistic lighting, and a sense of vast solitude. , masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 4348300",
+    "filename": "wallpaper_1789763585.jpg",
+    "date": "2026-09-18 20:34:12",
+    "timestamp": 1789763585,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789747160",
     "category": "minimalist",
     "category_name_en": "Minimalist",
