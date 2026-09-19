@@ -5,7 +5,15 @@
     <link>https://wall-eosin.vercel.app</link>
     <description>Daily updated premium AI-generated wallpapers.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Sep 2026 23:07:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 03:31:02 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Cinematic Cyberpunk]]></title>
+      <link>https://wall-eosin.vercel.app/w/wp_1789788595.html</link>
+      <description><![CDATA[A high-quality, breathtaking cyberpunk wallpaper depicting a massive futuristic metropolis with flying cars zooming between skyscrapers at dusk. Generated with state-of-the-art AI.]]></description>
+      <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1789788595.jpg" type="image/jpeg" />
+      <guid isPermaLink="false">wp_1789788595</guid>
+      <pubDate>Sat, 19 Sep 2026 03:31:02 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Dynamic Collage of Textures]]></title>
       <link>https://wall-eosin.vercel.app/w/wp_1789772772.html</link>
@@ -237,14 +245,6 @@
       <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1789270367.jpg" type="image/jpeg" />
       <guid isPermaLink="false">wp_1789270367</guid>
       <pubDate>Sun, 13 Sep 2026 03:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[Cyberpunk Metropolis Dazzle]]></title>
-      <link>https://wall-eosin.vercel.app/w/wp_1789253662.html</link>
-      <description><![CDATA[Explore a towering cyberpunk metropolis as flying cars streak through the twilight sky, illuminating the shimmering skyscrapers in a neon glow. Immerse yourself in the electrifying atmosphere of this highly detailed masterpiece.]]></description>
-      <enclosure url="https://wall-eosin.vercel.app/wallpapers/wallpaper_1789253662.jpg" type="image/jpeg" />
-      <guid isPermaLink="false">wp_1789253662</guid>
-      <pubDate>Sat, 12 Sep 2026 22:55:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
