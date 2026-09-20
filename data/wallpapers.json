@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789945438",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Misty Pier Reflecting Lake",
+    "title_ja": "霧深い湖に続く桟橋",
+    "description_en": "This elegant and minimalist wallpaper features a solitary wooden pier leading into a vast, calm, misty white lake, evoking a sense of serenity and tranquility.",
+    "description_ja": "このシンプルな壁紙には、広大な穏やかな霧深い白い湖へと続く一連の木製の桟橋が描かれています。静寂さと穏やかさを演出します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a minimalist, clean design, flat colors, subtle textures, elegant composition, modern aesthetic, zen, 8k resolution.  A solitary wooden pier leading into a vast, calm, misty white lake. The sky is overcast with a gentle mist.  Lighting is soft and warm, with the focus on the pier and the lake.  The scene should be cinematic and have a high degree of detail, creating a sense of peace and tranquility.  #masterpiece #8k #highlydetailed #cinematic #minimalism #zen #lake #pier #mist #calm #tranquil, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 2017799",
+    "filename": "wallpaper_1789945438.jpg",
+    "date": "2026-09-20 23:05:09",
+    "timestamp": 1789945438,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789936017",
     "category": "anime",
     "category_name_en": "Anime",
