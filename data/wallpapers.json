@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789936017",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Celestial Glow on Peaceful Hill",
+    "title_ja": "静かな田舎の丘の上の魔法の星空",
+    "description_en": "Experience a peaceful countryside scene bathed in the magic of a starry night sky, with a single glowing tree illuminating the scene. The ethereal beauty of this artwork evokes a sense of wonder and tranquility.",
+    "description_ja": "静かな田舎の丘の上の星空に浮かぶ魔法の光が、一つだけ輝き、その場を幻想的な美しさに包み込む。この絵の雰囲気は、希望と平和の感覚を呼び起こします。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k highly detailed, cinematic, digital art of a magical starry night sky over a peaceful countryside hill, with a single glowing tree illuminating the scene, Makoto Shinkai style, gorgeous sky details, lens flare, vivid color grading, ethereal, wind blowing, highly realistic and detailed, night sky, glowing tree, rolling hills, peaceful atmosphere, masterpiece, highly detailed, atmosphere: neon reflections, seed: 1712336",
+    "filename": "wallpaper_1789936017.jpg",
+    "date": "2026-09-20 20:27:49",
+    "timestamp": 1789936017,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789918546",
     "category": "nature",
     "category_name_en": "Nature",
