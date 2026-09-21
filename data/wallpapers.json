@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1789992709",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Dynamic Collage of Textures",
+    "title_ja": "抽象的なコラージュ",
+    "description_en": "This dynamic collage combines torn textures, vibrant brush strokes, and metallic gold paint splatters to create a captivating abstract piece.  It embodies a mood of energy and vibrancy.",
+    "description_ja": "この抽象的なコラージュは、破れたテクスチャ、カラフルなブラシストローク、そして金属的なゴールドペイントの飛沫を組み合わせた、魅惑的な抽象画です。 それはエネルギーと活力を表現した絵画です。",
+    "prompt": "[Colab Stable Diffusion] A dynamic collage of torn textures, colorful brush strokes, and metallic gold paint splatters.  High-fidelity 8k digital render, masterpiece, cinematic lighting, vibrant color palette, octane render.  Highly detailed, dramatic, vibrant, emotional, abstract art., masterpiece, highly detailed, atmosphere: neon reflections, seed: 3545979",
+    "filename": "wallpaper_1789992709.jpg",
+    "date": "2026-09-21 12:12:55",
+    "timestamp": 1789992709,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1789962064",
     "category": "space",
     "category_name_en": "Space",
