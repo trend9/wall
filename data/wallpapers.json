@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790110784",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Liquid Gold & Ink Fusion",
+    "title_ja": "液体ゴールドとインクの融合",
+    "description_en": "This abstract wallpaper showcases a mesmerizing flow of golden liquid merging with deep blue ink, enhanced by sparkling glitter details. Experience the vibrancy and dynamic nature of abstract art.",
+    "description_ja": "抽象的な壁紙は、金色と深みのあるブルーのインクが融合する、魅惑的な流れを表現しています。光沢のある輝きが加わり、まるで映画の様な鮮やかさとダイナミズムを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A modern abstract art masterpiece, 8k, highly detailed, cinematic render. Liquid gold and deep blue ink flow together, blending and swirling, with intricate glitter details. Dynamic lighting, vibrant color palette. Focus on the flow and movement, with a sense of depth and wonder. High-quality, 8k render, masterfully crafted for a breathtaking desktop wallpaper., masterpiece, highly detailed, atmosphere: neon reflections, seed: 3726828",
+    "filename": "wallpaper_1790110784.jpg",
+    "date": "2026-09-22 21:00:38",
+    "timestamp": 1790110784,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790094375",
     "category": "space",
     "category_name_en": "Space",
