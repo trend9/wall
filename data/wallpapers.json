@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790197931",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Station in Earth's Orbit",
+    "title_ja": "宇宙ステーションの地球の周回",
+    "description_en": "Experience the wonder of a futuristic space station orbiting a vibrant, Earth-like planet, a testament to the beauty of space exploration. This epic wallpaper captures the awe and inspiration of the cosmos.",
+    "description_ja": "壮大な宇宙ステーションが美しい緑と青の地球のような惑星の周りを回っています。この壁紙は宇宙の神秘と探求の力強さを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, Stable Diffusion image of a futuristic space station orbiting a beautiful green and blue earth-like planet, in the style of Hubble telescope with epic space exploration art. Detailed lighting, soft, cinematic, with a focus on cosmic realism, and a sense of wonder. Use a blue and green color palette, and include swirling dust clouds and a ring of stars around the planet. , masterpiece, highly detailed, atmosphere: neon reflections, seed: 8796908",
+    "filename": "wallpaper_1790197931.jpg",
+    "date": "2026-09-23 21:13:20",
+    "timestamp": 1790197931,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790180179",
     "category": "minimalist",
     "category_name_en": "Minimalist",
