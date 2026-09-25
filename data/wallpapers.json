@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790307975",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Cinematic Minimalist",
+    "title_ja": "映画のようなミニマリスト",
+    "description_en": "A high-quality, breathtaking minimalist wallpaper depicting a solitary wooden pier leading into a vast, calm, misty white lake. Generated with state-of-the-art AI.",
+    "description_ja": "広大で穏やかな霧深い白い湖へと続く、一連の木製の桟橋を描いた、高品質で息をのむようなミニマリストの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a solitary wooden pier leading into a vast, calm, misty white lake, clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic, zen, 8k resolution, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8193957",
+    "filename": "wallpaper_1790307975.jpg",
+    "date": "2026-09-25 03:47:11",
+    "timestamp": 1790307975,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790284499",
     "category": "anime",
     "category_name_en": "Anime",
