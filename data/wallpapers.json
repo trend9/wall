@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790370773",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Metropolis Glow",
+    "title_ja": "サイバーパンク都市の光",
+    "description_en": "Step into a sprawling cyberpunk metropolis bathed in the neon glow of dusk, with flying cars zipping between towering skyscrapers. Experience the vibrant energy and thrilling atmosphere of this futuristic city.",
+    "description_ja": "夜間、超高層ビルが輝くサイバーパンク都市を探索。空中飛車も飛び交う。鮮やかな雰囲気と躍動感で、この都市の興奮を味わう",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k image of a sprawling cyberpunk metropolis at dusk, with flying cars zooming between skyscrapers. Rendered in the Synthwave aesthetic with vibrant neon glow, wet reflections, and cinematic lighting. Masterpiece, 8k, highly detailed, cinematic, octane render., masterpiece, highly detailed, atmosphere: neon reflections, seed: 2821770",
+    "filename": "wallpaper_1790370773.jpg",
+    "date": "2026-09-25 21:14:03",
+    "timestamp": 1790370773,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790354721",
     "category": "abstract",
     "category_name_en": "Abstract",
