@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790438277",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Warm Sun Dunes Minimalist",
+    "title_ja": "太陽と砂丘のミニマル抽象",
+    "description_en": "This serene wallpaper features a minimalist abstract composition of sun and dunes in warm pastel tones. The artwork evokes a sense of tranquility and simplicity.",
+    "description_ja": "静寂な壁紙に、暖色系のパステルカラーで描かれた太陽と砂丘のミニマル抽象的構成が描かれています。この作品は、穏やかな空気を表現し、シンプルながらも美しい美しさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A minimalist abstract composition of a sun radiating warmth against a backdrop of pastel dunes in a serene and calming scene. Nordic style minimalism, muted pastel color palette, soft shadows, and warm lighting, create a masterpiece, 8k, highly detailed, cinematic, vibrant, ethereal, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 2020256",
+    "filename": "wallpaper_1790438277.jpg",
+    "date": "2026-09-26 15:59:04",
+    "timestamp": 1790438277,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790420229",
     "category": "anime",
     "category_name_en": "Anime",
