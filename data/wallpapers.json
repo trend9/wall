@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790420229",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Ancient Shrine Entrance, Twilight Bloom",
+    "title_ja": "満開の古桜の下、神社入り口",
+    "description_en": "Experience the beauty of an anime shrine at twilight with blooming sakura trees.  This nostalgic artwork captures the essence of a magical moment in a hand-drawn style.",
+    "description_ja": "アニメ風の神社入り口を、満開の古桜の木の下で、夕暮れ時を表現した作品。ノスタルジックな雰囲気で、手描き風の表現で描かれた、魔法的な瞬間を表現しています。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, 8k, cinematic masterpiece, Studio Ghibli aesthetic, hand-drawn anime style, warm colors, vibrant lighting, beautiful bokeh, nostalgic, ancient shrine entrance, sakura tree, twilight, blooming flowers, stunning detail, soft lighting, magical atmosphere, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3380517",
+    "filename": "wallpaper_1790420229.jpg",
+    "date": "2026-09-26 10:58:04",
+    "timestamp": 1790420229,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790394843",
     "category": "nature",
     "category_name_en": "Nature",
