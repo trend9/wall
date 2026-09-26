@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790465147",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Neo-Retro Grids: A Digital Ocean",
+    "title_ja": "デジタル海: レトロウェーブのグリッド",
+    "description_en": "A swirling, vibrant grid of digital waves embodies the abstract essence of art, evoking nostalgia and boundless energy. This wallpaper brings a dynamic, mesmerizing presence to any space.",
+    "description_ja": "デジタル波の渦を表現した抽象的なアートは、ノスタルジーと無限のエネルギーを表現しています。この壁紙は、あらゆる空間へ活力を与えてくれます。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, digital art, an organic neon silk-like grid with swirling waves, retro-wave style, bold neon colors, ambient lighting, soft shadows, floating above, octane render, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 7426485",
+    "filename": "wallpaper_1790465147.jpg",
+    "date": "2026-09-26 23:26:51",
+    "timestamp": 1790465147,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790455496",
     "category": "space",
     "category_name_en": "Space",
