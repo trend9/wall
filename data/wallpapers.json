@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790455496",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Haven",
+    "title_ja": "宇宙の楽園",
+    "description_en": "Experience the breathtaking beauty of a futuristic space station orbiting a vibrant, Earth-like planet. Capture the sense of wonder and awe as you witness the vastness of space.",
+    "description_ja": "美しい緑と青の地球のような惑星の軌道を回る、未来的な宇宙ステーションを眺め、宇宙の広大さを体感しましょう。壮大な宇宙の神秘を感じる様子を、この作品で表現します。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic render, of a futuristic space station orbiting a beautiful green and blue Earth-like planet, with deep contrast, unreal engine 5 style, interstellar space, cosmic dust, and a sense of cosmic wonder. Include intricate details and a hyperrealistic quality., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5841983",
+    "filename": "wallpaper_1790455496.jpg",
+    "date": "2026-09-26 20:46:02",
+    "timestamp": 1790455496,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790438277",
     "category": "minimalist",
     "category_name_en": "Minimalist",
