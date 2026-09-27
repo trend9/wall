@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790526862",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Epic Anime",
+    "title_ja": "壮大なアニメ",
+    "description_en": "A high-quality, breathtaking anime wallpaper depicting a cozy anime-style study room with a window overlooking a summer sky and fluffy white clouds. Generated with state-of-the-art AI.",
+    "description_ja": "夏の空とふわふわした白い雲を見渡す窓がある、居心地の良いアニメ風の書斎を描いた、高品質で息をのむようなアニメの壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a cozy anime-style study room with a window overlooking a summer sky and fluffy white clouds, makoto shinkai style, gorgeous sky details, lens flare, vivid color grading, ethereal, wind blowing, high quality digital art, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 7637852",
+    "filename": "wallpaper_1790526862.jpg",
+    "date": "2026-09-27 16:35:33",
+    "timestamp": 1790526862,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790508796",
     "category": "nature",
     "category_name_en": "Nature",
