@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790711541",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Galaxy of a Million Stars",
+    "title_ja": "銀河の millions の星",
+    "description_en": "This wallpaper depicts a massive spiral galaxy, teeming with millions of twinkling stars against a backdrop of deep black space. The artwork captures the awe-inspiring beauty and cosmic grandeur of the universe.",
+    "description_ja": "この壁紙は、宇宙の深淵に何百万もの星が輝く巨大な渦巻銀河を表現しています。この作品は宇宙の壮大さと神秘的な美しさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic masterpiece 8k image of a massive spiral galaxy with millions of stars glowing bright in deep black space. Rendered in Unreal Engine 5 with realistic light effects, cosmic dust, and hyper-detailed render. Use a cyberpunk style, deep contrast, and a moody atmosphere.  #masterpiece #8k #highlydetailed #cinematic #realistic #space #galaxy #interstellar #cosmic #dark #beauty #inspiration, masterpiece, highly detailed, atmosphere: neon reflections, seed: 8777949",
+    "filename": "wallpaper_1790711541.jpg",
+    "date": "2026-09-29 19:53:30",
+    "timestamp": 1790711541,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790684237",
     "category": "minimalist",
     "category_name_en": "Minimalist",
