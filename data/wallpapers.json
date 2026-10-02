@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790962516",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Sakura Shrine Entrance at Twilight",
+    "title_ja": "夜桜の神社入り口",
+    "description_en": "Experience the tranquil beauty of a fictional anime shrine under a luminous cherry blossom tree at twilight, captured in a breathtakingly vibrant and ethereal scene.",
+    "description_ja": "幻想的なアニメ風の神社の入り口が、満開の古木の下に、美しい夕暮れに映し出された静寂な風景は、鮮やかな彩りとエtherealな雰囲気で表現された美しい画像である。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k Stable Diffusion artwork of a beautiful anime-style shrine entrance under a massive ancient sakura tree in full bloom at twilight, rendered in Makoto Shinkai style, with gorgeous skies and lens flares, vivid color grading, ethereal atmosphere, and wind blowing. The scene should be of master level quality, highly detailed, with a sense of wonder and magic. Tags: masterpiece, 8k, highly detailed, cinematic, anime, vibrant, ethereal, sakura, shrine, twilight, windblown, bokeh, lens flare, soft lighting, stunning, beautiful, dreamlike, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8903820",
+    "filename": "wallpaper_1790962516.jpg",
+    "date": "2026-10-02 17:35:54",
+    "timestamp": 1790962516,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790933317",
     "category": "nature",
     "category_name_en": "Nature",
