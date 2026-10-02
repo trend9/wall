@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1790901352",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Den: Hacker's Hideout",
+    "title_ja": "サイバーパンクのハッカーの隠れ家",
+    "description_en": "Dive into a futuristic hacker's den, bathed in neon glow and brimming with holographic screens. Experience the gritty, cyberpunk vibe in this atmospheric masterpiece.",
+    "description_ja": "サイバーパンクの世界で、ネオンの光とホログラフィックスクリーンが満ち溢れた、ハイテクなハッカーの隠れ家は、あなたを魅了するでしょう。このダークでgrittyな雰囲気を堪能できるでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k 8k masterpiece, image of a futuristic cyberpunk hacker den, neon glow, wet reflections, cinematic lighting, synthwave aesthetic, multiple holographic screens displaying complex data streams, dark and gritty atmosphere. Use octane render and high quality. #cyberpunk #hacking #future #neon #holograms #dark #cinematic #masterpiece #8k #highlydetailed #stablediffusion, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 6391263",
+    "filename": "wallpaper_1790901352.jpg",
+    "date": "2026-10-02 00:37:02",
+    "timestamp": 1790901352,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790885487",
     "category": "abstract",
     "category_name_en": "Abstract",
