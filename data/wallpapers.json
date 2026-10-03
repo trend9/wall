@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791042667",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Alleyway of the Future",
+    "title_ja": "未来の雨の路地裏",
+    "description_en": "Immerse yourself in a futuristic cyberpunk alleyway drenched in neon light. This image captures the vibrant colors and moody atmosphere of a rainy night.",
+    "description_ja": "未来の雨の路地裏に、ピンクとシアンのネオン看板が輝く、鮮やかな色合いの風景を堪能してください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a futuristic cyberpunk alleyway, heavily illuminated by pink and cyan neon signs. The alley is wet and glistening, reflecting the neon lights in the puddles. The image is rendered in an 8k resolution with realistic textures and cinematic lighting. Style: Futuristic synthwave aesthetic. Tags: masterpiece, 8k, highly detailed, cinematic, octane render, 8k, wet reflections, cyberpunk, neon, rain, alleyway, moody, vibrant colors, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 5815532",
+    "filename": "wallpaper_1791042667.jpg",
+    "date": "2026-10-03 15:51:46",
+    "timestamp": 1791042667,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791026054",
     "category": "abstract",
     "category_name_en": "Abstract",
