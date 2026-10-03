@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791000430",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Starbirth",
+    "title_ja": "宇宙星雲の星誕生",
+    "description_en": "Witness the beauty and power of a vibrant cosmic nebula, a breathtaking spectacle of glowing violet, blue, and gold dust clouds forming stars. This awe-inspiring artwork captures the vastness and wonder of the cosmos.",
+    "description_ja": "壮大な宇宙星雲の美しさと力を見よ。鮮やかなバイオレット、ブルー、ゴールドの宇宙塵の雲が星を形成する壮大なショー。この絶景作品は宇宙の広さと神秘を表現している",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece Stable Diffusion image,  epic space exploration art style, inspired by the Hubble telescope, cinematic lighting, with swirling violet, blue, and gold dust clouds forming stars against a dark background. The nebula should have a highly detailed and photorealistic look, emphasizing textures and cosmic rays. Use a cinematic lighting effect to create a dramatic and awe-inspiring scene., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 5049770",
+    "filename": "wallpaper_1791000430.jpg",
+    "date": "2026-10-03 04:08:17",
+    "timestamp": 1791000430,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1790978159",
     "category": "minimalist",
     "category_name_en": "Minimalist",
