@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791114836",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Astronaut in the Cosmic Dance",
+    "title_ja": "宇宙飛行士の宇宙舞",
+    "description_en": "This stunning wallpaper depicts an astronaut floating peacefully amidst the breathtaking expanse of deep space, surrounded by distant galaxies and vibrant nebulae. The image evokes a sense of peaceful contemplation and awe at the mysteries of the universe.",
+    "description_ja": "この美しい壁紙には、深い宇宙で静かに漂う宇宙飛行士の姿が描かれています。遠き銀河や鮮やかな塵が、宇宙の壮大なスケールを表現しています。この壁紙は、宇宙の神秘と宇宙の広大さを印象付けるものです。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion masterpiece 8k image of an astronaut floating in deep space, surrounded by vibrant nebulae and distant galaxies. Rendered in the style of Hubble telescope with cinematic lighting. Detailed textures, realistic and vibrant, photorealistic, masterpiece, 8k, highly detailed, cinematic, epic., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 5838066",
+    "filename": "wallpaper_1791114836.jpg",
+    "date": "2026-10-04 11:55:03",
+    "timestamp": 1791114836,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791088891",
     "category": "minimalist",
     "category_name_en": "Minimalist",
