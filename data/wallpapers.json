@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791174356",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Future City Dreams",
+    "title_ja": "未来の都市の夢",
+    "description_en": "Explore a vibrant, futuristic anime city with clean modern streets and towering skyscrapers. Immerse yourself in the ethereal beauty of this dreamlike world with vibrant colors and stunning sky details.",
+    "description_ja": "未来のアニメ都市の夢を見よう。清潔なモダンな道と高い建造物で構成された美しい都市を体験しよう。鮮やかな色合いと美しい空の描写が、幻想的な世界を表現する。",
+    "prompt": "[Colab Stable Diffusion] A majestic anime cityscape with clean modern streets, vibrant green foliage, and glistening high-tech monorail. Rendered in Makoto Shinkai's artistic style, featuring gorgeous sky details, lens flare, vivid color grading, and an ethereal atmosphere. Masterpiece, 8k, highly detailed, cinematic, dreamlike, vibrant, atmospheric., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 7995076",
+    "filename": "wallpaper_1791174356.jpg",
+    "date": "2026-10-05 04:26:48",
+    "timestamp": 1791174356,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791158040",
     "category": "nature",
     "category_name_en": "Nature",
