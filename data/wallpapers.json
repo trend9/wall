@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791263617",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Fluid Glass Ribbons in a Colorful Gradient",
+    "title_ja": "カラフルなグラデーションの背景を反射する、ループするガラスのリボンの魅惑的な3Dレンダリング",
+    "description_en": "This mesmerizing 3D render explores the interplay of flowing glass ribbons and vibrant color gradients. Witness the hypnotic beauty of liquid form and endless movement.",
+    "description_ja": "この魅惑的な3Dレンダリングは、流れゆくガラスリボンと鮮やかなグラデーションの色を探索しています。無限の動きと美しさをwitnessします。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k, cinematic render of a mesmerizing 3D animation, featuring looping glass ribbons in a vibrant colorful gradient background.  Focus on the organic shapes and fluid movement, use soft ambient lighting, and capture the beauty of premium graphic design. Masterpiece, high quality, detailed, texture focus, masterpiece, highly detailed, atmosphere: neon reflections, seed: 2614769",
+    "filename": "wallpaper_1791263617.jpg",
+    "date": "2026-10-06 05:14:26",
+    "timestamp": 1791263617,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791237175",
     "category": "space",
     "category_name_en": "Space",
