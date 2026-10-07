@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791367032",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sunset Palm Leaves on Clean Concrete",
+    "title_ja": "午後の太陽で作るヤシの葉の影",
+    "description_en": "This minimalist wallpaper features a clean concrete wall with elegant shadows of palm leaves cast by the afternoon sun. The serene scene evokes a sense of peace and simplicity.",
+    "description_ja": "このミニマルな壁紙は、午後太陽によって葉の影が浮かび上がる、クリーンなコンクリート壁に。静寂な風景は、穏やかさとシンプルさの美しさを表現している。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k image of a clean concrete wall, minimalist nordic style, muted pastel colors, soft shadows, with elegant shadows of palm leaves cast by the afternoon sun, cinematic lighting, masterpiece, highly detailed, realistic, soft focus, atmospheric, peaceful, serene., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1854855",
+    "filename": "wallpaper_1791367032.jpg",
+    "date": "2026-10-07 09:58:23",
+    "timestamp": 1791367032,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791332737",
     "category": "anime",
     "category_name_en": "Anime",
