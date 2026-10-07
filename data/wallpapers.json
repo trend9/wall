@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791398029",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Oasis",
+    "title_ja": "宇宙の楽園",
+    "description_en": "Explore the majesty of a futuristic space station orbiting a breathtakingly beautiful Earth-like planet. This epic scene captures the awe and wonder of space exploration.",
+    "description_ja": "未来的な宇宙ステーションが美しい緑と青の地球のような惑星の軌道を回る様子を捉えた、壮大な宇宙の探検風景。宇宙の神秘と美しさを感じられるでしょう。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, Stable Diffusion image of a futuristic space station orbiting a beautiful green and blue Earth-like planet. Utilize Hubble telescope style, with epic lighting and realistic cosmic rendering. Show the vastness of space and the station's intricate details. Emphasize epic scale, cinematic depth, and stunning atmosphere., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1291235",
+    "filename": "wallpaper_1791398029.jpg",
+    "date": "2026-10-07 18:34:41",
+    "timestamp": 1791398029,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791367032",
     "category": "minimalist",
     "category_name_en": "Minimalist",
