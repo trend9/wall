@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791540671",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf with Dewdrop",
+    "title_ja": "緑の葉と水滴",
+    "description_en": "This image features a single green leaf with a single water droplet resting on a clean, soft beige background. The peaceful atmosphere and minimalist design evoke serenity and tranquility.",
+    "description_ja": "この画像には、柔らかいベージュの背景に、1枚の葉と水滴が描かれている。静かでシンプルなデザインは、穏やかさと落ち着きを表現している。",
+    "prompt": "[Colab Stable Diffusion] An 8k, highly detailed, cinematic, masterpiece Stable Diffusion image of a single green leaf with a single water droplet resting on a clean, soft beige background. The scene features a serene and minimalist style, with muted pastel colors and soft shadows. The image has a dreamy and atmospheric quality, evoking a sense of peace and tranquility., masterpiece, highly detailed, atmosphere: neon reflections, seed: 3713750",
+    "filename": "wallpaper_1791540671.jpg",
+    "date": "2026-10-09 10:12:18",
+    "timestamp": 1791540671,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791507747",
     "category": "anime",
     "category_name_en": "Anime",
