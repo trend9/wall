@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791569041",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Serene Space",
+    "title_ja": "静寂な宇宙",
+    "description_en": "A high-quality, breathtaking space wallpaper depicting a stunning cosmic nebula with vibrant violet, blue and gold dust clouds forming stars. Generated with state-of-the-art AI.",
+    "description_ja": "星を形成する鮮やかなバイオレット、ブルー、ゴールドの宇宙塵の雲を持つ、見事な宇宙星雲を描いた、高品質で息をのむような宇宙の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] a stunning cosmic nebula with vibrant violet, blue and gold dust clouds forming stars, epic space exploration art, Hubble telescope style, highly detailed cosmic rendering, cinematic lighting, photorealistic, 8k, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 169699",
+    "filename": "wallpaper_1791569041.jpg",
+    "date": "2026-10-09 18:05:05",
+    "timestamp": 1791569041,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791540671",
     "category": "minimalist",
     "category_name_en": "Minimalist",
