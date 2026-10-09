@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791507747",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Cozy Anime Study Room",
+    "title_ja": "アニメ風の書斎",
+    "description_en": "Escape to a peaceful study room with a summer sky vista, where the warm colors and nostalgic atmosphere create a cozy retreat.",
+    "description_ja": "夏の空とふわふわした白い雲を見渡す窓がある、居心地の良いアニメ風の書斎で、温かな色合いや懐かしさを味わってください。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion artwork in the style of Studio Ghibli, a hand-drawn anime illustration, showcasing a cozy anime-style study room with a window overlooking a summer sky filled with fluffy white clouds.  The atmosphere should be warm and nostalgic with beautiful lighting. The artwork should be rendered in 8k resolution with a cinematic feel and artistic detail. Tags: masterpiece, 8k, highly detailed, cinematic, anime study, summer sky, fluffy clouds, studio ghibli, hand-drawn, nostalgic, warm colors, beautiful lighting, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1070138",
+    "filename": "wallpaper_1791507747.jpg",
+    "date": "2026-10-09 01:03:33",
+    "timestamp": 1791507747,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791484350",
     "category": "nature",
     "category_name_en": "Nature",
