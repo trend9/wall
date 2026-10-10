@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791666993",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Neon Metropolis Dreamscape",
+    "title_ja": "未来都市の夢",
+    "description_en": "Explore a futuristic anime city with clean modern streets, lush greenery, and towering monorails. Experience a breathtaking blend of vibrant color and ethereal beauty.",
+    "description_ja": "未来のアニメ都市で、洗練されたモダンな道路、緑豊かな木々、そして高層 monorail が存在する。鮮やかな色と幻想的な美しさで、魅惑的な風景を堪能してください。",
+    "prompt": "[Colab Stable Diffusion] A stunning, highly detailed 8k artwork in the Makoto Shinkai style, showcasing a futuristic anime city with clean modern streets, lush green foliage, and a majestic high-tech monorail. Rendered with breathtaking realism, the image features soft, cinematic lighting, a breathtaking sky with ethereal details, and a gentle breeze.  Keywords: masterpiece, 8k, highly detailed, cinematic, vibrant, ethereal, dynamic, lens flare, anime, makoto shinkai, city, street, foliage, monorail, glowing, dreamlike, atmosphere, beautiful, urban, futuristic, anime wallpaper, desktop wallpaper, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 3038953",
+    "filename": "wallpaper_1791666993.jpg",
+    "date": "2026-10-10 21:17:26",
+    "timestamp": 1791666993,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791651871",
     "category": "nature",
     "category_name_en": "Nature",
