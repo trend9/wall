@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791624784",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Street Market",
+    "title_ja": "光るストリートマーケット",
+    "description_en": "Immerse yourself in a vibrant cyberpunk street market, teeming with glowing food stalls and the robotic presence of vendors, all under a neon-soaked sky. This scene captures the gritty, futuristic beauty of the genre.",
+    "description_ja": "鮮やかなサイバーパンクの街角、光る屋台とロボットの売り手たちが夜に賑わう様子を目に焼き付けます。このシーンは、その独特の美しさを表現した、grittyな未来の風景を描いています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k image of a cyberpunk street market rendered in the style of Octane render. The scene is awash with vibrant neon lights and wet reflections, featuring detailed robotic vendors selling glowing street food. The atmosphere is gritty and immersive, with a cinematic lighting scheme. Tags: masterpiece, 8k, highly detailed, cinematic, octane render, cyberpunk, futuristic, neon glow, wet reflections, street food, robotic, vibrant, immersive, gritty, cyberpunk aesthetic, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3568702",
+    "filename": "wallpaper_1791624784.jpg",
+    "date": "2026-10-10 09:34:10",
+    "timestamp": 1791624784,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791592357",
     "category": "abstract",
     "category_name_en": "Abstract",
