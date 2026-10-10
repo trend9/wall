@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791651871",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Sunrise Mist in a Pine Forest",
+    "title_ja": "霧深い松林の朝日の光",
+    "description_en": "Immerse yourself in a serene, misty pine forest bathed in the warm, golden light of sunrise. The breathtaking scene evokes a sense of tranquility and wonder.",
+    "description_ja": "霧深い松林に、朝日の光が差し込む静かな風景。この美しい光景は、落ち着きと神秘さを呼び起こします。",
+    "prompt": "[Colab Stable Diffusion] A breathtaking, highly detailed, cinematic masterpiece 8k image of a serene, misty pine forest at sunrise. Soft golden light filters through the trees, creating a dreamlike atmosphere. The image is styled in the style of National Geographic photography with realistic textures and details. Masterpiece, 8k, highly detailed, cinematic, National Geographic style, sunrise, misty pine forest., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 2748280",
+    "filename": "wallpaper_1791651871.jpg",
+    "date": "2026-10-10 17:05:38",
+    "timestamp": 1791651871,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791624784",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
