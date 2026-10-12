@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791838962",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Magic on a Peaceful Hill",
+    "title_ja": "魔法の星空が立つ静かな田舎の丘",
+    "description_en": "Experience a magical starry night sky on a peaceful countryside hill, illuminated by a single glowing tree. This artwork evokes a sense of wonder and serenity.",
+    "description_ja": "静かな田舎の丘の上で、魔法のような星空が輝く。光る木が映し出されるこの絵は、神秘と安らぎを表現している。",
+    "prompt": "[Colab Stable Diffusion] A makoto shinkai style artwork, 8k, highly detailed, cinematic, masterpiece, stable diffusion, starry night sky, glowing tree, peaceful countryside hill, lens flare, vivid color grading, ethereal, wind blowing, soft lighting, warm tones, serene atmosphere., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4251931",
+    "filename": "wallpaper_1791838962.jpg",
+    "date": "2026-10-12 21:03:49",
+    "timestamp": 1791838962,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791800465",
     "category": "nature",
     "category_name_en": "Nature",
