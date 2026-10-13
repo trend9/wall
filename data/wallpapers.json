@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791858800",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Pastel Mountains, Sunlit Skyline",
+    "title_ja": "淡い太陽の下に広がる、シンプルな山脈のシルエット",
+    "description_en": "A serene and simple mountain range silhouette bathed in a pale sun, creating a minimalist masterpiece of beauty and tranquility.  This artwork evokes a sense of peace and serenity.",
+    "description_ja": "穏やかな太陽の下に、シンプルながらも美しい山脈のシルエットが描かれています。静寂と美しさを感じさせ、心を落ち着かせる作品です。",
+    "prompt": "[Colab Stable Diffusion] A minimalist Nordic style illustration of a pastel colored mountain range silhouette bathed in soft, ethereal sunlight.  The scene is rendered with clean lines and soft shadows, conveying a sense of serenity and simplicity. This masterpiece is 8k, highly detailed, cinematic, and perfect for desktop wallpaper.  The image should feature a calm and tranquil atmosphere., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 6430924",
+    "filename": "wallpaper_1791858800.jpg",
+    "date": "2026-10-13 02:33:55",
+    "timestamp": 1791858800,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791838962",
     "category": "anime",
     "category_name_en": "Anime",
