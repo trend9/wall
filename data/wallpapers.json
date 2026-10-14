@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1791987826",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Sunset Steampunk Airship in Clouds",
+    "title_ja": "雲海に浮かぶスチームパンク飛行船",
+    "description_en": "Witness the majestic grace of an industrial retro-futuristic steampunk airship floating gracefully through a sea of clouds at sunset. The ethereal atmosphere invites you to ponder the vastness of possibility and the beauty of the unknown.",
+    "description_ja": "夕暮れの雲海に漂う、インダストリアルでレトロフューチャーなスチームパンクの飛行船。そのエtherealな雰囲気は、人々を宇宙の広大さと可能性への希望に導きます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k, cinematic masterpiece, of an industrial retro-futuristic steampunk airship, floating gracefully in a sea of clouds at sunset, rendered in a makoto shinkai style with gorgeous sky details, lens flare, vivid color grading, ethereal atmosphere, and wind blowing. The image should be highly realistic and detailed., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 7735009",
+    "filename": "wallpaper_1791987826.jpg",
+    "date": "2026-10-14 14:24:55",
+    "timestamp": 1791987826,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1791966487",
     "category": "nature",
     "category_name_en": "Nature",
