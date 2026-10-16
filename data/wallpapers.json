@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792147938",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaos and Beauty: A Geometric Explosion",
+    "title_ja": "幾何学的な爆発における混沌と美しさ",
+    "description_en": "Dive into a mesmerizing explosion of colorful smoke waves and geometric crystal shards, a chaotic yet beautifully rendered abstract art piece. Experience the vibrant energy and intricate details of this modern abstract art.",
+    "description_ja": "カラフルな煙の波と幾何学的な結晶の破片が、混沌ながらも美しい爆発。抽象的なアートの世界に飛び込みましょう。鮮やかなエネルギーと複雑な詳細が楽しめる。",
+    "prompt": "[Colab Stable Diffusion] A modern abstract art piece, vibrant color palette, high-fidelity textures, 3D digital render, creative wallpaper, octane render, 8k, masterpiece, 8k, highly detailed, cinematic, geometric crystals, smoke waves, chaotic, explosion, vibrant, abstract art, colorful, dynamic lighting, dramatic atmosphere, intricate details, high resolution, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 5465415",
+    "filename": "wallpaper_1792147938.jpg",
+    "date": "2026-10-16 10:53:14",
+    "timestamp": 1792147938,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792121218",
     "category": "space",
     "category_name_en": "Space",
