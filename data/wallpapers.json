@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792337430",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "A Distant Ringed Exoplanet",
+    "title_ja": "遠くの輪を持つ系外惑星",
+    "description_en": "Experience the awe-inspiring beauty of a distant, ringed exoplanet rising above the barren landscape of an alien moon. This epic space exploration art captures the vastness of space and evokes a sense of mystery and wonder.",
+    "description_ja": "遠くの輪を持つ系外惑星の景観が、無機質なエイリアンの月の地平線上に昇る様子を表現した作品は、宇宙の広大さを体感させ、神秘と好奇心を呼び起こします。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic lighting, photorealistic rendering, Stable Diffusion, of a distant ringed exoplanet rising above the horizon of a barren alien moon landscape.  Subject should be in the style of Hubble telescope imagery.  Art style is epic space exploration art.  Atmospheric lighting should create a sense of vastness and wonder.  Tags: masterpiece, 8k, highly detailed, cinematic, photorealism, Hubble, space exploration, epic,  alien, desolate, ringed planet, exoplanet, distant, horizon, moon, alien landscape, cosmic, nebula, galaxy, interstellar, science fiction, awe, wonder., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4143347",
+    "filename": "wallpaper_1792337430.jpg",
+    "date": "2026-10-18 15:31:11",
+    "timestamp": 1792337430,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792319579",
     "category": "minimalist",
     "category_name_en": "Minimalist",
