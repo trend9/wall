@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792441588",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Green Leaf with Waterdrop Serenity",
+    "title_ja": "緑の葉と水滴の静寂",
+    "description_en": "This image showcases a single green leaf adorned with a water droplet, creating a serene and minimalist aesthetic. Soft shadows and muted pastel colors enhance the tranquility of the scene.",
+    "description_ja": "この画像には、一葉の緑の葉に水滴がついた静寂的な美しさが表現されています。柔らかい影と淡いパステルカラーは、その静寂に深みを与えています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k image of a single green leaf with a single water droplet on a clean, soft beige background. Rendered in the Nordic style minimalism aesthetic with muted pastel color palette, soft shadows, and a serene atmosphere.  Masterpiece, highly detailed, cinematic, 8k, 4k, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4653485",
+    "filename": "wallpaper_1792441588.jpg",
+    "date": "2026-10-19 20:27:36",
+    "timestamp": 1792441588,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792412530",
     "category": "anime",
     "category_name_en": "Anime",
