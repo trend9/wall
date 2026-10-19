@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792380844",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Alpine Majesty",
+    "title_ja": "高山湖の雄大な雪景色",
+    "description_en": "Immerse yourself in the breathtaking beauty of snow-capped peaks reflecting in a pristine alpine lake. This majestic scene exudes tranquility and awe.",
+    "description_ja": "澄み切った高山湖に完璧に映り込む、雄大な雪を頂いた山の頂。この壮大な風景は、静寂と畏敬の念を呼び起こします。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, photorealistic image of a majestic snow-capped mountain peak reflecting perfectly in a crystal-clear alpine lake, capturing the beauty of nature with soft lighting and award-winning composition. The scene should evoke a sense of awe and tranquility, with a cinematic quality, masterfully crafted in 8K, masterpiece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 8280469",
+    "filename": "wallpaper_1792380844.jpg",
+    "date": "2026-10-19 03:35:09",
+    "timestamp": 1792380844,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792363850",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
