@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792454973",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Future Station in Orbit",
+    "title_ja": "未来的な宇宙ステーションの軌道を回る",
+    "description_en": "Explore a futuristic space station in orbit around a captivating Earth-like planet. Experience the awe-inspiring beauty and wonder of the cosmos. ",
+    "description_ja": "未来的な宇宙ステーションが美しい地球のような惑星の周りを orbit する様子を眺めてみましょう。宇宙の壮大な美しさを感じ取りましょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, masterfully crafted Stable Diffusion artwork, in the style of unreal engine 5, of a futuristic space station orbiting a beautiful green and blue Earth-like planet. Deep contrast, interstellar space, cosmic dust, and a sense of awe and wonder.  8k, highly detailed, masterpiece, cinematic., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 4074031",
+    "filename": "wallpaper_1792454973.jpg",
+    "date": "2026-10-20 00:10:13",
+    "timestamp": 1792454973,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792441588",
     "category": "minimalist",
     "category_name_en": "Minimalist",
