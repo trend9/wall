@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792601134",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaos & Beauty in a Smoke Burst",
+    "title_ja": "煙の爆発における混沌と美しさ",
+    "description_en": "Experience the mesmerizing beauty of a chaotic yet vibrant explosion of colorful smoke waves and geometric crystal shards. This artwork captures the energy and wonder of nature's own dynamism, evoking a sense of awe and wonder.",
+    "description_ja": "鮮やかな煙の波と幾何学的な結晶の破片が、混沌と美しい爆発の様相を描き出す。この作品は自然の力強さを表現し、圧倒される美しさを表現している。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece, featuring an explosive chaos of vibrant, colorful smoke waves and geometric crystal shards, rendered on a textured canvas with organic shapes and fluid movement. The lighting should be soft and ethereal, highlighting the beauty and grandeur of the scene. Use a high-contrast, dramatic atmosphere to create a visually stunning and immersive artwork. Tags: masterpiece, 8k, highly detailed, cinematic, texture, organic, fluid, vibrant, ethereal, dramatic, explosion, chaos, beauty., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 2425013",
+    "filename": "wallpaper_1792601134.jpg",
+    "date": "2026-10-21 16:46:44",
+    "timestamp": 1792601134,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792581563",
     "category": "space",
     "category_name_en": "Space",
