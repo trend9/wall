@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792581563",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Peace in Space",
+    "title_ja": "宇宙の静寂",
+    "description_en": "This wallpaper depicts an astronaut floating peacefully in deep space, surrounded by distant galaxies and colorful dust, capturing a sense of calm and awe in the vast cosmos.  ",
+    "description_ja": "宇宙の静寂を表現した、宇宙飛行士が深宇宙を漂う様子を描いた画像。",
+    "prompt": "[Colab Stable Diffusion] A detailed Stable Diffusion prompt for an epic space exploration wallpaper, inspired by Hubble telescope style.  Highly detailed, cinematic lighting, photorealistic 8k render with a sense of awe-inspiring vastness. Subject is an astronaut in deep space, surrounded by distant galaxies and colorful dust. Art style: epic space exploration art, inspired by Hubble telescope, cinematic lighting, photorealistic, 8k masterpiece, highly detailed, masterpiece, 8k, cinematic, photorealistic, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3156805",
+    "filename": "wallpaper_1792581563.jpg",
+    "date": "2026-10-21 11:20:34",
+    "timestamp": 1792581563,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792553736",
     "category": "minimalist",
     "category_name_en": "Minimalist",
