@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792640132",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Serene Nature",
+    "title_ja": "静寂な自然",
+    "description_en": "A high-quality, breathtaking nature wallpaper depicting an epic sunset over a calm ocean with vibrant pink, purple, and orange clouds. Generated with state-of-the-art AI.",
+    "description_ja": "鮮やかなピンク、紫、オレンジ色の雲が広がる、穏やかな海に沈む壮大な夕日を描いた、高品質で息をのむような自然の壁紙画像。最先端のAIによって生成されました。",
+    "prompt": "[Colab Stable Diffusion] an epic sunset over a calm ocean with vibrant pink, purple, and orange clouds, breathtaking nature photography, soft lighting, award-winning, highly detailed, realistic, National Geographic style, 8k, masterpiece, highly detailed, atmosphere: neon reflections, seed: 3355879",
+    "filename": "wallpaper_1792640132.jpg",
+    "date": "2026-10-22 03:36:46",
+    "timestamp": 1792640132,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792617702",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
