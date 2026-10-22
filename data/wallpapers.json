@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792687560",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Mountain Silhouette Sunset",
+    "title_ja": "山脈のシルエット、夕焼け",
+    "description_en": "This minimalist wallpaper features a serene mountain range silhouette bathed in the soft glow of a setting sun.  A peaceful mood is created with clean lines and subtle textures.",
+    "description_ja": "このミニマリストな壁紙は、夕焼けに輝く静寂な山脈のシルエットを映し出す。シンプルな線と微妙な質感で、穏やかな雰囲気を作り出す。",
+    "prompt": "[Colab Stable Diffusion] A minimalist, clean-line illustration of a pastel-colored mountain range silhouette with a subtle sun glow, in an 8k, highly detailed, cinematic style.  Light should be coming from the right, with a soft, warm sunset glow. The mountain range should have a clean and elegant silhouette, with a calm atmosphere. Use soft, subtle textures for the mountains and a pale sky background.  This artwork should be a masterpiece, with high-resolution, 8k quality, and a cinematic, almost dreamlike aesthetic.  #masterpiece #8k #highlydetailed #cinematic #minimalism #sunset #mountain #landscape #wallpaper, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 9374444",
+    "filename": "wallpaper_1792687560.jpg",
+    "date": "2026-10-22 16:46:42",
+    "timestamp": 1792687560,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792667848",
     "category": "anime",
     "category_name_en": "Anime",
