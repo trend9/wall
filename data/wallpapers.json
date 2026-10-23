@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792789594",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Future City Dreams",
+    "title_ja": "未来都市の夢",
+    "description_en": "Explore a futuristic anime city with clean modern streets, lush greenery, and high-tech monorail. Experience a nostalgic yet beautiful mood in this highly detailed illustration.",
+    "description_ja": "未来都市の cleanな道、緑の樹木、ハイテクなモノレールがある、懐かしいながらも美しい雰囲気のアニメーションの風景を表現した、高度なイラストで表現した作品。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k masterpiece illustration of a futuristic anime city with clean modern streets, green foliage, and a vibrant high-tech monorail system. Studio Ghibli-esque art style with warm, nostalgic lighting. Focus on the beauty of the cityscape, including the detail of the buildings, trees, and monorail. Use a vibrant color palette and soft shadows to evoke a sense of wonder and nostalgia., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 6494373",
+    "filename": "wallpaper_1792789594.jpg",
+    "date": "2026-10-23 21:07:41",
+    "timestamp": 1792789594,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792773411",
     "category": "nature",
     "category_name_en": "Nature",
