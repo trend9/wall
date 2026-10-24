@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792837535",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Convergence",
+    "title_ja": "宇宙星雲の融合",
+    "description_en": "Experience the breathtaking beauty of a cosmic nebula teeming with vibrant violet, blue and gold dust clouds, where stars are born. This stunning artwork captures the raw power and wonder of the universe.",
+    "description_ja": "宇宙星雲に鮮やかなバイオレット、ブルー、ゴールドの宇宙塵が融合する壮大な光景を体験してください。この素晴らしい作品は宇宙の raw な力と魅力を表現しています。",
+    "prompt": "[Colab Stable Diffusion] Masterpiece, 8k, highly detailed, cinematic, unreal engine 5 render, interstellar space, cosmic dust, vibrant violet, blue and gold nebula, swirling dust clouds, forming stars, deep contrast, hyperrealistic, dark background, ethereal glow, cosmic wonder, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4860676",
+    "filename": "wallpaper_1792837535.jpg",
+    "date": "2026-10-24 10:26:42",
+    "timestamp": 1792837535,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792812919",
     "category": "minimalist",
     "category_name_en": "Minimalist",
