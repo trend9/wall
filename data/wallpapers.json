@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792882671",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Sunset Majesty Over Ocean",
+    "title_ja": "海に沈む壮大な夕日",
+    "description_en": "Witness the breathtaking beauty of a sunset over a tranquil ocean as vibrant clouds explode with hues of pink, purple, and orange. This epic scene evokes a sense of peace and awe.",
+    "description_ja": "静かな海に、鮮やかなピンク、紫、オレンジ色の雲が広がる壮大な夕日を見つめる。この壮大な風景は、穏やかさと畏敬の念を同時に感じさせてくれる。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, ethereal landscape, sunset over calm ocean, vibrant pink, purple, orange clouds, soft focus, cinematic depth of field, magical realism, glowing light, warm colors, dreamy atmosphere, photorealistic, trending on artstation, masterpiece, highly detailed, atmosphere: neon reflections, seed: 2274759",
+    "filename": "wallpaper_1792882671.jpg",
+    "date": "2026-10-24 22:58:59",
+    "timestamp": 1792882671,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792873334",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
