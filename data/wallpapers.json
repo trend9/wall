@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792942873",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Starburst",
+    "title_ja": "宇宙星雲の輝き",
+    "description_en": "This mesmerizing AI-generated wallpaper features a stunning cosmic nebula, swirling with vibrant violet, blue, and gold dust clouds. Witness the beauty of star formation and feel the depth of interstellar space.",
+    "description_ja": "壮大な宇宙星雲に、鮮やかなバイオレット、ブルー、ゴールドの宇宙塵の雲が渦巻いています。この壁紙は、宇宙空間の深さと星雲の輝きを表現した、魅惑的な空間を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, interstellar space, stunning cosmic nebula with vibrant violet, blue, and gold dust clouds, swirling with stars forming, unreal engine 5 render, deep contrast, hyper-realistic, futuristic, cosmic dust, 4k, 8k, cinematic, unreal engine 5 render, masterpiece, highly detailed, atmosphere: neon reflections, seed: 5799845",
+    "filename": "wallpaper_1792942873.jpg",
+    "date": "2026-10-25 15:42:20",
+    "timestamp": 1792942873,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792925638",
     "category": "minimalist",
     "category_name_en": "Minimalist",
