@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792969483",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon City Hideaway",
+    "title_ja": "光るホログラフィック画面の隠れ家",
+    "description_en": "Experience the immersive allure of a high-tech cyberpunk hacker den with multiple glowing holographic screens, shrouded in dramatic contrast and volumetric fog. Immerse yourself in the dark and thrilling atmosphere of this secret hideaway.",
+    "description_ja": "高度なサイバーパンクのハッカーの隠れ家を見学。複数の光るホログラフィック画面が、鮮やかなカラーと影で表現されている。暗闇の中で、秘密の隠れ家を探検しましょう。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic render of a cyberpunk hacker den with multiple glowing holographic screens in a neon-lit, volumetric fog-filled setting. The scene should be rendered in the Blade Runner aesthetic with dramatic contrast and realistic textures. Focus on the intricate details of the futuristic equipment, the shadowy figures lurking in the corner, and the eerie glow of the holographic displays. Tags: cyberpunk 2077,  blade runner, realistic, neon, volumetric fog,  dark, moody, cinematic., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 9363577",
+    "filename": "wallpaper_1792969483.jpg",
+    "date": "2026-10-25 23:05:53",
+    "timestamp": 1792969483,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792960170",
     "category": "abstract",
     "category_name_en": "Abstract",
