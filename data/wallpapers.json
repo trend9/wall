@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792960170",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Torn Textures & Metallic Gold Splatter",
+    "title_ja": "破れたテクスチャと金色のペイントの飛沫",
+    "description_en": "This abstract wallpaper features a dynamic collage of torn textures, colorful brush strokes, and metallic gold paint splatters, creating a captivating visual tapestry of motion and energy.  Experience a visual masterpiece with this stunning piece.",
+    "description_ja": "この抽象的な壁紙は、破れたテクスチャ、カラフルなブラシストローク、金属的な金色のペイントの飛沫が組み合わされ、動きの美しさとエネルギーの表現を演出するダイナミックなコラージュです。この作品は、素晴らしい視覚的な作品を堪能できるでしょう。",
+    "prompt": "[Colab Stable Diffusion] A dynamic collage of torn textures, colorful brush strokes, and metallic gold paint splatters, on a textured canvas with a high-definition, cinematic lighting. The subject should have organic shapes and fluid movement, creating a masterpiece of abstract art. Use high-resolution 8k, highly detailed, and artistic lighting, with a sense of depth, volume, and realism.  Tags: masterpiece, 8k, highly detailed, cinematic, abstract, art, dynamic, texture, gold, vibrant, energy, motion, beauty, visual art, wallpaper, masterpiece, highly detailed, atmosphere: neon reflections, seed: 4066909",
+    "filename": "wallpaper_1792960170.jpg",
+    "date": "2026-10-25 20:30:28",
+    "timestamp": 1792960170,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792942873",
     "category": "space",
     "category_name_en": "Space",
