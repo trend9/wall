@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792925638",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Pier into Mist",
+    "title_ja": "霧深い白い湖へ続く桟橋",
+    "description_en": "This minimalist desktop wallpaper depicts a solitary wooden pier leading into a vast, calming, misty white lake. The serene scene evokes a sense of quiet solitude and peaceful beauty.",
+    "description_ja": "このミニマリストのデスクトップWallpaperは、穏やかな霧深い白い湖に続く一連の木製の桟橋を描いています。静寂な空間と穏やかな美しさを感じさせます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a minimalist, nordic style wooden pier leading into a vast, misty white lake. The pier is illuminated by soft, ethereal morning light with a slight mist and fog. The scene is in muted pastel colors with soft shadows.  Tags: masterpiece, 8k, highly detailed, cinematic, minimal, nordic style, mist, serene, beautiful, quiet, solitude, masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 5016094",
+    "filename": "wallpaper_1792925638.jpg",
+    "date": "2026-10-25 10:54:53",
+    "timestamp": 1792925638,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792899061",
     "category": "anime",
     "category_name_en": "Anime",
