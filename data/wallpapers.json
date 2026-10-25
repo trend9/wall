@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792899061",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Magical Night Sky Over a Peaceful Countryside",
+    "title_ja": "魔法の夜空が立つ静かな田舎の丘",
+    "description_en": "Witness a peaceful countryside hill bathed in a magical starry night sky, illuminated by the glow of a single glowing tree. Capture the nostalgic and beautiful atmosphere.",
+    "description_ja": "静かな田舎の丘に、魔法のような星空が灯り、一本の光る木だけが輝く。ノスタルジックで美しい雰囲気を感じられるだろう。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, cinematic 8k illustration in the style of Studio Ghibli, of a magical starry night sky over a peaceful countryside hill, with a single glowing tree illuminating the scene. Warm colors, nostalgic feel, beautiful lighting, soft focus, masterpiece, highly detailed, cinematic, 8k., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5198083",
+    "filename": "wallpaper_1792899061.jpg",
+    "date": "2026-10-25 03:32:07",
+    "timestamp": 1792899061,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792882671",
     "category": "nature",
     "category_name_en": "Nature",
