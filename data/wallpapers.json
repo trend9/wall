@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1792985620",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Alpine Majesty",
+    "title_ja": "高山湖の雄大さ",
+    "description_en": "Captivating images of majestic snow-capped mountains reflecting perfectly in a crystal-clear alpine lake capture the breathtaking beauty of nature's grandeur.",
+    "description_ja": "壮大な雪 capped 山々が、澄み切った高山湖に完璧に映り込む様子は、自然の雄大な美しさを表現する美しい画像です。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of majestic snow-capped mountain peaks reflecting perfectly in a crystal-clear alpine lake, rendered in a breathtaking nature photography style, with soft lighting, award-winning quality, highly detailed, and cinematic lighting, 8k, masterpiece, breathtaking, National Geographic style, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 2496392",
+    "filename": "wallpaper_1792985620.jpg",
+    "date": "2026-10-26 03:34:44",
+    "timestamp": 1792985620,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1792969483",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
