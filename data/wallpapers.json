@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793090599",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Glass Ribbons Reflecting Gradient",
+    "title_ja": "ガラスリボンがグラデーションを反射する",
+    "description_en": "This captivating 3D render features mesmerizing glass ribbons reflecting a vibrant gradient background. The swirling ribbons create a sense of movement and dynamism.",
+    "description_ja": "この魅惑的な3Dレンダリングでは、ガラスリボンがグラデーションの背景を反射しています。渦巻くリボンは動きとダイナミズムを生み出します。",
+    "prompt": "[Colab Stable Diffusion] A short, evocative English title (4-7 words, no quotes), a beautiful Japanese translation of the title (natural Japanese, no quotes), an engaging 2-sentence English description for SEO (mention the subject and mood), a natural Japanese translation of the description, a highly detailed Stable Diffusion prompt in English. Include the subject, art style, lighting, atmosphere, and quality tags like 'masterpiece, 8k, highly detailed, cinematic'. Make it vivid and specific., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1934086",
+    "filename": "wallpaper_1793090599.jpg",
+    "date": "2026-10-27 08:44:28",
+    "timestamp": 1793090599,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793060282",
     "category": "space",
     "category_name_en": "Space",
