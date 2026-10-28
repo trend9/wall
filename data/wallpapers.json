@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793161341",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Future Metropolis Dreamscape",
+    "title_ja": "未来都市の夢",
+    "description_en": "Experience the beauty of a futuristic anime city with clean modern streets, lush green foliage, and soaring high-tech monorails. The captivating visuals capture the wonder and serenity of this dreamlike world.",
+    "description_ja": "未来都市の美しい風景を堪能する。 Cleanなモダンな街路、緑の木々、そして高性能のモノレールが、このアニメ都市の幻想的な世界を映し出す。",
+    "prompt": "[Colab Stable Diffusion] A breathtaking masterpiece, 8k, highly detailed, cinematic anime wallpaper featuring a futuristic city with clean modern streets, lush green foliage, and soaring high-tech monorail. The image should be rendered in a Makoto Shinkai style with gorgeous sky details, lens flare, vivid color grading, ethereal atmosphere, and flowing wind effects. Quality tags: masterpiece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8856503",
+    "filename": "wallpaper_1793161341.jpg",
+    "date": "2026-10-28 04:23:14",
+    "timestamp": 1793161341,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793138067",
     "category": "nature",
     "category_name_en": "Nature",
