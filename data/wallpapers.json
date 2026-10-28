@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793218157",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Starbirth",
+    "title_ja": "宇宙星雲の誕生",
+    "description_en": "Witness the breathtaking birth of stars within a swirling cosmic nebula.  Its vibrant violet, blue, and gold dust clouds paint a mesmerizing display of cosmic wonder.",
+    "description_ja": "壮大な宇宙星雲の誕生を目に焼き付けてください。鮮やかなバイオレット、ブルー、ゴールドの宇宙塵の雲が星を生み出す壮大なショーを見せてくれます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a cosmic nebula, inspired by the Hubble telescope, showcasing a swirling galaxy of vibrant violet, blue, and gold dust clouds that form stunning stars. Rendered in a photorealistic style with epic lighting and atmospheric depth. Focus on the intricate details, intricate dust formations, and cosmic scale of the nebula., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 1086857",
+    "filename": "wallpaper_1793218157.jpg",
+    "date": "2026-10-28 20:10:29",
+    "timestamp": 1793218157,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793189892",
     "category": "minimalist",
     "category_name_en": "Minimalist",
