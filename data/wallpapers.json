@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793353345",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Sunbeams and Dunes",
+    "title_ja": "太陽と砂丘",
+    "description_en": "This minimalist wallpaper features a sun-drenched landscape of dunes, rendered in warm pastel tones, evoking a sense of serenity and simplistic beauty. The abstract composition creates a calming visual experience.",
+    "description_ja": "このミニマルな壁紙には、暖色系のパステルカラーで表現された太陽と砂丘の風景が描かれており、穏やかさとシンプルな美しさを感じさせる。抽象的な構成により、心を落ち着かせるような視覚的な体験を提供します。",
+    "prompt": "[Colab Stable Diffusion] A minimalist abstract geometric composition of sunbeams and dunes in warm pastel tones, styled in a Nordic-minimalistic aesthetic. Rendered in a soft, diffused lighting with subtle shadows, the image evokes a serene and calming atmosphere. Highly detailed, cinematic, masterpiece, 8k, 4k, 3840x2160, 8K, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6904839",
+    "filename": "wallpaper_1793353345.jpg",
+    "date": "2026-10-30 09:43:06",
+    "timestamp": 1793353345,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793320808",
     "category": "anime",
     "category_name_en": "Anime",
