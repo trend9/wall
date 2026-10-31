@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793420790",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon City Train Ride",
+    "title_ja": "ネオン都市の列車旅",
+    "description_en": "Witness the exhilarating speed of a futuristic train tearing through a vibrant cyberpunk city canyon illuminated by neon. This stunning artwork captures the gritty, electrifying energy of the cyberpunk aesthetic.",
+    "description_ja": "鮮やかなネオンライトで彩られたサイバーパンク都市の谷間を疾走する未来的な列車を眺める。この作品は、 grit とエレクトリックなエネルギーのサイバーパンクの雰囲気を表現した、魅力的なアートワークです。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and realistic render of a futuristic train speeding through a neon-lit cyberpunk city canyon.  Rendered in the style of cyberpunk 2077 and Blade Runner, with volumetric fog and dramatic contrast. Masterpiece, 8k, highly detailed, cinematic lighting, neon lights, gritty textures, Unreal Engine 5 render., masterpiece, highly detailed, atmosphere: cinematic lighting, seed: 4943154",
+    "filename": "wallpaper_1793420790.jpg",
+    "date": "2026-10-31 04:27:42",
+    "timestamp": 1793420790,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793397680",
     "category": "abstract",
     "category_name_en": "Abstract",
