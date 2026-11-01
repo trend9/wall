@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793561124",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Metropolis Speeding Train",
+    "title_ja": "ネオン都市の列車",
+    "description_en": "Witness the exhilarating speed of a futuristic train traversing a vibrant cyberpunk city in this captivating image. Experience the electrifying neon glow and the imposing urban backdrop.",
+    "description_ja": "鮮やかなネオンが輝き、未来都市の列車が疾走する様子を、この画像で見学してください。魅力的な都市の風景と、電気の活気を象徴する列車の速さは、見事な作品に仕上がっています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k masterpiece of a futuristic train speeding through a neon-lit cyberpunk city canyon, rendered with volumetric fog and realistic textures, inspired by Cyberpunk 2077 and Blade Runner, using Unreal Engine 5, with dramatic contrast and realistic lighting. 8k resolution, hyperdetailed, masterpiece., masterpiece, highly detailed, atmosphere: neon reflections, seed: 2485116",
+    "filename": "wallpaper_1793561124.jpg",
+    "date": "2026-11-01 19:26:04",
+    "timestamp": 1793561124,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793537286",
     "category": "abstract",
     "category_name_en": "Abstract",
