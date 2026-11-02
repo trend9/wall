@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793578904",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Epic Sunset Over Ocean",
+    "title_ja": "壮大な夕日",
+    "description_en": "Witness the breathtaking beauty of an epic sunset over a calm ocean, painting the sky with vibrant hues of pink, purple, and orange. This wallpaper captures the awe-inspiring power of nature's artistry.",
+    "description_ja": "穏やかな海に沈む壮大な夕日。鮮やかなピンク、紫、オレンジ色の雲が美しい空を描き、この壁紙は自然の力強さを魅せる、感動的な風景を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k Stable Diffusion artwork of an epic sunset over a calm ocean. Vibrant pink, purple, and orange clouds dominate the sky, casting a mesmerizing glow on the serene water. Soft lighting with subtle dramatic shadows and a dreamy atmosphere. National Geographic style, masterpiece, 8k, highly detailed, cinematic, award-winning, masterpiece, highly detailed, atmosphere: neon reflections, seed: 4834291",
+    "filename": "wallpaper_1793578904.jpg",
+    "date": "2026-11-02 00:22:55",
+    "timestamp": 1793578904,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793561124",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
