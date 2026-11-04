@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793754382",
+    "category": "nature",
+    "category_name_en": "Nature",
+    "category_name_ja": "自然",
+    "title_en": "Cherry Blossom Path, Spring Breeze",
+    "title_ja": "桜の歩いた道、春の風",
+    "description_en": "Enjoy the serene beauty of a cherry blossom path bathed in spring sunshine. This ethereal scene captures the delicate dance of petals in the gentle breeze. ",
+    "description_ja": "春の光に浮かぶ桜の道、春の風の中で舞い散る花びらが優しく漂う穏やかな風景を堪能してください。",
+    "prompt": "[Colab Stable Diffusion] A detailed and ethereal 8k artwork of a serene cherry blossom path bathed in golden sunlight, with petals gently floating in the spring breeze. Cinematic depth of field, magical realism style, soft focus, dream-like atmosphere, masterpiece, highly detailed, 8k, cinematic lighting, vibrant colors, soft focus, ethereal atmosphere, masterpiece, highly detailed, atmosphere: neon reflections, seed: 3137127",
+    "filename": "wallpaper_1793754382.jpg",
+    "date": "2026-11-04 01:07:32",
+    "timestamp": 1793754382,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793739148",
     "category": "cyberpunk",
     "category_name_en": "Cyberpunk",
