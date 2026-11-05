@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793907540",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Metropolis",
+    "title_ja": "未来都市",
+    "description_en": "This captivating wallpaper depicts a sprawling cyberpunk metropolis bathed in the neon glow of dusk. Experience the soaring skyscrapers and flying cars, a testament to the future's relentless pace.",
+    "description_ja": "この壁紙は、夕暮れの幻想的な雰囲気を漂わせる、広大なサイバーパンク都市の風景を表現しています。高い建物が立ち並び、空中で飛ぶ車によって都市は活気に満ちています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and intricate Stable Diffusion prompt depicting a futuristic cyberpunk metropolis at dusk, characterized by glowing neon signs and flying cars. Use a synthwave aesthetic with rich, vibrant colors, cinematic lighting, and wet reflections to enhance the atmosphere. The resolution should be 8k with a masterpiece quality. Include keywords such as: cyberpunk, futuristic, neon, flying cars, skyscrapers, wet reflections, high-quality, cinematic lighting, 8k, masterpiece., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6346750",
+    "filename": "wallpaper_1793907540.jpg",
+    "date": "2026-11-05 19:39:59",
+    "timestamp": 1793907540,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793874499",
     "category": "abstract",
     "category_name_en": "Abstract",
