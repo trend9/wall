@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1793991660",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Single Green Leaf, Water Droplet",
+    "title_ja": "緑の葉に水滴",
+    "description_en": "Capture the essence of nature with this minimalist desktop wallpaper.  A single green leaf rests against a clean, soft beige background, accented by a single water droplet. This serene scene evokes a sense of calmness and tranquility.",
+    "description_ja": "自然の美しさを表現した、ミニマリストデスクトップ壁紙。  一枚の緑の葉が、清潔で柔らかなベージュの背景に、そして単一の水滴で、静寂な風景を表現しています。この穏やかな風景は、心安らぎと調和を象徴しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k art piece, masterpiece, 8k resolution, 4K,  stable diffusion, clean minimalist design, flat colors, subtle textures, elegant composition, modern aesthetic, zen, single green leaf, water droplet, clean beige background, soft lighting, atmospheric, peaceful, tranquil, nature, serenity, art, wallpaper., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 2982588",
+    "filename": "wallpaper_1793991660.jpg",
+    "date": "2026-11-06 19:02:13",
+    "timestamp": 1793991660,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1793960956",
     "category": "anime",
     "category_name_en": "Anime",
