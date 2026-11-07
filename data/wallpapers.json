@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794072730",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Hacker Den",
+    "title_ja": "サイバーパンクハッカーの隠れ家",
+    "description_en": "Explore a high-tech hacker den with multiple glowing holographic screens, reflecting neon light, and shrouded in a cyberpunk atmosphere. Dive into the world of digital rebellion and hidden secrets.",
+    "description_ja": "サイバーパンクのハッカーの隠れ家。複数の光るホログラフィック画面で、ネオンが輝く夜。デジタルの反逆と秘密の空間を堪能してください。",
+    "prompt": "[Colab Stable Diffusion] Masterpiece, 8k, highly detailed, cinematic, a high-tech cyberpunk hacker den with multiple glowing holographic screens displaying complex data streams, reflections in wet surfaces, and neon glow. Futuristic synthwave aesthetic, dark and atmospheric with moody lighting. Octane render., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6542667",
+    "filename": "wallpaper_1794072730.jpg",
+    "date": "2026-11-07 17:33:05",
+    "timestamp": 1794072730,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794044519",
     "category": "abstract",
     "category_name_en": "Abstract",
