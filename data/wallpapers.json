@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794113315",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Serenity",
+    "title_ja": "魔法の星空の静かな田舎",
+    "description_en": "This artwork depicts a magical starry night sky over a peaceful countryside hill with a single glowing tree. The ethereal atmosphere and vivid color grading create a serene and captivating scene.",
+    "description_ja": "静かな田舎の丘の上にある魔法の星空の下に、一本だけ光る木が立つ風景を描いた作品です。この絵は、エtherealな雰囲気と鮮やかな色調で静寂と魅力的な風景を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a magical starry night sky over a peaceful countryside hill with a single glowing tree. Makoto Shinkai style art with gorgeous sky details, lens flare, vivid color grading, ethereal atmosphere, wind blowing, and high quality digital art. Masterpiece, 8k, highly detailed, cinematic, unreal engine 5, vibrant colors, beautiful light, soft focus, bokeh., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 9501114",
+    "filename": "wallpaper_1794113315.jpg",
+    "date": "2026-11-08 04:49:32",
+    "timestamp": 1794113315,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794087146",
     "category": "nature",
     "category_name_en": "Nature",
