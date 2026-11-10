@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794351404",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Dreams",
+    "title_ja": "宇宙星雲の夢",
+    "description_en": "Explore the mesmerizing beauty of a vibrant cosmic nebula, swirling with violet, blue, and gold dust clouds. Witness the birth of stars in this breathtakingly detailed space artwork.",
+    "description_ja": "壮大な宇宙星雲の夢を巡り、紫、青、金色の宇宙塵雲が煌めく。壮大な宇宙作品で、星が生まれる様子を堪能しましょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k image of a cosmic nebula with vibrant violet, blue, and gold dust clouds forming stars. Inspired by the Hubble telescope style, the artwork features epic space exploration art with epic lighting and a dark, cosmic atmosphere. The image should be a masterpiece with high-quality details and realistic, photorealistic elements. Tags: masterpiece, 8k, highly detailed, cinematic, photorealistic, epic, space exploration art, nebula, star formation, Hubble telescope style, dark, cosmic, awe-inspiring., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3172312",
+    "filename": "wallpaper_1794351404.jpg",
+    "date": "2026-11-10 22:57:59",
+    "timestamp": 1794351404,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794329445",
     "category": "minimalist",
     "category_name_en": "Minimalist",
