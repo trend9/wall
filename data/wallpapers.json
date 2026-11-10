@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794329445",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Solitary Pier to White Lake",
+    "title_ja": "一連の桟橋と白い湖",
+    "description_en": "This minimalist wallpaper features a solitary wooden pier extending into a vast, calm, misty white lake.  The serene and simplistic beauty of the scene evokes a sense of peace and reflection.",
+    "description_ja": "このミニマルな壁紙には、広大な穏やかな霧深い白い湖へと続く一連の木製の桟橋が登場します。静けさとシンプルさの美しさは、穏やかな気持ちと思考に導きます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a solitary wooden pier extending into a vast, calm, misty white lake. Rendered in a Nordic style minimalism, with muted pastel color palette, soft shadows, and a serene atmosphere.  Light is soft and diffused with a cinematic quality.  Tag as masterpiece, 8k, highly detailed, cinematic, artstation., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5400465",
+    "filename": "wallpaper_1794329445.jpg",
+    "date": "2026-11-10 16:51:41",
+    "timestamp": 1794329445,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794291206",
     "category": "anime",
     "category_name_en": "Anime",
