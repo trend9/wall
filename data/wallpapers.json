@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794525503",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Horizon on a Barren Moon",
+    "title_ja": " barren 月の平野に、遠方の輪を持つ系外惑星が昇る",
+    "description_en": "Explore the desolate landscapes of a distant moon as a ringed exoplanet rises over the horizon. This epic space scene evokes the vastness and mystery of the universe.",
+    "description_ja": "荒れた月面の平野に、遠くの輪を持つ系外惑星が地平線上に昇る様子を捉えた。宇宙の広大さと謎が詰まった壮大な宇宙シーンを堪能しよう",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, 8k, cinematic rendering, epic space exploration art, inspired by Hubble telescope, photorealistic, A distant ringed exoplanet rises over the barren alien moon landscape,  horizon at the edge of the image, epic space scene, vastness of space, mysterious and awe-inspiring, with dramatic lighting, master piece, 8k, highly detailed, cinematic, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5392999",
+    "filename": "wallpaper_1794525503.jpg",
+    "date": "2026-11-12 23:19:20",
+    "timestamp": 1794525503,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794495847",
     "category": "minimalist",
     "category_name_en": "Minimalist",
