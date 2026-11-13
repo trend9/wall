@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794547522",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Retro Wave Digital Grid, Organic Neon Glow",
+    "title_ja": "有機的なネオンシルクのような波が浮かぶ、レトロウェーブ調のデジタルグリッド",
+    "description_en": "This digital wallpaper features a retro-wave grid with organic neon waves swirling in a vibrant palette. The waves create a mesmerizing, abstract flow that adds a touch of dynamism and energy to any workspace.",
+    "description_ja": "このデジタル壁紙は、レトロウェーブのグリッドに、有機的なネオンシルクのような波が浮かぶ、鮮やかなカラーパレットで表現されています。波が抽象的な流れを作り出すことで、作業スペースに活力を与えます。",
+    "prompt": "[Colab Stable Diffusion] A masterpiece, 8k, highly detailed, cinematic, 3D digital render of a retro-wave digital grid with organic neon silk-like waves floating above it. The grid should be vibrant and full of motion, with an ethereal atmosphere. Use high-quality lighting and a soft, dreamy color palette to create an intriguing and captivating wallpaper. , masterpiece, highly detailed, atmosphere: neon reflections, seed: 5096397",
+    "filename": "wallpaper_1794547522.jpg",
+    "date": "2026-11-13 05:26:00",
+    "timestamp": 1794547522,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794525503",
     "category": "space",
     "category_name_en": "Space",
