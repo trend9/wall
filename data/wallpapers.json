@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794633341",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Starry Night Serenity",
+    "title_ja": "星空の静寂",
+    "description_en": "Witness the magic of a peaceful countryside hill bathed in a starry night sky, illuminated by a single glowing tree. This illustration evokes a sense of nostalgia and beauty.",
+    "description_ja": "静かな田舎の丘の上、星空の下に、一本の光る木が立つ風景。このイラストは、懐かしさと美しさを感じさせる。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image of a magical starry night sky over a peaceful countryside hill, featuring a single glowing tree with a hand-drawn anime style, studio ghibli aesthetic, warm colors, nostalgic and beautiful lighting. Masterpiece, 8k, highly detailed, cinematic, illustration, artstation, beautiful, nostalgic, peaceful, vibrant, dreamlike, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5276689",
+    "filename": "wallpaper_1794633341.jpg",
+    "date": "2026-11-14 05:16:37",
+    "timestamp": 1794633341,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794604541",
     "category": "nature",
     "category_name_en": "Nature",
