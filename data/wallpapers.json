@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794703797",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaotic Beauty: Colorful Smoke Explosion",
+    "title_ja": "爆発的な美しさ：カラフルな煙",
+    "description_en": "Experience the captivating chaos of vibrant smoke waves swirling into an explosion of color, rendered in a breathtakingly detailed, artistic style. This piece captures the beauty of fleeting moments and untamed energy.",
+    "description_ja": "鮮やかな煙が渦巻き、爆発する色彩の美しさを体感。この作品は、芸術的なスタイルで、一瞬の奇跡と無制御のエネルギーを捉えようとしている。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic 8k image of a chaotic explosion of colorful smoke waves, swirling into a beautiful kaleidoscope of geometric crystal shards on a textured canvas. The artwork should be rendered in a fine art aesthetic, with fluid movement, warm lighting, and a sense of ethereal beauty. Masterpiece, highly detailed, 8k, cinematic, texture, vibrant color, emotional depth., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 6489946",
+    "filename": "wallpaper_1794703797.jpg",
+    "date": "2026-11-15 00:50:52",
+    "timestamp": 1794703797,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794685633",
     "category": "space",
     "category_name_en": "Space",
