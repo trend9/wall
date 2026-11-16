@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1794865471",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Nebula Stars",
+    "title_ja": "宇宙星雲",
+    "description_en": "This breathtaking wallpaper showcases a vibrant cosmic nebula with swirling violet, blue, and gold dust clouds, forming stars. Explore the vastness and wonder of space with this stunningly detailed artwork.",
+    "description_ja": "この壮大な壁紙は、紫、青、 goldの宇宙塵の雲で構成される、鮮やかな宇宙星雲を表現しています。この壁紙は、広大な宇宙の神秘と美しさの神秘的な表現を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k image of a stunning cosmic nebula with vibrant violet, blue, and gold dust clouds. It features a swirling and dynamic composition, reminiscent of the Hubble Telescope, with intricate detail. The nebula glows with a realistic, photorealistic lighting effect, showcasing a majestic, epic space exploration scene. Tags: masterpiece, 8k, highly detailed, cinematic, photorealistic, nebula, space, cosmic, epic, space exploration, Hubble, detailed, realistic, vibrant, dynamic, swirling., masterpiece, highly detailed, atmosphere: neon reflections, seed: 3859234",
+    "filename": "wallpaper_1794865471.jpg",
+    "date": "2026-11-16 21:45:17",
+    "timestamp": 1794865471,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1794825900",
     "category": "minimalist",
     "category_name_en": "Minimalist",
