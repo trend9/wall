@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795086862",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaos and Beauty in Color",
+    "title_ja": "爆発の美しさ",
+    "description_en": "Witness a chaotic yet beautiful explosion of colorful smoke waves and geometric crystal shards. This abstract piece evokes a sense of wonder and wonderment.",
+    "description_ja": "カラフルな煙の波と幾何学的な結晶の破片が、混沌と美しい爆発を見せてくれます。この抽象画は、驚嘆と感動を誘います。",
+    "prompt": "[Colab Stable Diffusion] A stunning, highly detailed, 8k, cinematic 3D render of a chaotic explosion of colorful smoke waves and geometric crystal shards on a textured canvas.  Art style is fine art, with organic shapes and fluid movement,  lit with dramatic chiaroscuro, creating a masterpiece of visual art. Tags: masterpiece, 8k, highly detailed, cinematic, art, painting, abstract, masterpiece, highly detailed, atmosphere: dramatic glow, seed: 587408",
+    "filename": "wallpaper_1795086862.jpg",
+    "date": "2026-11-19 11:15:06",
+    "timestamp": 1795086862,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795054832",
     "category": "space",
     "category_name_en": "Space",
