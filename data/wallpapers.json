@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795172396",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Cozy Anime Study Room, Summer Sky",
+    "title_ja": "夏空の書斎",
+    "description_en": "Experience a peaceful, cozy anime-style study room with a stunning view of a summer sky filled with fluffy white clouds.  The warm, inviting atmosphere inspires relaxation and creativity.",
+    "description_ja": "夏の空を眺める、心地よいアニメ風の書斎を体験しましょう。ふわふわの白い雲が浮かぶ、美しい景色を眺めながら、穏やかな雰囲気でリラックスしたり、創造的な活動に集中しましょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k masterpiece Stable Diffusion image of a cozy anime-style study room with a window overlooking a beautiful summer sky filled with fluffy white clouds. The scene features gorgeous sky details with soft lens flare, vivid color grading, ethereal atmosphere, and a hint of wind blowing.  The artwork is inspired by Makoto Shinkai style, with high-quality digital art., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 243845",
+    "filename": "wallpaper_1795172396.jpg",
+    "date": "2026-11-20 11:00:35",
+    "timestamp": 1795172396,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795140233",
     "category": "nature",
     "category_name_en": "Nature",
