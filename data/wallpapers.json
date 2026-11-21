@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795286845",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Cyberpunk Metropolis at Dusk",
+    "title_ja": "夜のサイバーパンク都市",
+    "description_en": "Witness a sprawling futuristic metropolis bathed in the hues of dusk, where flying cars zip through towering skyscrapers. This AI-generated wallpaper captures the raw energy and gritty beauty of cyberpunk.",
+    "description_ja": "未来都市の夜。高層ビルが夕暮れ時に空を駆け巡る空飛ぶ車たちを映し出す。この壁紙は、サイバーパンクのエネルギーと gritty Beauty を表現したものです。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece in the style of Cyberpunk 2077, Blade Runner, with realistic textures and volumetric fog. The scene depicts a massive futuristic metropolis with flying cars buzzing between skyscrapers against a dusky sunset sky. The lighting is dramatic, showcasing the neon glow of city life and the volumetric fog for a gritty atmosphere. Tags: cityscape, cyberpunk, futuristic, neon lights, dramatic lighting, volumetric fog, master piece, 8k, cinematic, Unreal Engine 5 render., masterpiece, highly detailed, atmosphere: neon reflections, seed: 2164695",
+    "filename": "wallpaper_1795286845.jpg",
+    "date": "2026-11-21 18:48:10",
+    "timestamp": 1795286845,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795257821",
     "category": "abstract",
     "category_name_en": "Abstract",
