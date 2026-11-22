@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795374597",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Tranquil Green Leaf",
+    "title_ja": "静かな緑の葉",
+    "description_en": "This minimalist wallpaper features a single green leaf adorned with a single water droplet on a clean, soft beige background. The serene atmosphere evokes tranquility and peace.",
+    "description_ja": "このミニマリストの壁紙には、白い背景に1枚の緑の葉と1滴の水滴が描かれており、静寂と穏やかさを表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece, cinematic, of a single green leaf with a single water droplet on a clean, soft beige background, featuring a subtle texture and elegant composition. Soft lighting, emphasizing the leaf and water droplet. Minimalist design, flat colors.  Clean and serene atmosphere, zen aesthetic., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 5956593",
+    "filename": "wallpaper_1795374597.jpg",
+    "date": "2026-11-22 19:11:05",
+    "timestamp": 1795374597,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795344531",
     "category": "anime",
     "category_name_en": "Anime",
