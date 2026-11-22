@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795344531",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Neon Dreamscapes",
+    "title_ja": "未来都市の光",
+    "description_en": "Explore a futuristic anime city, vibrant with green life and cutting-edge technology, bathed in warm light and captured in a hand-drawn anime style. This breathtaking wallpaper promises to immerse you in a nostalgic world.",
+    "description_ja": "未来都市の光が、緑豊かな風景と最新のテクノロジーで溢れるアニメの風景。暖色の光で描かれ、手描きのアニメ調で表現された、美しい壁紙。懐かしさを感じさせる世界へ旅立つでしょう。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, cinematic, 8k Stable Diffusion artwork inspired by Studio Ghibli, showcasing a futuristic anime city with clean modern streets, lush green foliage, and a bustling monorail system. The scene utilizes warm and nostalgic lighting, capturing a dream-like atmosphere. Rendered in a hand-drawn anime style with intricate details, this wallpaper is a masterpiece of art and design., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 3545712",
+    "filename": "wallpaper_1795344531.jpg",
+    "date": "2026-11-22 10:49:33",
+    "timestamp": 1795344531,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795309278",
     "category": "nature",
     "category_name_en": "Nature",
