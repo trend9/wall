@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795434966",
+    "category": "abstract",
+    "category_name_en": "Abstract",
+    "category_name_ja": "抽象画",
+    "title_en": "Chaos and Beauty",
+    "title_ja": "爆発の美しさ",
+    "description_en": "This wallpaper captures a chaotic yet mesmerizing explosion of colorful smoke waves and geometric crystal shards, evoking a sense of wonder and awe. The artwork blends abstract elements with fine art aesthetics, resulting in a visual masterpiece.",
+    "description_ja": "この壁紙は、カラフルな煙波と幾何学的な結晶の破片が混沌ながらも美しい爆発を表現しています。このアートは抽象的な要素と高画質の芸術的なスタイルを組み合わせた、視覚的な傑作となっています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed and cinematic 8k wallpaper of a chaotic explosion of colorful smoke waves and geometric crystal shards. Use a textured canvas, rich lighting with soft and vibrant hues, and a mesmerizingly fluid movement. Subject should be a dynamic interplay of vibrant colors, sharp geometric shapes, and organic forms. Use the art style of fine art aesthetics and premium graphic design. Masterpiece, highly detailed, 8k, cinematic, wallpaper, 4k., masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8473554",
+    "filename": "wallpaper_1795434966.jpg",
+    "date": "2026-11-23 11:57:05",
+    "timestamp": 1795434966,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795397254",
     "category": "space",
     "category_name_en": "Space",
