@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795476603",
+    "category": "cyberpunk",
+    "category_name_en": "Cyberpunk",
+    "category_name_ja": "サイバーパンク",
+    "title_en": "Neon Cityscape Dusk",
+    "title_ja": "夜暮れの超高層ビル街",
+    "description_en": "Immerse yourself in the vibrant chaos of a futuristic metropolis at dusk, where flying cars carve their paths through towering skyscrapers, illuminated by neon signs and bathed in cinematic lighting.",
+    "description_ja": "未来都市の夜明けを彩る、超高層ビル街の幻想的な風景を堪能してください。空中で飛ぶ車が、煌めくネオンと、映画のような照明で輝きます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed Stable Diffusion image, masterpiece, 8k, highly detailed, cinematic, 8k resolution, stable diffusion, art by greg rutkowski, cyberpunk, synthwave aesthetic, neon glow, wet reflections, futuristic, urban landscape, sky full of stars, dramatic lighting, low angles, bustling metropolis, flying cars, skyscrapers, neon signs, rain, dark, wet reflections, volumetric lighting, dynamic, moody, atmospheric, dreamlike, breathtaking, masterpiece, highly detailed, atmosphere: ethereal soft light, seed: 8357585",
+    "filename": "wallpaper_1795476603.jpg",
+    "date": "2026-11-23 23:30:43",
+    "timestamp": 1795476603,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795434966",
     "category": "abstract",
     "category_name_en": "Abstract",
