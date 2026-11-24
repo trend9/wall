@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795550462",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Magical Starlight Countryside",
+    "title_ja": "魔法の星空の田舎",
+    "description_en": "Experience a peaceful countryside scene bathed in a magical starry night sky, featuring a glowing tree illuminating the landscape.  This artwork embodies nostalgic beauty and wonder.",
+    "description_ja": "静かな田舎の丘の上で、魔法の星空が輝く。光る木の姿が、穏やかな雰囲気を演出しています。この作品は、ノスタルジーと美しさを感じさせます。",
+    "prompt": "[Colab Stable Diffusion] Highly detailed, anime art style, studio ghibli aesthetic, a magical starry night sky over a peaceful countryside hill with a single glowing tree, warm colors, cinematic lighting, master piece, 8k, highly detailed, cinematic, beautiful, dreamlike, masterpiece, highly detailed, atmosphere: neon reflections, seed: 518112",
+    "filename": "wallpaper_1795550462.jpg",
+    "date": "2026-11-24 20:01:44",
+    "timestamp": 1795550462,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795509815",
     "category": "nature",
     "category_name_en": "Nature",
