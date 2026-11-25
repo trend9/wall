@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795625668",
+    "category": "space",
+    "category_name_en": "Space",
+    "category_name_ja": "宇宙",
+    "title_en": "Cosmic Serenity",
+    "title_ja": "宇宙の静寂",
+    "description_en": "This captivating image depicts an astronaut floating peacefully amidst the vastness of space, surrounded by the mesmerizing glow of distant galaxies and colorful dust. A sense of serene peace radiates from this epic and breathtaking cosmic landscape.",
+    "description_ja": "宇宙の広大さに身を委ねる宇宙飛行士の姿。銀河の輝きやカラフルな塵に囲まれ、静寂な空間で漂う様子が描かれています。この壮大な宇宙の風景は、心を落ち着かせる静寂感を表現しています。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k masterpiece, cinematic lighting, Stable Diffusion art, of an astronaut floating peacefully in deep space, surrounded by vibrant, colorful dust and distant galaxies, reminiscent of Hubble telescope photography, with soft, dreamy, cosmic atmosphere, epic scale, and an awe-inspiring sense of vastness., masterpiece, highly detailed, atmosphere: dramatic glow, seed: 555924",
+    "filename": "wallpaper_1795625668.jpg",
+    "date": "2026-11-25 16:55:28",
+    "timestamp": 1795625668,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795579232",
     "category": "minimalist",
     "category_name_en": "Minimalist",
