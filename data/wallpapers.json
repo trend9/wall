@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795805089",
+    "category": "minimalist",
+    "category_name_en": "Minimalist",
+    "category_name_ja": "ミニマリスト",
+    "title_en": "Concrete Shadows, Palm Leaves",
+    "title_ja": "コンクリートの影、ヤシの葉",
+    "description_en": "This minimalist wallpaper captures the elegance of clean concrete walls bathed in the soft shadows of palm leaves cast by the afternoon sun. Find a moment of quiet and zen.",
+    "description_ja": "このミニマリストの壁紙は、午後からの太陽の光によって、 cleanなコンクリート壁にヤシの葉のエレガントな影が映し出しています。静寂と禅の瞬間を見つけることができます。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed 8k masterpiece image of a clean concrete wall, bathed in the soft afternoon sun, casting elegant shadows of palm leaves. The scene is minimalist, with flat colors and subtle textures, and an elegant composition. The atmosphere is serene and peaceful. Use high-quality, cinematic lighting and a clean, modern aesthetic. #masterpiece #8k #highlydetailed #cinematic #minimalism #concrete #shadow #palmleaves #zen #wallpaper, masterpiece, highly detailed, atmosphere: neon reflections, seed: 6972650",
+    "filename": "wallpaper_1795805089.jpg",
+    "date": "2026-11-27 18:46:04",
+    "timestamp": 1795805089,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795762988",
     "category": "anime",
     "category_name_en": "Anime",
