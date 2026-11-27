@@ -1,5 +1,21 @@
 [
   {
+    "id": "wp_1795762988",
+    "category": "anime",
+    "category_name_en": "Anime",
+    "category_name_ja": "アニメ",
+    "title_en": "Summer Study Room in Anime Style",
+    "title_ja": "アニメ風書斎の夏の空",
+    "description_en": "Experience a peaceful study room bathed in the warm glow of summer. This anime-style desktop wallpaper captures the tranquility and serenity of the season with stunning sky details and a dreamy atmosphere.",
+    "description_ja": "夏空の静寂を味わう。アニメ風の書斎で、美しい空とふわふわした白い雲が、穏やかな空間を表現している。",
+    "prompt": "[Colab Stable Diffusion] A highly detailed, 8k, cinematic, masterpiece Stable Diffusion image of a cozy anime-style study room with a window overlooking a summer sky filled with fluffy white clouds. The lighting should be warm and ethereal, with lens flare enhancing the scene's magical feel. The art style should resemble Makoto Shinkai, with gorgeous sky details and a sense of wind blowing through the room. High quality digital art, with vibrant color grading, ethereal atmosphere and a focus on the overall mood of serenity and tranquility., masterpiece, highly detailed, atmosphere: neon reflections, seed: 1406070",
+    "filename": "wallpaper_1795762988.jpg",
+    "date": "2026-11-27 07:03:48",
+    "timestamp": 1795762988,
+    "downloads": 0,
+    "likes": 0
+  },
+  {
     "id": "wp_1795727685",
     "category": "nature",
     "category_name_en": "Nature",
